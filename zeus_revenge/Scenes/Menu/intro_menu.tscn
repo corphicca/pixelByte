@@ -27,3 +27,30 @@ position = Vector2(-6, 1)
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CameraStopper"]
 position = Vector2(576, 359)
 shape = SubResource("WorldBoundaryShape2D_r6bot")
+
+[node name="Button_Manager" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Start" type="Button" parent="Button_Manager"]
+layout_mode = 0
+offset_left = 157.0
+offset_top = 275.0
+offset_right = 475.0
+offset_bottom = 366.0
+
+[node name="Options" type="Button" parent="Button_Manager"]
+layout_mode = 0
+offset_left = 151.0
+offset_top = 400.0
+offset_right = 481.0
+offset_bottom = 505.0
+
+[node name="ExitGame" type="Button" parent="Button_Manager"]
+layout_mode = 0
+offset_left = 151.0
+offset_top = 520.0
+offset_right = 477.0
+offset_bottom = 616.0
