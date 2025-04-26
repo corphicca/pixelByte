@@ -1,2 +1,3 @@
 res://Scenes/Menu/intro_menu.tscn
+res://Scenes/Intro/intro_scene.tscn
 res://Scenes/Menu/scriptcs_menu/intro_menu.gd
