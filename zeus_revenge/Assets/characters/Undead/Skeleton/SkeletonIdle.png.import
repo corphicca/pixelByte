@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://u6lrx3f8363e"
-path="res://.godot/imported/SkeletonIdle.png-b73814de309edf1c7f0515f093a3c1ad.ctex"
+path="res://.godot/imported/SkeletonIdle.png-70fb9794251b2109fcc8ebaa9d1bc90a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Undead/Skeleton/SkeletonIdle.png"
-dest_files=["res://.godot/imported/SkeletonIdle.png-b73814de309edf1c7f0515f093a3c1ad.ctex"]
+source_file="res://Assets/characters/Undead/Skeleton/SkeletonIdle.png"
+dest_files=["res://.godot/imported/SkeletonIdle.png-70fb9794251b2109fcc8ebaa9d1bc90a.ctex"]
 
 [params]
 

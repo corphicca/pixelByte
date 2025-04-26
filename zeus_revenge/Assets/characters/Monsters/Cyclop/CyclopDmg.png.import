@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db21l6pqpvpsw"
-path="res://.godot/imported/CyclopDmg.png-0200c3d99553f5df482484aa8e8c14b9.ctex"
+path="res://.godot/imported/CyclopDmg.png-45039655c76ca644f09be3aa49bb5b69.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Cyclop/CyclopDmg.png"
-dest_files=["res://.godot/imported/CyclopDmg.png-0200c3d99553f5df482484aa8e8c14b9.ctex"]
+source_file="res://Assets/characters/Monsters/Cyclop/CyclopDmg.png"
+dest_files=["res://.godot/imported/CyclopDmg.png-45039655c76ca644f09be3aa49bb5b69.ctex"]
 
 [params]
 

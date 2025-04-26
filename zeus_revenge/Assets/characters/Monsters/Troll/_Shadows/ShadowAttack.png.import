@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c57funqx0sdbw"
-path="res://.godot/imported/ShadowAttack.png-b5dfbc4f2618f71680c0486cb19e86ba.ctex"
+path="res://.godot/imported/ShadowAttack.png-99ec8541df75297491f5bc17797c967d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Troll/_Shadows/ShadowAttack.png"
-dest_files=["res://.godot/imported/ShadowAttack.png-b5dfbc4f2618f71680c0486cb19e86ba.ctex"]
+source_file="res://Assets/characters/Monsters/Troll/_Shadows/ShadowAttack.png"
+dest_files=["res://.godot/imported/ShadowAttack.png-99ec8541df75297491f5bc17797c967d.ctex"]
 
 [params]
 

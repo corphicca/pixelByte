@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3imqk1uu8lhw"
-path="res://.godot/imported/ShadowDwarfChargedAttack.png-b260eaac93cbf9b4d019cd6ed29cfc13.ctex"
+path="res://.godot/imported/ShadowDwarfChargedAttack.png-97f1bd23391db50de2e7ac37d8195b6f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/_Shadows/ShadowDwarfChargedAttack.png"
-dest_files=["res://.godot/imported/ShadowDwarfChargedAttack.png-b260eaac93cbf9b4d019cd6ed29cfc13.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/_Shadows/ShadowDwarfChargedAttack.png"
+dest_files=["res://.godot/imported/ShadowDwarfChargedAttack.png-97f1bd23391db50de2e7ac37d8195b6f.ctex"]
 
 [params]
 

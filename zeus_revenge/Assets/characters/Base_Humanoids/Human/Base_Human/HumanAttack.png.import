@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdilm84pjykaf"
-path="res://.godot/imported/HumanAttack.png-2ae30b2c354834986712b9f9148703de.ctex"
+path="res://.godot/imported/HumanAttack.png-0b261e4b2270d7396107d01b87b087d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Human/Base_Human/HumanAttack.png"
-dest_files=["res://.godot/imported/HumanAttack.png-2ae30b2c354834986712b9f9148703de.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Human/Base_Human/HumanAttack.png"
+dest_files=["res://.godot/imported/HumanAttack.png-0b261e4b2270d7396107d01b87b087d8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy2l32p8p4y48"
-path="res://.godot/imported/WargWalk.png-cb21f652500cf0a5986bfc46f66122b5.ctex"
+path="res://.godot/imported/WargWalk.png-cf2b6f6ceedba47410f1cc0753a9726e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Beasts/Warg/WargWalk.png"
-dest_files=["res://.godot/imported/WargWalk.png-cb21f652500cf0a5986bfc46f66122b5.ctex"]
+source_file="res://Assets/characters/Beasts/Warg/WargWalk.png"
+dest_files=["res://.godot/imported/WargWalk.png-cf2b6f6ceedba47410f1cc0753a9726e.ctex"]
 
 [params]
 

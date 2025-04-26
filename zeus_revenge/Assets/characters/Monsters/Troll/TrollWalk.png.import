@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3v7mnwrnrqi2"
-path="res://.godot/imported/TrollWalk.png-efb54c10726f4cadcb6a9b36076c84b3.ctex"
+path="res://.godot/imported/TrollWalk.png-6d1ed062ec6362703659caa0b00fa8ae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Troll/TrollWalk.png"
-dest_files=["res://.godot/imported/TrollWalk.png-efb54c10726f4cadcb6a9b36076c84b3.ctex"]
+source_file="res://Assets/characters/Monsters/Troll/TrollWalk.png"
+dest_files=["res://.godot/imported/TrollWalk.png-6d1ed062ec6362703659caa0b00fa8ae.ctex"]
 
 [params]
 

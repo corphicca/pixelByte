@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f7g8sexfl6kv"
-path="res://.godot/imported/YellowBearSpinDie.png-699f68e2da9820b29e013c4a4a721559.ctex"
+path="res://.godot/imported/YellowBearSpinDie.png-0a0dd9e6bd365bf8b9b07ae91fe02150.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/YellowBearSpinDie.png"
-dest_files=["res://.godot/imported/YellowBearSpinDie.png-699f68e2da9820b29e013c4a4a721559.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/YellowBearSpinDie.png"
+dest_files=["res://.godot/imported/YellowBearSpinDie.png-0a0dd9e6bd365bf8b9b07ae91fe02150.ctex"]
 
 [params]
 

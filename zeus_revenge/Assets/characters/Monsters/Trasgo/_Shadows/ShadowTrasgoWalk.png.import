@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bete0au0gbhyt"
-path="res://.godot/imported/ShadowTrasgoWalk.png-8c99bc2c72b079e2e88306760bdffd72.ctex"
+path="res://.godot/imported/ShadowTrasgoWalk.png-32a8b07bb138cf4f8d36531175b1c145.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Trasgo/_Shadows/ShadowTrasgoWalk.png"
-dest_files=["res://.godot/imported/ShadowTrasgoWalk.png-8c99bc2c72b079e2e88306760bdffd72.ctex"]
+source_file="res://Assets/characters/Monsters/Trasgo/_Shadows/ShadowTrasgoWalk.png"
+dest_files=["res://.godot/imported/ShadowTrasgoWalk.png-32a8b07bb138cf4f8d36531175b1c145.ctex"]
 
 [params]
 

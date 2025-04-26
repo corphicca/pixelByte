@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ekx3lw1fb0tb"
-path="res://.godot/imported/HumanSpinDie.png-d30b1afe815d215e3f16973835f746b4.ctex"
+path="res://.godot/imported/HumanSpinDie.png-5a1ab9a4b2cb2f542c17ea5b13f7dbd7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Human/Base_Human/HumanSpinDie.png"
-dest_files=["res://.godot/imported/HumanSpinDie.png-d30b1afe815d215e3f16973835f746b4.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Human/Base_Human/HumanSpinDie.png"
+dest_files=["res://.godot/imported/HumanSpinDie.png-5a1ab9a4b2cb2f542c17ea5b13f7dbd7.ctex"]
 
 [params]
 

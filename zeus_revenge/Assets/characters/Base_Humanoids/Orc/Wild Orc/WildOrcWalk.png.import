@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wjpe5riujnlk"
-path="res://.godot/imported/WildOrcWalk.png-4b586370d1220ad8dba2802d578172be.ctex"
+path="res://.godot/imported/WildOrcWalk.png-d2eecb82d1c001ca538f955065aa9a19.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Orc/Wild Orc/WildOrcWalk.png"
-dest_files=["res://.godot/imported/WildOrcWalk.png-4b586370d1220ad8dba2802d578172be.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Orc/Wild Orc/WildOrcWalk.png"
+dest_files=["res://.godot/imported/WildOrcWalk.png-d2eecb82d1c001ca538f955065aa9a19.ctex"]
 
 [params]
 

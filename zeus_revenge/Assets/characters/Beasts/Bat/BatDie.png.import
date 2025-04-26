@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qxgev0ke3hf5"
-path="res://.godot/imported/BatDie.png-6cb98db9ded21dd4dc2bcfc64b9db9af.ctex"
+path="res://.godot/imported/BatDie.png-eb3fa5b015e8d26615e598c9ca5d0cf8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Beasts/Bat/BatDie.png"
-dest_files=["res://.godot/imported/BatDie.png-6cb98db9ded21dd4dc2bcfc64b9db9af.ctex"]
+source_file="res://Assets/characters/Beasts/Bat/BatDie.png"
+dest_files=["res://.godot/imported/BatDie.png-eb3fa5b015e8d26615e598c9ca5d0cf8.ctex"]
 
 [params]
 

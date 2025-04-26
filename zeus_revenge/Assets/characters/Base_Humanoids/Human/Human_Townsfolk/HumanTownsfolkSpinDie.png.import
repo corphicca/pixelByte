@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://be8l566bipm3j"
-path="res://.godot/imported/HumanTownsfolkSpinDie.png-825d87dbfedfce55db3073542983fde1.ctex"
+path="res://.godot/imported/HumanTownsfolkSpinDie.png-38abf03d11a522b306c554241064d434.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Human/Human_Townsfolk/HumanTownsfolkSpinDie.png"
-dest_files=["res://.godot/imported/HumanTownsfolkSpinDie.png-825d87dbfedfce55db3073542983fde1.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Human/Human_Townsfolk/HumanTownsfolkSpinDie.png"
+dest_files=["res://.godot/imported/HumanTownsfolkSpinDie.png-38abf03d11a522b306c554241064d434.ctex"]
 
 [params]
 

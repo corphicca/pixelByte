@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwtldxckxgjhu"
-path="res://.godot/imported/ShadowBlueMotherSlimeDmg.png-be3ee09337363ef067c5e82043732d87.ctex"
+path="res://.godot/imported/ShadowBlueMotherSlimeDmg.png-48e7e11aa13101ee6ffcf9d3ac2153bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Slimes/Blue_Mother_Slime/_Shadows/ShadowBlueMotherSlimeDmg.png"
-dest_files=["res://.godot/imported/ShadowBlueMotherSlimeDmg.png-be3ee09337363ef067c5e82043732d87.ctex"]
+source_file="res://Assets/characters/Slimes/Blue_Mother_Slime/_Shadows/ShadowBlueMotherSlimeDmg.png"
+dest_files=["res://.godot/imported/ShadowBlueMotherSlimeDmg.png-48e7e11aa13101ee6ffcf9d3ac2153bb.ctex"]
 
 [params]
 

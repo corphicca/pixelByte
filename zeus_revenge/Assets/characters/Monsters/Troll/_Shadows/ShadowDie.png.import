@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dow4fo0fudney"
-path="res://.godot/imported/ShadowDie.png-f2ac8d4068bfae9daba752da984588f0.ctex"
+path="res://.godot/imported/ShadowDie.png-7f79a494f83145d68ef4d38bc0eb1930.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Troll/_Shadows/ShadowDie.png"
-dest_files=["res://.godot/imported/ShadowDie.png-f2ac8d4068bfae9daba752da984588f0.ctex"]
+source_file="res://Assets/characters/Monsters/Troll/_Shadows/ShadowDie.png"
+dest_files=["res://.godot/imported/ShadowDie.png-7f79a494f83145d68ef4d38bc0eb1930.ctex"]
 
 [params]
 

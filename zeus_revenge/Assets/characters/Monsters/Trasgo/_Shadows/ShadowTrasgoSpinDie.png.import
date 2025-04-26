@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdhqvg583f3qm"
-path="res://.godot/imported/ShadowTrasgoSpinDie.png-85527e81d4949c50c660f337ab875335.ctex"
+path="res://.godot/imported/ShadowTrasgoSpinDie.png-8917f48df9c3686e26fe0bf1a35c693f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Trasgo/_Shadows/ShadowTrasgoSpinDie.png"
-dest_files=["res://.godot/imported/ShadowTrasgoSpinDie.png-85527e81d4949c50c660f337ab875335.ctex"]
+source_file="res://Assets/characters/Monsters/Trasgo/_Shadows/ShadowTrasgoSpinDie.png"
+dest_files=["res://.godot/imported/ShadowTrasgoSpinDie.png-8917f48df9c3686e26fe0bf1a35c693f.ctex"]
 
 [params]
 

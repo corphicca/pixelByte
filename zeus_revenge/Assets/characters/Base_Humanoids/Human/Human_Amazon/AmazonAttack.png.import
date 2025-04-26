@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1a2b0mgjarmp"
-path="res://.godot/imported/AmazonAttack.png-d778f94ed0caffd55354bf017b6430fa.ctex"
+path="res://.godot/imported/AmazonAttack.png-2dd30dea9166c346c328aaf78c836beb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Human/Human_Amazon/AmazonAttack.png"
-dest_files=["res://.godot/imported/AmazonAttack.png-d778f94ed0caffd55354bf017b6430fa.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Human/Human_Amazon/AmazonAttack.png"
+dest_files=["res://.godot/imported/AmazonAttack.png-2dd30dea9166c346c328aaf78c836beb.ctex"]
 
 [params]
 

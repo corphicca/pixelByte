@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byc5fmeyyg005"
-path="res://.godot/imported/ShadowDmg.png-df2d34581cb8ee57e8357bc34cf4df45.ctex"
+path="res://.godot/imported/ShadowDmg.png-95a1525880061e431760eb68092b3f37.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Troll/_Shadows/ShadowDmg.png"
-dest_files=["res://.godot/imported/ShadowDmg.png-df2d34581cb8ee57e8357bc34cf4df45.ctex"]
+source_file="res://Assets/characters/Monsters/Troll/_Shadows/ShadowDmg.png"
+dest_files=["res://.godot/imported/ShadowDmg.png-95a1525880061e431760eb68092b3f37.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by8t0ghhckoju"
-path="res://.godot/imported/ShadowCentaurWalk.png-bc6a869f266d6b0be420f28d6b6b7b99.ctex"
+path="res://.godot/imported/ShadowCentaurWalk.png-3959d57dbf35ffb7c277d9f4d9789d72.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Centaur/_Shadow/ShadowCentaurWalk.png"
-dest_files=["res://.godot/imported/ShadowCentaurWalk.png-bc6a869f266d6b0be420f28d6b6b7b99.ctex"]
+source_file="res://Assets/characters/Monsters/Centaur/_Shadow/ShadowCentaurWalk.png"
+dest_files=["res://.godot/imported/ShadowCentaurWalk.png-3959d57dbf35ffb7c277d9f4d9789d72.ctex"]
 
 [params]
 

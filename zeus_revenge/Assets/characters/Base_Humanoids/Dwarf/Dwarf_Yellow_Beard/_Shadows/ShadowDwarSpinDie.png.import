@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjmtecamf54dj"
-path="res://.godot/imported/ShadowDwarSpinDie.png-27a2adfc4230e49f6c505e1af73809e6.ctex"
+path="res://.godot/imported/ShadowDwarSpinDie.png-4eaa52c5a231ba6ea5d9c3c7711a9f99.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/_Shadows/ShadowDwarSpinDie.png"
-dest_files=["res://.godot/imported/ShadowDwarSpinDie.png-27a2adfc4230e49f6c505e1af73809e6.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/_Shadows/ShadowDwarSpinDie.png"
+dest_files=["res://.godot/imported/ShadowDwarSpinDie.png-4eaa52c5a231ba6ea5d9c3c7711a9f99.ctex"]
 
 [params]
 

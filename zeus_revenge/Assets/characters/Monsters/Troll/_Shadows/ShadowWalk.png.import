@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ntlpnxv2isma"
-path="res://.godot/imported/ShadowWalk.png-c03f9413663809f7176a371ad09f9b65.ctex"
+path="res://.godot/imported/ShadowWalk.png-bcef4ca9ab19070f3ed95320094f3c51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Troll/_Shadows/ShadowWalk.png"
-dest_files=["res://.godot/imported/ShadowWalk.png-c03f9413663809f7176a371ad09f9b65.ctex"]
+source_file="res://Assets/characters/Monsters/Troll/_Shadows/ShadowWalk.png"
+dest_files=["res://.godot/imported/ShadowWalk.png-bcef4ca9ab19070f3ed95320094f3c51.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djxpct5jx82"
-path="res://.godot/imported/CentaurDie.png-7003b60221e6e1b0024003371255d444.ctex"
+path="res://.godot/imported/CentaurDie.png-3f7542ac867b834138c9b0b13b057b0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Centaur/CentaurDie.png"
-dest_files=["res://.godot/imported/CentaurDie.png-7003b60221e6e1b0024003371255d444.ctex"]
+source_file="res://Assets/characters/Monsters/Centaur/CentaurDie.png"
+dest_files=["res://.godot/imported/CentaurDie.png-3f7542ac867b834138c9b0b13b057b0b.ctex"]
 
 [params]
 

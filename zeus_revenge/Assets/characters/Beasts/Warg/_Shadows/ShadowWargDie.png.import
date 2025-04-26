@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwm30qckqwcrc"
-path="res://.godot/imported/ShadowWargDie.png-dd738c2c86b98040df79c01d5d1cebfc.ctex"
+path="res://.godot/imported/ShadowWargDie.png-b10300cb7b400470eda0396e4d753750.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Beasts/Warg/_Shadows/ShadowWargDie.png"
-dest_files=["res://.godot/imported/ShadowWargDie.png-dd738c2c86b98040df79c01d5d1cebfc.ctex"]
+source_file="res://Assets/characters/Beasts/Warg/_Shadows/ShadowWargDie.png"
+dest_files=["res://.godot/imported/ShadowWargDie.png-b10300cb7b400470eda0396e4d753750.ctex"]
 
 [params]
 

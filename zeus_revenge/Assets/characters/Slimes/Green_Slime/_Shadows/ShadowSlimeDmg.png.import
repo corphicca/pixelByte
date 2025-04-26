@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kmp5xb5tw0fd"
-path="res://.godot/imported/ShadowSlimeDmg.png-8f7b6e3bc82ff69a625fc7d0cc68a102.ctex"
+path="res://.godot/imported/ShadowSlimeDmg.png-fdd1304f6488300a26e5570dca22fd7b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Slimes/Green_Slime/_Shadows/ShadowSlimeDmg.png"
-dest_files=["res://.godot/imported/ShadowSlimeDmg.png-8f7b6e3bc82ff69a625fc7d0cc68a102.ctex"]
+source_file="res://Assets/characters/Slimes/Green_Slime/_Shadows/ShadowSlimeDmg.png"
+dest_files=["res://.godot/imported/ShadowSlimeDmg.png-fdd1304f6488300a26e5570dca22fd7b.ctex"]
 
 [params]
 

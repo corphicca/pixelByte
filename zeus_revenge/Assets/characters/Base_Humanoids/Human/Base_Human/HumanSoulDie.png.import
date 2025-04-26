@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ew2bdn54vff4"
-path="res://.godot/imported/HumanSoulDie.png-494a8d4578e18b353778ee8c2eaf0b80.ctex"
+path="res://.godot/imported/HumanSoulDie.png-27d7a6a0b86434329b0dc9f044b5c4e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Human/Base_Human/HumanSoulDie.png"
-dest_files=["res://.godot/imported/HumanSoulDie.png-494a8d4578e18b353778ee8c2eaf0b80.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Human/Base_Human/HumanSoulDie.png"
+dest_files=["res://.godot/imported/HumanSoulDie.png-27d7a6a0b86434329b0dc9f044b5c4e1.ctex"]
 
 [params]
 

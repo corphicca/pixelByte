@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpantc2pwrojm"
-path="res://.godot/imported/ShadowHumanoidAttack.png-676767850a2c412e42512100543dc2bd.ctex"
+path="res://.godot/imported/ShadowHumanoidAttack.png-656136aad1f4312431a7c7a84a00d82a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Human/Human_Amazon/_Shadows/ShadowHumanoidAttack.png"
-dest_files=["res://.godot/imported/ShadowHumanoidAttack.png-676767850a2c412e42512100543dc2bd.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Human/Human_Amazon/_Shadows/ShadowHumanoidAttack.png"
+dest_files=["res://.godot/imported/ShadowHumanoidAttack.png-656136aad1f4312431a7c7a84a00d82a.ctex"]
 
 [params]
 

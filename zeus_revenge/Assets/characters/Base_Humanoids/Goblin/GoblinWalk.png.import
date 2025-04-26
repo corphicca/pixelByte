@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkphlfafghqno"
-path="res://.godot/imported/GoblinWalk.png-0b319ce861815731a4dd36d91cca01e0.ctex"
+path="res://.godot/imported/GoblinWalk.png-a6efc790e3c08c2581dfb4f1029f535f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Goblin/GoblinWalk.png"
-dest_files=["res://.godot/imported/GoblinWalk.png-0b319ce861815731a4dd36d91cca01e0.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Goblin/GoblinWalk.png"
+dest_files=["res://.godot/imported/GoblinWalk.png-a6efc790e3c08c2581dfb4f1029f535f.ctex"]
 
 [params]
 

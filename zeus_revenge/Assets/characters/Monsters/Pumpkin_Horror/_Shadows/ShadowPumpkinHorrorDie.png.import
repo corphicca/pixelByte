@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0bqomn502ha0"
-path="res://.godot/imported/ShadowPumpkinHorrorDie.png-b12bc02a91a8746e3b5069e242c6c3b7.ctex"
+path="res://.godot/imported/ShadowPumpkinHorrorDie.png-c47135a192d2a8bf8ba95cf4a0c05887.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Pumpkin_Horror/_Shadows/ShadowPumpkinHorrorDie.png"
-dest_files=["res://.godot/imported/ShadowPumpkinHorrorDie.png-b12bc02a91a8746e3b5069e242c6c3b7.ctex"]
+source_file="res://Assets/characters/Monsters/Pumpkin_Horror/_Shadows/ShadowPumpkinHorrorDie.png"
+dest_files=["res://.godot/imported/ShadowPumpkinHorrorDie.png-c47135a192d2a8bf8ba95cf4a0c05887.ctex"]
 
 [params]
 

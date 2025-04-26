@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbou3mpfqa6mr"
-path="res://.godot/imported/ShadowHumanoidChargedAttack.png-acc9e8b7d3d0474f0a213d83c7a01e1f.ctex"
+path="res://.godot/imported/ShadowHumanoidChargedAttack.png-a80bac4475917d7838740e94f7ce3c48.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Orc/Wild Orc/_Shadows/ShadowHumanoidChargedAttack.png"
-dest_files=["res://.godot/imported/ShadowHumanoidChargedAttack.png-acc9e8b7d3d0474f0a213d83c7a01e1f.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Orc/Wild Orc/_Shadows/ShadowHumanoidChargedAttack.png"
+dest_files=["res://.godot/imported/ShadowHumanoidChargedAttack.png-a80bac4475917d7838740e94f7ce3c48.ctex"]
 
 [params]
 

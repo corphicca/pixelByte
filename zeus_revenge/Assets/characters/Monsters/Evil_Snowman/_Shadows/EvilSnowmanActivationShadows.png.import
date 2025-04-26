@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnjwoh25kc10t"
-path="res://.godot/imported/EvilSnowmanActivationShadows.png-d2de8085fa257535d6f1d55383868fb7.ctex"
+path="res://.godot/imported/EvilSnowmanActivationShadows.png-1d52e949b5adb6163dce3ef273d5ff36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Evil_Snowman/_Shadows/EvilSnowmanActivationShadows.png"
-dest_files=["res://.godot/imported/EvilSnowmanActivationShadows.png-d2de8085fa257535d6f1d55383868fb7.ctex"]
+source_file="res://Assets/characters/Monsters/Evil_Snowman/_Shadows/EvilSnowmanActivationShadows.png"
+dest_files=["res://.godot/imported/EvilSnowmanActivationShadows.png-1d52e949b5adb6163dce3ef273d5ff36.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://daur4kvnd8wcw"
-path="res://.godot/imported/ShadowSlimeJump.png-0fc19c6200e861a2f1e02e447e62ea23.ctex"
+path="res://.godot/imported/ShadowSlimeJump.png-071c3d125c0dd0eedb7cd1407335db31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Slimes/Green_Slime/_Shadows/ShadowSlimeJump.png"
-dest_files=["res://.godot/imported/ShadowSlimeJump.png-0fc19c6200e861a2f1e02e447e62ea23.ctex"]
+source_file="res://Assets/characters/Slimes/Green_Slime/_Shadows/ShadowSlimeJump.png"
+dest_files=["res://.godot/imported/ShadowSlimeJump.png-071c3d125c0dd0eedb7cd1407335db31.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pnfr63reovne"
-path="res://.godot/imported/TrollDie.png-b231983eb878bbbb92f7b7a9e16af5fb.ctex"
+path="res://.godot/imported/TrollDie.png-529dc2da502e3b191d6fe4580dac4c1e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Troll/TrollDie.png"
-dest_files=["res://.godot/imported/TrollDie.png-b231983eb878bbbb92f7b7a9e16af5fb.ctex"]
+source_file="res://Assets/characters/Monsters/Troll/TrollDie.png"
+dest_files=["res://.godot/imported/TrollDie.png-529dc2da502e3b191d6fe4580dac4c1e.ctex"]
 
 [params]
 

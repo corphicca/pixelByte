@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0yjp86nfqgta"
-path="res://.godot/imported/DwarfSpinDie.png-1edaf293b10a71f185661911adde4ee6.ctex"
+path="res://.godot/imported/DwarfSpinDie.png-f52ec81101ec68892e9fe9033c88219d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Base_Dwarf/DwarfSpinDie.png"
-dest_files=["res://.godot/imported/DwarfSpinDie.png-1edaf293b10a71f185661911adde4ee6.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Base_Dwarf/DwarfSpinDie.png"
+dest_files=["res://.godot/imported/DwarfSpinDie.png-f52ec81101ec68892e9fe9033c88219d.ctex"]
 
 [params]
 

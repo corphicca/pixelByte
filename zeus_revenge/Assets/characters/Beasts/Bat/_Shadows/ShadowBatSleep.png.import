@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmfr4k73p1nin"
-path="res://.godot/imported/ShadowBatSleep.png-68031769ba2ce7c93bb3a819723d2f78.ctex"
+path="res://.godot/imported/ShadowBatSleep.png-32de6e7f7d2f4a681d6a2df9f9298f6b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Beasts/Bat/_Shadows/ShadowBatSleep.png"
-dest_files=["res://.godot/imported/ShadowBatSleep.png-68031769ba2ce7c93bb3a819723d2f78.ctex"]
+source_file="res://Assets/characters/Beasts/Bat/_Shadows/ShadowBatSleep.png"
+dest_files=["res://.godot/imported/ShadowBatSleep.png-32de6e7f7d2f4a681d6a2df9f9298f6b.ctex"]
 
 [params]
 

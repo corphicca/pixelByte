@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://u4p4mc1rlcqg"
-path="res://.godot/imported/ShadowWolfDie.png-6bb31daea9716c78af4455df7ea352fd.ctex"
+path="res://.godot/imported/ShadowWolfDie.png-87c320e5e48ec088e10aca0327009319.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Beasts/Wolf/_Shadows/ShadowWolfDie.png"
-dest_files=["res://.godot/imported/ShadowWolfDie.png-6bb31daea9716c78af4455df7ea352fd.ctex"]
+source_file="res://Assets/characters/Beasts/Wolf/_Shadows/ShadowWolfDie.png"
+dest_files=["res://.godot/imported/ShadowWolfDie.png-87c320e5e48ec088e10aca0327009319.ctex"]
 
 [params]
 
