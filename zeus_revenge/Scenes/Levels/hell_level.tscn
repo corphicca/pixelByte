@@ -1,3 +1,14 @@
-[gd_scene format=3 uid="uid://cddrincx0yldm"]
+[gd_scene load_steps=2 format=3 uid="uid://cddrincx0yldm"]
+
+[sub_resource type="GDScript" id="GDScript_s3vl4"]
+script/source = "extends Node2D
+
+
+func _ready() -> void:
+	$FadeTransition/AnimationPlayer.play(\"Fade_Out\")
+"
 
 [node name="HellLevel" type="Node2D"]
+script = SubResource("GDScript_s3vl4")
+
+[connection signal="ready" from="." to="." method="_on_ready"]
