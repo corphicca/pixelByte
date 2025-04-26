@@ -3,5 +3,6 @@ res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn
 res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 =======
 res://Scenes/Menu/intro_menu.tscn
+res://Scenes/Intro/intro_scene.tscn
 res://Scenes/Menu/scriptcs_menu/intro_menu.gd
 >>>>>>> 7b7ecb6febaf4bab1aaa5631cbd0e8c2dfb63be0
