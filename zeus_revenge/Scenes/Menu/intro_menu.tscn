@@ -1,0 +1,23 @@
+[gd_scene load_steps=3 format=3 uid="uid://c1yk6hsp7741g"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_jqmas"]
+size = Vector2(23, 20)
+
+[sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_r6bot"]
+
+[node name="IntroMenu" type="Node2D"]
+
+[node name="IntroFaller" type="RigidBody2D" parent="."]
+
+[node name="CameraCollision" type="CollisionShape2D" parent="IntroFaller"]
+position = Vector2(573, -376)
+shape = SubResource("RectangleShape2D_jqmas")
+
+[node name="Camera2D" type="Camera2D" parent="IntroFaller/CameraCollision"]
+position = Vector2(2, 0)
+
+[node name="CameraStopper" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CameraStopper"]
+position = Vector2(581, 647)
+shape = SubResource("WorldBoundaryShape2D_r6bot")
