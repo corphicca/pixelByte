@@ -1,7 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
 ::res://::1745699937
 game_manager.tscn::PackedScene/PackedScene::7075268726104667232::1745646273::0::1::::<><><>0<>0<><>::
+<<<<<<< Updated upstream
 ::res://Assets/::1745699614
+=======
+::res://Assets/::1745700536
+>>>>>>> Stashed changes
 icon.svg::CompressedTexture2D/CompressedTexture2D::7585732403192757058::1745646273::1745646347::1::::<><><>0<>0<>a474007fe1e221343321a6146801cebe<>res://.godot/imported/icon.svg-8193eb3d66a1b5143b8bb4c28c1dc139.ctex::
 ::res://Assets/backgrounds/::1745647116
 Space Background.png::CompressedTexture2D/CompressedTexture2D::4250308557525196237::1745646273::1745646348::1::::<><><>0<>0<>dd6a1f3bb89c7473a7d4d8cfdeca898b<>res://.godot/imported/Space Background.png-ab2957ba2482905607a1ef6fc906b62b.ctex::
@@ -463,9 +467,15 @@ Clouds.png::CompressedTexture2D/CompressedTexture2D::8116252458157637871::174564
 ::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/::1745699614
 Acknowledgment.txt::TextFile/TextFile::-1::1745646406::0::1::::<><><>0<>0<><>::
 CommercialLicense.txt::TextFile/TextFile::-1::1745646406::0::1::::<><><>0<>0<><>::
+<<<<<<< Updated upstream
 ::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/::1745699615
 Mockup.png::CompressedTexture2D/CompressedTexture2D::5572973471928463835::1745646406::1745646408::1::::<><><>0<>0<>84be2eda3796b4cabc64aa92f5c99de8<>res://.godot/imported/Mockup.png-1951776974f94b4598b998ed25dbaf2f.ctex::
 Ocean_TileSet_some_Changes.tres::TileSet::122734748264593442::1745696681::0::1::::<><><>0<>0<><>::uid://bmxdrfslby77v::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/Tileset.png
+=======
+::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/::1745699982
+Mockup.png::CompressedTexture2D/CompressedTexture2D::5572973471928463835::1745646406::1745646408::1::::<><><>0<>0<>84be2eda3796b4cabc64aa92f5c99de8<>res://.godot/imported/Mockup.png-1951776974f94b4598b998ed25dbaf2f.ctex::
+Ocean_TileSet_some_Changes.tres::TileSet::122734748264593442::1745699982::0::1::::<><><>0<>0<><>::uid://bmxdrfslby77v::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/Tileset.png
+>>>>>>> Stashed changes
 ::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Premade_Scene/::1745699614
 Premade.png::CompressedTexture2D/CompressedTexture2D::3236645525745616537::1745646406::1745646407::1::::<><><>0<>0<>ec1bd0c9870bed25b6a5c31e0654307e<>res://.godot/imported/Premade.png-bf70cd4dbefed379d090e352f4bdf594.ctex::
 Premade_Shadows.png::CompressedTexture2D/CompressedTexture2D::2129586412402595601::1745646406::1745646407::1::::<><><>0<>0<>12c5bb82592c319ba6b259e20bc1e42f<>res://.godot/imported/Premade_Shadows.png-2c4d17608b00291bd119c476e261ab40.ctex::
@@ -552,7 +562,11 @@ Acknowledgment.txt::TextFile::-1::1745647114::0::1::::<><><>0<>0<><>::
 CommercialLicense.txt::TextFile::-1::1745647114::0::1::::<><><>0<>0<><>::
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/::1745647115
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/_Premade Scene/::1745647115
+<<<<<<< Updated upstream
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/_Premade Scene/Separate Layers/::1745647115
+=======
+::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/_Premade Scene/Separate Layers/::1745699940
+>>>>>>> Stashed changes
 Premade_a-shadows.png::CompressedTexture2D::415756013779118237::1745647115::1745699940::1::::<><><>0<>0<>c82a11af3e326b99a035643870ce02f5<>res://.godot/imported/Premade_a-shadows.png-b8dd16eb61d246c9590d5aa74b537712.ctex::
 Premade_b-animatedprops.png::CompressedTexture2D::7493472452147279925::1745647115::1745699940::1::::<><><>0<>0<>9c8c23f203e3cc22556cd691e6430292<>res://.godot/imported/Premade_b-animatedprops.png-56bd7e8abaa6164d5e79a344849d5aba.ctex::
 Premade_c-propsshadows.png::CompressedTexture2D::4433662218544099650::1745647115::1745699940::1::::<><><>0<>0<>83766859e5245577c68d8e61403024ca<>res://.godot/imported/Premade_c-propsshadows.png-8bce37f9668a953668ce9113cf35646e.ctex::
@@ -565,51 +579,145 @@ Premade_i-lava.png::CompressedTexture2D::2674924610183605126::1745647115::174569
 Premade_j-gorundembers.png::CompressedTexture2D::7988118561788741017::1745647115::1745699940::1::::<><><>0<>0<>4ea6189341b194c1999bab9f96fdcdb9<>res://.godot/imported/Premade_j-gorundembers.png-3b1bc9e8d8a736f38af6bf4efbd90eca.ctex::
 Premade_k-path.png::CompressedTexture2D::4595436960686209707::1745647115::1745699940::1::::<><><>0<>0<>b4d5c24a8303442f739b8cca6dc678f5<>res://.godot/imported/Premade_k-path.png-86dd131f9e74bc7551e1275a89e38682.ctex::
 Premade_l-ground.png::CompressedTexture2D::6391722528778812354::1745647115::1745699940::1::::<><><>0<>0<>4b04dd0eeb162829cc1abf1b98dda652<>res://.godot/imported/Premade_l-ground.png-05cc14987a84991807272d6463c428ba.ctex::
+<<<<<<< Updated upstream
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Props/::1745647114
 Props.png::CompressedTexture2D::5222107516474841207::1745647114::1745699940::1::::<><><>0<>0<>ef4e1e343065b8e2ce983f6b10a301d3<>res://.godot/imported/Props.png-23911fd451eb894bb793033eaabcfdcb.ctex::
 Props_shadows.png::CompressedTexture2D::3013014350474969454::1745647114::1745699940::1::::<><><>0<>0<>1292f81cdeda97f772dfc593033cc0d4<>res://.godot/imported/Props_shadows.png-1a01d503d45f2c821cf9760d4240d5d7.ctex::
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Props/Animated Props/::1745647114
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Props/Animated Props/Big Monolith/::1745647114
+=======
+::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Props/::1745699940
+Props.png::CompressedTexture2D::5222107516474841207::1745647114::1745699940::1::::<><><>0<>0<>ef4e1e343065b8e2ce983f6b10a301d3<>res://.godot/imported/Props.png-23911fd451eb894bb793033eaabcfdcb.ctex::
+Props_shadows.png::CompressedTexture2D::3013014350474969454::1745647114::1745699940::1::::<><><>0<>0<>1292f81cdeda97f772dfc593033cc0d4<>res://.godot/imported/Props_shadows.png-1a01d503d45f2c821cf9760d4240d5d7.ctex::
+::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Props/Animated Props/::1745647114
+::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Props/Animated Props/Big Monolith/::1745699940
+>>>>>>> Stashed changes
 Animation Info.txt::TextFile::-1::1745647114::0::1::::<><><>0<>0<><>::
 Big_glow.png::CompressedTexture2D::9216569184466018570::1745647114::1745699940::1::::<><><>0<>0<>230df4ee6f83f0b7190d88ba5e8e83a1<>res://.godot/imported/Big_glow.png-fa380fd5c75e14812f3991c0d9424282.ctex::
 Big_monolith.png::CompressedTexture2D::340758647456850492::1745647114::1745699940::1::::<><><>0<>0<>112bf71aa4309c2b3d278d7cf03eedc4<>res://.godot/imported/Big_monolith.png-5b46e21bd0c16b82d5f91f9538ecce99.ctex::
 Big_shadow.png::CompressedTexture2D::942563682420838107::1745647114::1745699940::1::::<><><>0<>0<>7a8114e2363742608ef0d614877d7cf1<>res://.godot/imported/Big_shadow.png-2a2f6b5dc7107ffc08fc4622a8cd28ac.ctex::
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Props/Animated Props/Big Monolith/GIF/::1745647114
+<<<<<<< Updated upstream
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Props/Animated Props/Small Monolith/::1745647114
+=======
+::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Props/Animated Props/Small Monolith/::1745699940
+>>>>>>> Stashed changes
 Animation Info.txt::TextFile::-1::1745647114::0::1::::<><><>0<>0<><>::
 Small_glow.png::CompressedTexture2D::340832208282509725::1745647114::1745699940::1::::<><><>0<>0<>23146bb918d48fdbf0dc8257739543fa<>res://.godot/imported/Small_glow.png-83e1fc7a086bb110e675377eb63a8e41.ctex::
 Small_monolith.png::CompressedTexture2D::4579850905273347132::1745647114::1745699940::1::::<><><>0<>0<>c3ed8aff548a19461b1804ced9967345<>res://.godot/imported/Small_monolith.png-325a65d90bd52afaaab8441a3ad578fd.ctex::
 Small_shadow.png::CompressedTexture2D::8680093571015740916::1745647114::1745699940::1::::<><><>0<>0<>1a045d8e7d7017db08532270e12345f1<>res://.godot/imported/Small_shadow.png-16e18188043263114d40af826665db20.ctex::
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Props/Animated Props/Small Monolith/GIF/::1745647114
+<<<<<<< Updated upstream
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/::1745647115
+=======
+::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/::1745699940
+>>>>>>> Stashed changes
 Tileset.png::CompressedTexture2D::2918111648688873325::1745647115::1745699940::1::::<><><>0<>0<>b5b2a09daa6fc30aff92c54657e8ef70<>res://.godot/imported/Tileset.png-f81ca5101309195165b147e701d71ac4.ctex::
 Tileset_shadows.png::CompressedTexture2D::448200069083554156::1745647115::1745699940::1::::<><><>0<>0<>991859d6e744ad7dc25b20ba4babd21b<>res://.godot/imported/Tileset_shadows.png-e6872a0414e8a3ad1be0f199672a3ee7.ctex::
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/::1745647115
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Embers/::1745647114
+<<<<<<< Updated upstream
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Embers/Cliff Embers/::1745647114
+=======
+::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Embers/Cliff Embers/::1745699940
+>>>>>>> Stashed changes
 Animation Info.txt::TextFile::-1::1745647114::0::1::::<><><>0<>0<><>::
 CliffEmbers.png::CompressedTexture2D::2651918121129511732::1745647114::1745699940::1::::<><><>0<>0<>da9741ae6068242a4d54960234ed9c26<>res://.godot/imported/CliffEmbers.png-9a53c7f7d75ac263ed28eda2fa3aefaf.ctex::
 CliffEmbers_RefferenceLayer.png::CompressedTexture2D::6687243619500599335::1745647114::1745699940::1::::<><><>0<>0<>b8337f73aa4eab66aa161c26fa11b5eb<>res://.godot/imported/CliffEmbers_RefferenceLayer.png-665eb89fcf8375de2bb8010353d3a578.ctex::
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Embers/Cliff Embers/GIF/::1745647114
+<<<<<<< Updated upstream
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Embers/Ground Embers/::1745647115
 Animation Info.txt::TextFile::-1::1745647114::0::1::::<><><>0<>0<><>::
 GroundEmbers.png::CompressedTexture2D::3616982001340803985::1745647115::1745699940::1::::<><><>0<>0<>202b4294b2fad7c171d81cd710a84080<>res://.godot/imported/GroundEmbers.png-e28b49ee5a4ef03c5c3e87930595627b.ctex::
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Embers/Ground Embers/GIFs/::1745647115
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Lava/::1745647115
+=======
+::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Embers/Ground Embers/::1745699940
+Animation Info.txt::TextFile::-1::1745647114::0::1::::<><><>0<>0<><>::
+GroundEmbers.png::CompressedTexture2D::3616982001340803985::1745647115::1745699940::1::::<><><>0<>0<>202b4294b2fad7c171d81cd710a84080<>res://.godot/imported/GroundEmbers.png-e28b49ee5a4ef03c5c3e87930595627b.ctex::
+::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Embers/Ground Embers/GIFs/::1745647115
+::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Lava/::1745699940
+>>>>>>> Stashed changes
 Animation Info.txt::TextFile::-1::1745647115::0::1::::<><><>0<>0<><>::
 BigBubble.png::CompressedTexture2D::43083757166396040::1745647115::1745699940::1::::<><><>0<>0<>b4b355fce63223667bdab1860bc3bb8e<>res://.godot/imported/BigBubble.png-b67a32dd208c9beb5c07af1258b78036.ctex::
 LavaTiles.png::CompressedTexture2D::3948079752377194374::1745647115::1745699940::1::::<><><>0<>0<>b3a0592e70d6e3439cae35a2128ea34a<>res://.godot/imported/LavaTiles.png-9f4e9a37b19263eadfe2c358fa89f2b9.ctex::
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Lava/GIFs/::1745647115
+<<<<<<< Updated upstream
+=======
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/::1745700536
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_v2.2_Free_Version/::1745700536
+FreeLicense.txt::TextFile::-1::1745700536::0::1::::<><><>0<>0<><>::
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_Assets/::1745700536
+Mockup.png::CompressedTexture2D::2066428783004115385::1745700536::1745700543::1::::<><><>0<>0<>e5b9523912c499e7733e3898585f16f1<>res://.godot/imported/Mockup.png-141b64da604de19ca2b8861d75e148f3.ctex::
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_Assets/Characters/::1745700536
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_Assets/Characters/Human/::1745700536
+AnimationInfo.txt::TextFile::-1::1745700536::0::1::::<><><>0<>0<><>::
+Attack.png::CompressedTexture2D::7605462166226993846::1745700536::1745700544::1::::<><><>0<>0<>ed42d83e53cbeb95f837226d215f170d<>res://.godot/imported/Attack.png-c25c0a79949f5aca2caa8a2d67ea14ef.ctex::
+ChargedAttack.png::CompressedTexture2D::3167773941482293598::1745700536::1745700544::1::::<><><>0<>0<>06d2899db4117d7edb72516a80525431<>res://.godot/imported/ChargedAttack.png-dff747a716f56c3e2bfd097494e09a60.ctex::
+Dmg.png::CompressedTexture2D::5593667535860825916::1745700536::1745700544::1::::<><><>0<>0<>6bc01ec75c0b21c6dcc5c246c4f851cd<>res://.godot/imported/Dmg.png-9eb914c9dd4a0b3c699b41a725cb7667.ctex::
+Idle.png::CompressedTexture2D::1773555468062692325::1745700536::1745700544::1::::<><><>0<>0<>bd0094a2641884223809b31bb69416a9<>res://.godot/imported/Idle.png-3356c8a3a59378d872e969f57de2c136.ctex::
+Jump.png::CompressedTexture2D::7761751892089352846::1745700536::1745700544::1::::<><><>0<>0<>a40b5297ebfe1d68f732ee1094a781e2<>res://.godot/imported/Jump.png-7cf138dec8e631495c53b4924e1b34f7.ctex::
+SoulDie.png::CompressedTexture2D::410517251596532589::1745700536::1745700544::1::::<><><>0<>0<>67c7f26f60ce8e63c771c287173ac638<>res://.godot/imported/SoulDie.png-d7b09b2c45029f0fb327a74dc326a09c.ctex::
+SpinDie.png::CompressedTexture2D::8625956786691045710::1745700536::1745700544::1::::<><><>0<>0<>5387cfa7acd6c9d4773ea51683528f70<>res://.godot/imported/SpinDie.png-988d17027a69c89718b8307a912f31d0.ctex::
+Walk.png::CompressedTexture2D::4172260541402961625::1745700536::1745700544::1::::<><><>0<>0<>8a8455c9b014f26204a4fe2c3c6809f9<>res://.godot/imported/Walk.png-de532f1a78fbca7c35d8bcf6bcb14d53.ctex::
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_Assets/Characters/Human/_Shadows/::1745700536
+Attack.png::CompressedTexture2D::5160085510796746495::1745700536::1745700543::1::::<><><>0<>0<>6a06ec8103b51bafc691dba642c87920<>res://.godot/imported/Attack.png-bf341e337afb5a56707799c532465946.ctex::
+ChargedAttack.png::CompressedTexture2D::6409308302035685210::1745700536::1745700543::1::::<><><>0<>0<>b15a04466b80ac3c657735694da2c597<>res://.godot/imported/ChargedAttack.png-93f46b15f42f2e789e494075e52b19ab.ctex::
+Dmg.png::CompressedTexture2D::3513874528731113634::1745700536::1745700544::1::::<><><>0<>0<>22cdc3f82dcb520482468afca499704c<>res://.godot/imported/Dmg.png-7db04fd0addcfb9dd117bc90fe0b5706.ctex::
+Idle.png::CompressedTexture2D::6577820270215683209::1745700536::1745700544::1::::<><><>0<>0<>ec754fcbacdf73af61148a22e3d32a78<>res://.godot/imported/Idle.png-d8d959ebc3222a513fd9fb79220b6902.ctex::
+Jump.png::CompressedTexture2D::7258744940188976856::1745700536::1745700544::1::::<><><>0<>0<>47e8e4366bba77edd8d9488f767760cb<>res://.godot/imported/Jump.png-00ec1afd45bee15b2adfb944cbc86bbf.ctex::
+SoulDie.png::CompressedTexture2D::7035427261889164558::1745700536::1745700544::1::::<><><>0<>0<>733244fcd3e1b4cde19f540eb523f3fd<>res://.godot/imported/SoulDie.png-517c213702a8284669ea57132c644ae7.ctex::
+SpinDie.png::CompressedTexture2D::4716990561143452585::1745700536::1745700544::1::::<><><>0<>0<>3a0d56c48b5ffa0fa8b3207c8a2bbcd7<>res://.godot/imported/SpinDie.png-ff1b97a6ef454636ad2d38c445569aa8.ctex::
+Walk.png::CompressedTexture2D::1036272498481458603::1745700536::1745700544::1::::<><><>0<>0<>a46bd96ff1a72145a2dbc77f43c69f9d<>res://.godot/imported/Walk.png-926a15a7d07e737baf89db0337f510b0.ctex::
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_Assets/Characters/Orc/::1745700536
+AnimationInfo.txt::TextFile::-1::1745700536::0::1::::<><><>0<>0<><>::
+Attack.png::CompressedTexture2D::615824624255493324::1745700536::1745700543::1::::<><><>0<>0<>0103c91d8476ffcc86eb19842c2ba555<>res://.godot/imported/Attack.png-3a55f9a9853bf413ddbdde952b9e7c43.ctex::
+ChargedAttack.png::CompressedTexture2D::3697241137413921048::1745700536::1745700543::1::::<><><>0<>0<>816035767926f6549cb3d7956f416d65<>res://.godot/imported/ChargedAttack.png-5a3e342bc0e0a02330e927b731bd6bed.ctex::
+Die.png::CompressedTexture2D::6054328848193527851::1745700536::1745700543::1::::<><><>0<>0<>3d775f28f7e50235884f9776c0661d59<>res://.godot/imported/Die.png-b8391d96c46c625779fcc04bbdc6354a.ctex::
+Dmg.png::CompressedTexture2D::447609653796751892::1745700536::1745700543::1::::<><><>0<>0<>e8173c86519293a96a7a3a4c6078cd80<>res://.godot/imported/Dmg.png-25fa8e11617a026a170d6c4ce03eae8b.ctex::
+Idle.png::CompressedTexture2D::1947883004574514723::1745700536::1745700543::1::::<><><>0<>0<>09743531abcd53ade3d5e44ba438ce3d<>res://.godot/imported/Idle.png-762f42baa18a2a7df1adb91e3c4749c4.ctex::
+Jump.png::CompressedTexture2D::6938291709906237761::1745700536::1745700543::1::::<><><>0<>0<>0eded7e5dff37377840971c47655c7f5<>res://.godot/imported/Jump.png-eb3d45e2731349ae23bfa12a862d2fd5.ctex::
+Walk.png::CompressedTexture2D::866567909942722705::1745700536::1745700543::1::::<><><>0<>0<>bead854f0242e1990cfe4ac25790c835<>res://.godot/imported/Walk.png-55457f073fcb1c90469ccf7f1604b7ee.ctex::
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_Assets/Characters/Orc/_Shadows/::1745700536
+Attack.png::CompressedTexture2D::7149499320297434794::1745700536::1745700544::1::::<><><>0<>0<>f4da9eacece069768a3b7cc1415535ef<>res://.godot/imported/Attack.png-22d303cab82458c26da7f6a0795b9dd8.ctex::
+ChargedAttack.png::CompressedTexture2D::3112329137874864905::1745700536::1745700544::1::::<><><>0<>0<>d35e66e391ab4e0e6a918d95050012bd<>res://.godot/imported/ChargedAttack.png-2a74e39e9a24baa7575ccfb519dd4836.ctex::
+Dmg.png::CompressedTexture2D::5437768522384176531::1745700536::1745700544::1::::<><><>0<>0<>b45f774f341ea857b6146837626a9c16<>res://.godot/imported/Dmg.png-1c03e33475beb75e9bd53d1d166e7657.ctex::
+Idle.png::CompressedTexture2D::5212883602662562873::1745700536::1745700544::1::::<><><>0<>0<>361b0546c7c35f609e45d74ee6f484d3<>res://.godot/imported/Idle.png-dfadd44719b22cf27596ba87277372d7.ctex::
+Jump.png::CompressedTexture2D::8600238627969629548::1745700536::1745700543::1::::<><><>0<>0<>b95329fd283e3e952e11233474afdb84<>res://.godot/imported/Jump.png-94f14f0a52b86d3bfbafe84c7ca4b163.ctex::
+SpinDie.png::CompressedTexture2D::134562614929533760::1745700536::1745700543::1::::<><><>0<>0<>b2e6922c251ad80f1922a19a9c20b2da<>res://.godot/imported/SpinDie.png-7c34ac7e53d87bceeebf090ba1a24f64.ctex::
+Walk.png::CompressedTexture2D::3150348680711398017::1745700536::1745700543::1::::<><><>0<>0<>4956fb59e47d0474b7c1ea83658fc8f4<>res://.godot/imported/Walk.png-f13395a5862f97fac965e91d0825c4e3.ctex::
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_Assets/Props/::1745700536
+Props.png::CompressedTexture2D::4098698902699820127::1745700536::1745700543::1::::<><><>0<>0<>2668e04cc11354dad2a56ea0d54e87c7<>res://.godot/imported/Props.png-3096a67d7996fd84cccdbaff9a2aff97.ctex::
+Prop_Shadows.png::CompressedTexture2D::6522972464726382573::1745700536::1745700543::1::::<><><>0<>0<>a9eaede1f8e6a86afce17014c021ee0f<>res://.godot/imported/Prop_Shadows.png-a014f66af73c2726d8b023f1517466be.ctex::
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_Assets/Props/Animated_Props/::1745700536
+AnimationInfo.txt::TextFile::-1::1745700536::0::1::::<><><>0<>0<><>::
+Candle.png::CompressedTexture2D::6432569409349630206::1745700536::1745700543::1::::<><><>0<>0<>396abbfd54c9547c71e6977712ffa7e5<>res://.godot/imported/Candle.png-063faf225a2b056ddabf147c4c6b8a82.ctex::
+Candle_Light.png::CompressedTexture2D::8560306513109161467::1745700536::1745700543::1::::<><><>0<>0<>3bf31949ad0937012c009cf5d4d6f468<>res://.godot/imported/Candle_Light.png-c1c8d2ab2b8ca74ce83e19a86b06d314.ctex::
+Torch.png::CompressedTexture2D::1912962429267986323::1745700536::1745700543::1::::<><><>0<>0<>8116c24d1f77685e479e1ed6f9ac6638<>res://.godot/imported/Torch.png-17184c6ad86a543fbb5cc448c18286df.ctex::
+Torch_Light.png::CompressedTexture2D::6556239819372256782::1745700536::1745700543::1::::<><><>0<>0<>a28cd59e99f31d8cfcd788e1783492b4<>res://.godot/imported/Torch_Light.png-5dee34e4617234ea3b75c87f13a5099f.ctex::
+::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_v2.2_Free_Version/Minifantasy_Dungeon_Assets/Tileset/::1745700536
+Shadows.png::CompressedTexture2D::536798752859658461::1745700536::1745700543::1::::<><><>0<>0<>94ad68bec2a2e8b9ee788242f757b270<>res://.godot/imported/Shadows.png-3a1feb931b71c5fd9a0f048bc77f0399.ctex::
+Tileset.png::CompressedTexture2D::3675550319704914367::1745700536::1745700543::1::::<><><>0<>0<>b43b8169b6aef699455dba1540e4e0e4<>res://.godot/imported/Tileset.png-1105b01de193a8424da5d9ff4b17f43c.ctex::
+>>>>>>> Stashed changes
 ::res://Assets/Ocean_Env/::1745647115
 ::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/::1745647116
 Acknowledgment.txt::TextFile::-1::1745647115::0::1::::<><><>0<>0<><>::
 CommercialLicense.txt::TextFile::-1::1745647115::0::1::::<><><>0<>0<><>::
+<<<<<<< Updated upstream
 ::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/::1745647116
 Mockup.png::CompressedTexture2D::8194213911346178485::1745647115::1745699942::1::::<><><>0<>0<>eb546c6eac1f4e2df194109cf10ba9cc<>res://.godot/imported/Mockup.png-d2c6ffbc83998cd6a1a65f8ea5a1d756.ctex::
 ::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Premade_Scene/::1745647116
 Premade.png::CompressedTexture2D::7139539242970916558::1745647116::1745699940::1::::<><><>0<>0<>b523caff766a6d2b3ef9ac61172947bb<>res://.godot/imported/Premade.png-cf0e9b88c8e364d98d56013db4d95561.ctex::
 Premade_Shadows.png::CompressedTexture2D::23979716236970048::1745647116::1745699940::1::::<><><>0<>0<>2a74b03b1f1bcfab2aa00ebf5eab26cf<>res://.godot/imported/Premade_Shadows.png-3ffb75d0aced5e07f959be1e2c25a19b.ctex::
 ::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Premade_Scene/Separate_Layers/::1745647116
+=======
+::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/::1745699942
+Mockup.png::CompressedTexture2D::8194213911346178485::1745647115::1745699942::1::::<><><>0<>0<>eb546c6eac1f4e2df194109cf10ba9cc<>res://.godot/imported/Mockup.png-d2c6ffbc83998cd6a1a65f8ea5a1d756.ctex::
+::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Premade_Scene/::1745699940
+Premade.png::CompressedTexture2D::7139539242970916558::1745647116::1745699940::1::::<><><>0<>0<>b523caff766a6d2b3ef9ac61172947bb<>res://.godot/imported/Premade.png-cf0e9b88c8e364d98d56013db4d95561.ctex::
+Premade_Shadows.png::CompressedTexture2D::23979716236970048::1745647116::1745699940::1::::<><><>0<>0<>2a74b03b1f1bcfab2aa00ebf5eab26cf<>res://.godot/imported/Premade_Shadows.png-3ffb75d0aced5e07f959be1e2c25a19b.ctex::
+::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Premade_Scene/Separate_Layers/::1745699940
+>>>>>>> Stashed changes
 a_shadows.png::CompressedTexture2D::1657055926749188623::1745647116::1745699940::1::::<><><>0<>0<>da1fc62261950f65a4ae6e5f45e09e48<>res://.godot/imported/a_shadows.png-a0044d141e523b632b1bfcf2dfa74015.ctex::
 b_props.png::CompressedTexture2D::6663238349541008713::1745647116::1745699940::1::::<><><>0<>0<>7dc0d468c0013c6e47200bf5d610bfdf<>res://.godot/imported/b_props.png-588d7c480f968065003fd7c0ea94ce87.ctex::
 c_doors.png::CompressedTexture2D::6088455411697042747::1745647116::1745699940::1::::<><><>0<>0<>ff5d6d83c95f4b66ea29b503e5a36b32<>res://.godot/imported/c_doors.png-05d3d660a7cc21d17b2e0ab53b517e00.ctex::
@@ -618,36 +726,69 @@ e_wall_engravings.png::CompressedTexture2D::1622382285492424964::1745647116::174
 f_walls.png::CompressedTexture2D::5340349215548643824::1745647116::1745699940::1::::<><><>0<>0<>fefc0912c7fbf53cce9d696092d071c4<>res://.godot/imported/f_walls.png-862557456715f708732480179ef0d224.ctex::
 g_floor.png::CompressedTexture2D::8584031157905564911::1745647116::1745699940::1::::<><><>0<>0<>8bc91a6c2c4298548527f95df094bc20<>res://.godot/imported/g_floor.png-5f96956968af396504ca66a52edd200a.ctex::
 h_bg.png::CompressedTexture2D::5195034920214666792::1745647116::1745699940::1::::<><><>0<>0<>980f9872530ac00dd887aad0bc46246e<>res://.godot/imported/h_bg.png-4efb84d3dc070574c710d3f5b2972121.ctex::
+<<<<<<< Updated upstream
 ::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Props/::1745647116
 Props.png::CompressedTexture2D::7196418042978380394::1745647116::1745699940::1::::<><><>0<>0<>45b6f388161e67856ffb187171e65ad3<>res://.godot/imported/Props.png-5bf55564e5bd86a0fe4eacaab1ab3924.ctex::
 Prop_Shadows.png::CompressedTexture2D::8011316785900967827::1745647116::1745699940::1::::<><><>0<>0<>00dc860efc73f13fd11a7fce85ae778d<>res://.godot/imported/Prop_Shadows.png-4c190c77b5d2b0b85ce90d2fa53b0738.ctex::
 ::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Props/Animated_Candles/::1745647116
+=======
+::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Props/::1745699940
+Props.png::CompressedTexture2D::7196418042978380394::1745647116::1745699940::1::::<><><>0<>0<>45b6f388161e67856ffb187171e65ad3<>res://.godot/imported/Props.png-5bf55564e5bd86a0fe4eacaab1ab3924.ctex::
+Prop_Shadows.png::CompressedTexture2D::8011316785900967827::1745647116::1745699940::1::::<><><>0<>0<>00dc860efc73f13fd11a7fce85ae778d<>res://.godot/imported/Prop_Shadows.png-4c190c77b5d2b0b85ce90d2fa53b0738.ctex::
+::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Props/Animated_Candles/::1745699940
+>>>>>>> Stashed changes
 _Animation Info.txt::TextFile::-1::1745647116::0::1::::<><><>0<>0<><>::
 Candles.png::CompressedTexture2D::8510333081728238957::1745647116::1745699940::1::::<><><>0<>0<>600d2e3dd3cc877a56b89ad28f9dfdd1<>res://.godot/imported/Candles.png-c8be3f85f78494b35d8f5a587ebd5bea.ctex::
 Glow.png::CompressedTexture2D::1848371930835909034::1745647116::1745699940::1::::<><><>0<>0<>b3fd6ac97753a2d53f40e66a4f02417c<>res://.godot/imported/Glow.png-2d5fb17eaed08397c96c419118c7faf2.ctex::
 ::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Props/Animated_Candles/_GIFs/::1745647116
+<<<<<<< Updated upstream
 ::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/::1745647116
 Shadows.png::CompressedTexture2D::8919310585126212155::1745647116::1745699940::1::::<><><>0<>0<>4930e5f8aee51384b9e997813d944576<>res://.godot/imported/Shadows.png-6ff9dcf351050411476733b20a9da174.ctex::
 Tileset.png::CompressedTexture2D::60321635408826120::1745647116::1745699940::1::::<><><>0<>0<>1b079fb41d2dba77fc1731544e249e43<>res://.godot/imported/Tileset.png-76abe8acb4da472c71eb27350efac28e.ctex::
 ::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/Use_Guidelines/::1745647116
+=======
+::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/::1745699940
+Shadows.png::CompressedTexture2D::8919310585126212155::1745647116::1745699940::1::::<><><>0<>0<>4930e5f8aee51384b9e997813d944576<>res://.godot/imported/Shadows.png-6ff9dcf351050411476733b20a9da174.ctex::
+Tileset.png::CompressedTexture2D::60321635408826120::1745647116::1745699940::1::::<><><>0<>0<>1b079fb41d2dba77fc1731544e249e43<>res://.godot/imported/Tileset.png-76abe8acb4da472c71eb27350efac28e.ctex::
+::res://Assets/Ocean_Env/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/Use_Guidelines/::1745699943
+>>>>>>> Stashed changes
 Info.txt::TextFile::-1::1745647116::0::1::::<><><>0<>0<><>::
 Use_Guidelines.png::CompressedTexture2D::6302280674406228559::1745647116::1745699943::1::::<><><>0<>0<>09059d63d44379d6aa1ee8487208ee95<>res://.godot/imported/Use_Guidelines.png-1ddeda3831017dfceb2e55755b2b11eb.ctex::
 Use_Guideline_Layer.png::CompressedTexture2D::7897137642022956238::1745647116::1745699940::1::::<><><>0<>0<>feba137b6c1d227a8a2305d3456ebb25<>res://.godot/imported/Use_Guideline_Layer.png-5e3b74a0f96fb21dfe2c6adfc0f340a4.ctex::
 ::res://Scenes/::1745647117
+<<<<<<< Updated upstream
 ::res://Scenes/Intro/::1745699638
 intro_scene.tscn::PackedScene/PackedScene::6426512783602554578::1745646273::0::1::::<><><>0<>0<><>::
 ::res://Scenes/Levels/::1745699615
 hell_level.tscn::PackedScene/PackedScene::4990648193763287630::1745646273::0::1::::<><><>0<>0<><>::
+=======
+::res://Scenes/Intro/::1745700536
+intro_scene.tscn::PackedScene/PackedScene::6426512783602554578::1745700536::0::1::::<><><>0<>0<><>::
+::res://Scenes/Levels/::1745700536
+hell_level.tscn::PackedScene/PackedScene::4990648193763287630::1745700536::0::1::::<><><>0<>0<><>::
+>>>>>>> Stashed changes
 main_menu.tscn::PackedScene::4251127047504976402::1745647117::0::1::::<><><>0<>0<><>::
 ocean_level.tscn::PackedScene::9207127393716184524::1745647117::0::1::::<><><>0<>0<><>::
 space_level.tscn::PackedScene/PackedScene::4794065697226833428::1745646273::0::1::::<><><>0<>0<><>::
 space_loop_level.tscn::PackedScene/PackedScene::1623784784669217779::1745646273::0::1::::<><><>0<>0<><>::
+<<<<<<< Updated upstream
 ::res://Scenes/Levels/Ocean_Level/::1745699615
 ocean_level.tscn::PackedScene/PackedScene::9207127393716184524::1745681378::0::1::::<><><>0<>0<><>::uid://bmxdrfslby77v::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/Tileset.png<>uid://cvgmo507251eh::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/Shadows.png
 ocean_level_common_room.tscn::PackedScene::2086014971507938831::1745699090::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 ocean_level_start_room.tscn::PackedScene::6721943508618470111::1745699344::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres<>uid://bmd4cxih6ydo8::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Premade_Scene/Premade.png
 ::res://Scenes/Menu/::1745647117
 intro_menu.tscn::PackedScene/PackedScene::6647959293806711886::1745646443::0::1::::<><><>0<>0<><>::uid://b1s47w40trpld::::res://Assets/backgrounds/Space Background.png
+=======
+::res://Scenes/Levels/Ocean_Level/::1745700473
+ocean_level.tscn::PackedScene/PackedScene::9207127393716184524::1745681378::0::1::::<><><>0<>0<><>::uid://bmxdrfslby77v::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/Tileset.png<>uid://cvgmo507251eh::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/Shadows.png
+ocean_level_common_room.tscn::PackedScene::2086014971507938831::1745699090::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+ocean_level_start_room.tscn::PackedScene::6721943508618470111::1745700473::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres<>uid://bmd4cxih6ydo8::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Premade_Scene/Premade.png
+::res://Scenes/Menu/::1745700536
+FadeTransition.tscn::PackedScene::-1::1745700536::0::1::::<><><>0<>0<><>::
+intro_menu.tscn::PackedScene/PackedScene::6647959293806711886::1745700536::0::1::::<><><>0<>0<><>::uid://b1s47w40trpld::::res://Assets/backgrounds/Space Background.png
+::res://Scenes/Menu/scriptcs_menu/::1745700536
+intro_menu.gd::GDScript::3551991894774592040::1745700536::0::1::::<>Node2D<><>0<>0<><>::
+>>>>>>> Stashed changes
 ::res://Scripts/::1745647117
 game_manager.gd::GDScript/GDScript::7459846175697557647::1745646273::0::1::::<>Node<><>0<>0<><>::
 level_manager.gd::GDScript/GDScript::1467223219871133758::1745646273::0::1::::<>Node<><>0<>0<><>::
