@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxet51vrs7b3u"
-path="res://.godot/imported/ShadowWolfWalk.png-cc68fc4f5fa612235fd81a41ee67e1da.ctex"
+path="res://.godot/imported/ShadowWolfWalk.png-b8d03bb93281bdb80fe737c1f0930f94.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Beasts/Wolf/_Shadows/ShadowWolfWalk.png"
-dest_files=["res://.godot/imported/ShadowWolfWalk.png-cc68fc4f5fa612235fd81a41ee67e1da.ctex"]
+source_file="res://Assets/characters/Beasts/Wolf/_Shadows/ShadowWolfWalk.png"
+dest_files=["res://.godot/imported/ShadowWolfWalk.png-b8d03bb93281bdb80fe737c1f0930f94.ctex"]
 
 [params]
 

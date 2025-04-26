@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csa7nbe0q42bl"
-path="res://.godot/imported/ShadowWildfireDmg.png-708062e089837ca162a2cf045e8b2441.ctex"
+path="res://.godot/imported/ShadowWildfireDmg.png-03f63e0fb5215096671511c6916a2601.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Undead/Wildfire/_Shadows/ShadowWildfireDmg.png"
-dest_files=["res://.godot/imported/ShadowWildfireDmg.png-708062e089837ca162a2cf045e8b2441.ctex"]
+source_file="res://Assets/characters/Undead/Wildfire/_Shadows/ShadowWildfireDmg.png"
+dest_files=["res://.godot/imported/ShadowWildfireDmg.png-03f63e0fb5215096671511c6916a2601.ctex"]
 
 [params]
 

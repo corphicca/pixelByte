@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chb8e3un1l48h"
-path="res://.godot/imported/SkeletonAttack.png-cbf1af7609f11cfd4256888fb88351b2.ctex"
+path="res://.godot/imported/SkeletonAttack.png-d11ea17e66f5e32ac510a081f6048c71.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Undead/Skeleton/SkeletonAttack.png"
-dest_files=["res://.godot/imported/SkeletonAttack.png-cbf1af7609f11cfd4256888fb88351b2.ctex"]
+source_file="res://Assets/characters/Undead/Skeleton/SkeletonAttack.png"
+dest_files=["res://.godot/imported/SkeletonAttack.png-d11ea17e66f5e32ac510a081f6048c71.ctex"]
 
 [params]
 

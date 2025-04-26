@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c86ycfgxivmpc"
-path="res://.godot/imported/BlueMotherSlimeDie.png-82800acce04c7f9124c5499a54d537b3.ctex"
+path="res://.godot/imported/BlueMotherSlimeDie.png-6e5d357e0b728cd332d66878ee278346.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Slimes/Blue_Mother_Slime/BlueMotherSlimeDie.png"
-dest_files=["res://.godot/imported/BlueMotherSlimeDie.png-82800acce04c7f9124c5499a54d537b3.ctex"]
+source_file="res://Assets/characters/Slimes/Blue_Mother_Slime/BlueMotherSlimeDie.png"
+dest_files=["res://.godot/imported/BlueMotherSlimeDie.png-6e5d357e0b728cd332d66878ee278346.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm1rdfb5w78jh"
-path="res://.godot/imported/YetiAttack.png-cff3b28134838300cb1941a44cd0c19d.ctex"
+path="res://.godot/imported/YetiAttack.png-98caddd508601e336b7d676aac49378c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Yeti/YetiAttack.png"
-dest_files=["res://.godot/imported/YetiAttack.png-cff3b28134838300cb1941a44cd0c19d.ctex"]
+source_file="res://Assets/characters/Monsters/Yeti/YetiAttack.png"
+dest_files=["res://.godot/imported/YetiAttack.png-98caddd508601e336b7d676aac49378c.ctex"]
 
 [params]
 

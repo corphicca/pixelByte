@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvd23r424bl66"
-path="res://.godot/imported/ShadowHumanoidSoulDie.png-34ab64c3ba5bb2837372d169e0bacf28.ctex"
+path="res://.godot/imported/ShadowHumanoidSoulDie.png-e1c82748a2b6093186467c44cec36ba0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Orc/Wild Orc/_Shadows/ShadowHumanoidSoulDie.png"
-dest_files=["res://.godot/imported/ShadowHumanoidSoulDie.png-34ab64c3ba5bb2837372d169e0bacf28.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Orc/Wild Orc/_Shadows/ShadowHumanoidSoulDie.png"
+dest_files=["res://.godot/imported/ShadowHumanoidSoulDie.png-e1c82748a2b6093186467c44cec36ba0.ctex"]
 
 [params]
 

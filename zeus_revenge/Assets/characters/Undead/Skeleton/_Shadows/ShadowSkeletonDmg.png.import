@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uex0c2jwp6ed"
-path="res://.godot/imported/ShadowSkeletonDmg.png-cd903998d355bdf0272c429dd841404d.ctex"
+path="res://.godot/imported/ShadowSkeletonDmg.png-509c07b0a693dfe5eaeb920070c6dcf5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Undead/Skeleton/_Shadows/ShadowSkeletonDmg.png"
-dest_files=["res://.godot/imported/ShadowSkeletonDmg.png-cd903998d355bdf0272c429dd841404d.ctex"]
+source_file="res://Assets/characters/Undead/Skeleton/_Shadows/ShadowSkeletonDmg.png"
+dest_files=["res://.godot/imported/ShadowSkeletonDmg.png-509c07b0a693dfe5eaeb920070c6dcf5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://de47ftoulu0rl"
-path="res://.godot/imported/ShadowPumkinHorrorIdle.png-24d898beaffe08111e3a922b578b79d0.ctex"
+path="res://.godot/imported/ShadowPumkinHorrorIdle.png-963b17b6b749a4816a26124d2b733dfd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Pumpkin_Horror/_Shadows/ShadowPumkinHorrorIdle.png"
-dest_files=["res://.godot/imported/ShadowPumkinHorrorIdle.png-24d898beaffe08111e3a922b578b79d0.ctex"]
+source_file="res://Assets/characters/Monsters/Pumpkin_Horror/_Shadows/ShadowPumkinHorrorIdle.png"
+dest_files=["res://.godot/imported/ShadowPumkinHorrorIdle.png-963b17b6b749a4816a26124d2b733dfd.ctex"]
 
 [params]
 

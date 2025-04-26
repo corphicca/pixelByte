@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwy6jujj0xsxu"
-path="res://.godot/imported/DwarfDmg.png-26c6ff48bec0667c17f5922dbe214565.ctex"
+path="res://.godot/imported/DwarfDmg.png-ce7d7c210f123f4aa63c4d5671e413cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Base_Dwarf/DwarfDmg.png"
-dest_files=["res://.godot/imported/DwarfDmg.png-26c6ff48bec0667c17f5922dbe214565.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Base_Dwarf/DwarfDmg.png"
+dest_files=["res://.godot/imported/DwarfDmg.png-ce7d7c210f123f4aa63c4d5671e413cb.ctex"]
 
 [params]
 

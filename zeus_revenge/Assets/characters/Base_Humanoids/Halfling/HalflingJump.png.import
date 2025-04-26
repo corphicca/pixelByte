@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbx3owyooe3js"
-path="res://.godot/imported/HalflingJump.png-afe513e1efdeee32a172d5ac5025b45b.ctex"
+path="res://.godot/imported/HalflingJump.png-95fcd6811daa33d86eb438f9895c14fe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Halfling/HalflingJump.png"
-dest_files=["res://.godot/imported/HalflingJump.png-afe513e1efdeee32a172d5ac5025b45b.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Halfling/HalflingJump.png"
+dest_files=["res://.godot/imported/HalflingJump.png-95fcd6811daa33d86eb438f9895c14fe.ctex"]
 
 [params]
 

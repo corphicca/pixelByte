@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6rqmgyit8j75"
-path="res://.godot/imported/CentaurAttack.png-6dad9ddfcdac587fb2f4dda2a4c3342b.ctex"
+path="res://.godot/imported/CentaurAttack.png-d75dd79844b80175a082e96ab54bf386.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Centaur/CentaurAttack.png"
-dest_files=["res://.godot/imported/CentaurAttack.png-6dad9ddfcdac587fb2f4dda2a4c3342b.ctex"]
+source_file="res://Assets/characters/Monsters/Centaur/CentaurAttack.png"
+dest_files=["res://.godot/imported/CentaurAttack.png-d75dd79844b80175a082e96ab54bf386.ctex"]
 
 [params]
 

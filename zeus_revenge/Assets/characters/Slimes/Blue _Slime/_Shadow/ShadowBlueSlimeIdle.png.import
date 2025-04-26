@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt6wetgk5ml7f"
-path="res://.godot/imported/ShadowBlueSlimeIdle.png-276edef58e3e0f665f11537b9a65e3f5.ctex"
+path="res://.godot/imported/ShadowBlueSlimeIdle.png-505cff5f220d81421ae1bf1b0da9e328.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Slimes/Blue _Slime/_Shadow/ShadowBlueSlimeIdle.png"
-dest_files=["res://.godot/imported/ShadowBlueSlimeIdle.png-276edef58e3e0f665f11537b9a65e3f5.ctex"]
+source_file="res://Assets/characters/Slimes/Blue _Slime/_Shadow/ShadowBlueSlimeIdle.png"
+dest_files=["res://.godot/imported/ShadowBlueSlimeIdle.png-505cff5f220d81421ae1bf1b0da9e328.ctex"]
 
 [params]
 

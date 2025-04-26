@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b106atopj2cdw"
-path="res://.godot/imported/BlueSlimeJumpAttack.png-1449827a37e9b22f94c2cf83fe4e8238.ctex"
+path="res://.godot/imported/BlueSlimeJumpAttack.png-a83c2c1d5bcb2dba3872be3b6f9eedfa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Slimes/Blue _Slime/BlueSlimeJumpAttack.png"
-dest_files=["res://.godot/imported/BlueSlimeJumpAttack.png-1449827a37e9b22f94c2cf83fe4e8238.ctex"]
+source_file="res://Assets/characters/Slimes/Blue _Slime/BlueSlimeJumpAttack.png"
+dest_files=["res://.godot/imported/BlueSlimeJumpAttack.png-a83c2c1d5bcb2dba3872be3b6f9eedfa.ctex"]
 
 [params]
 

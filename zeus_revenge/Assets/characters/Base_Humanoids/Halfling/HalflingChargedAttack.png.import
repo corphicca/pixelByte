@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdyhh1p0dmlbx"
-path="res://.godot/imported/HalflingChargedAttack.png-d43e1dced7b8936cc22f7ee7fb831cdc.ctex"
+path="res://.godot/imported/HalflingChargedAttack.png-eda44a217cfb9f4800ff317093607752.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Halfling/HalflingChargedAttack.png"
-dest_files=["res://.godot/imported/HalflingChargedAttack.png-d43e1dced7b8936cc22f7ee7fb831cdc.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Halfling/HalflingChargedAttack.png"
+dest_files=["res://.godot/imported/HalflingChargedAttack.png-eda44a217cfb9f4800ff317093607752.ctex"]
 
 [params]
 

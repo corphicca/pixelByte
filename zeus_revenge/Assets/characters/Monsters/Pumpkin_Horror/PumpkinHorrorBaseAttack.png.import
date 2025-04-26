@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6sw5qyy7b3bu"
-path="res://.godot/imported/PumpkinHorrorBaseAttack.png-ba4f748007edb1b8f720c55414adfe84.ctex"
+path="res://.godot/imported/PumpkinHorrorBaseAttack.png-e8893d56feb32cb83d2c3737271d4369.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Pumpkin_Horror/PumpkinHorrorBaseAttack.png"
-dest_files=["res://.godot/imported/PumpkinHorrorBaseAttack.png-ba4f748007edb1b8f720c55414adfe84.ctex"]
+source_file="res://Assets/characters/Monsters/Pumpkin_Horror/PumpkinHorrorBaseAttack.png"
+dest_files=["res://.godot/imported/PumpkinHorrorBaseAttack.png-e8893d56feb32cb83d2c3737271d4369.ctex"]
 
 [params]
 

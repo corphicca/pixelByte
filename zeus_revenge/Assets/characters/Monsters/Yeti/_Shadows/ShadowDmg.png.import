@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://l8e2ssl4ggha"
-path="res://.godot/imported/ShadowDmg.png-73353bbfd913e074d5cf3a25e1365abd.ctex"
+path="res://.godot/imported/ShadowDmg.png-6e82f5486d6323583365a26014949d5a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Yeti/_Shadows/ShadowDmg.png"
-dest_files=["res://.godot/imported/ShadowDmg.png-73353bbfd913e074d5cf3a25e1365abd.ctex"]
+source_file="res://Assets/characters/Monsters/Yeti/_Shadows/ShadowDmg.png"
+dest_files=["res://.godot/imported/ShadowDmg.png-6e82f5486d6323583365a26014949d5a.ctex"]
 
 [params]
 

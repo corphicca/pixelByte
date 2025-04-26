@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtgbgkunpfnwh"
-path="res://.godot/imported/GoblinDmg.png-5094678adae0f13f9a9bbcd476341f24.ctex"
+path="res://.godot/imported/GoblinDmg.png-f39492aa4934f41c943c4abed8b07820.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Goblin/GoblinDmg.png"
-dest_files=["res://.godot/imported/GoblinDmg.png-5094678adae0f13f9a9bbcd476341f24.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Goblin/GoblinDmg.png"
+dest_files=["res://.godot/imported/GoblinDmg.png-f39492aa4934f41c943c4abed8b07820.ctex"]
 
 [params]
 

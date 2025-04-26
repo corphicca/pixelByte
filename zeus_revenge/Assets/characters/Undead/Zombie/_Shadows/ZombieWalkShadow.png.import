@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dn7b6rlscne8b"
-path="res://.godot/imported/ZombieWalkShadow.png-05e364ab22dd5b92a428b4a65e9274f5.ctex"
+path="res://.godot/imported/ZombieWalkShadow.png-1195a6211826685d15d27a1c5cad1493.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Undead/Zombie/_Shadows/ZombieWalkShadow.png"
-dest_files=["res://.godot/imported/ZombieWalkShadow.png-05e364ab22dd5b92a428b4a65e9274f5.ctex"]
+source_file="res://Assets/characters/Undead/Zombie/_Shadows/ZombieWalkShadow.png"
+dest_files=["res://.godot/imported/ZombieWalkShadow.png-1195a6211826685d15d27a1c5cad1493.ctex"]
 
 [params]
 

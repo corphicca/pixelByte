@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dk51pxfbny8kd"
-path="res://.godot/imported/ShadowDwarfIdle.png-1dcf516ab1287a1479b4275b7bab176e.ctex"
+path="res://.godot/imported/ShadowDwarfIdle.png-61f7646d25dcdb3ca5df9764a47d3e78.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Base_Dwarf/_Shadows/ShadowDwarfIdle.png"
-dest_files=["res://.godot/imported/ShadowDwarfIdle.png-1dcf516ab1287a1479b4275b7bab176e.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Base_Dwarf/_Shadows/ShadowDwarfIdle.png"
+dest_files=["res://.godot/imported/ShadowDwarfIdle.png-61f7646d25dcdb3ca5df9764a47d3e78.ctex"]
 
 [params]
 

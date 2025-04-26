@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq7gfqijfseyk"
-path="res://.godot/imported/WolfAttack.png-fc28142ecc8cc5ad786231d4a1e521a0.ctex"
+path="res://.godot/imported/WolfAttack.png-3b058334c1b66f375e39acafbc38b32d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Beasts/Wolf/WolfAttack.png"
-dest_files=["res://.godot/imported/WolfAttack.png-fc28142ecc8cc5ad786231d4a1e521a0.ctex"]
+source_file="res://Assets/characters/Beasts/Wolf/WolfAttack.png"
+dest_files=["res://.godot/imported/WolfAttack.png-3b058334c1b66f375e39acafbc38b32d.ctex"]
 
 [params]
 

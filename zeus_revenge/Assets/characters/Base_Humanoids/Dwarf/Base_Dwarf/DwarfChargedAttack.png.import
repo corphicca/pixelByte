@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq1p0t6we6tg0"
-path="res://.godot/imported/DwarfChargedAttack.png-a7d542077a52d19b9d7a2d172a6c90c1.ctex"
+path="res://.godot/imported/DwarfChargedAttack.png-c7436c308226ba145b92a5359b0b49cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Base_Dwarf/DwarfChargedAttack.png"
-dest_files=["res://.godot/imported/DwarfChargedAttack.png-a7d542077a52d19b9d7a2d172a6c90c1.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Base_Dwarf/DwarfChargedAttack.png"
+dest_files=["res://.godot/imported/DwarfChargedAttack.png-c7436c308226ba145b92a5359b0b49cb.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyj5gt554mj4a"
-path="res://.godot/imported/ShadowWargAttack.png-6dd126cffc23772908c9e17fa8df0b6f.ctex"
+path="res://.godot/imported/ShadowWargAttack.png-d7dd410e4a13a7e1b03ade0dd23b2ce4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Beasts/Warg/_Shadows/ShadowWargAttack.png"
-dest_files=["res://.godot/imported/ShadowWargAttack.png-6dd126cffc23772908c9e17fa8df0b6f.ctex"]
+source_file="res://Assets/characters/Beasts/Warg/_Shadows/ShadowWargAttack.png"
+dest_files=["res://.godot/imported/ShadowWargAttack.png-d7dd410e4a13a7e1b03ade0dd23b2ce4.ctex"]
 
 [params]
 

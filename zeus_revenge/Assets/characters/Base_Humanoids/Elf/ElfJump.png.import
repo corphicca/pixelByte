@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k5o3m8bjrlk4"
-path="res://.godot/imported/ElfJump.png-fca9da5c7c2785aced87fd838111adb6.ctex"
+path="res://.godot/imported/ElfJump.png-2fd65cd446f1247d3e02579b4dda3de1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Elf/ElfJump.png"
-dest_files=["res://.godot/imported/ElfJump.png-fca9da5c7c2785aced87fd838111adb6.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Elf/ElfJump.png"
+dest_files=["res://.godot/imported/ElfJump.png-2fd65cd446f1247d3e02579b4dda3de1.ctex"]
 
 [params]
 

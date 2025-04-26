@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmeddpuekvyqv"
-path="res://.godot/imported/ShadowDmg.png-6e7c6deaccfc7110507e54beb879e9b0.ctex"
+path="res://.godot/imported/ShadowDmg.png-029ceb21279c76ba25f40e6666cefd57.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Minotaur/_Shadows/ShadowDmg.png"
-dest_files=["res://.godot/imported/ShadowDmg.png-6e7c6deaccfc7110507e54beb879e9b0.ctex"]
+source_file="res://Assets/characters/Monsters/Minotaur/_Shadows/ShadowDmg.png"
+dest_files=["res://.godot/imported/ShadowDmg.png-029ceb21279c76ba25f40e6666cefd57.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djvqed0gsksvm"
-path="res://.godot/imported/ShadowHumanoidSpinDie.png-4147fcf6af427886480315fc910029e9.ctex"
+path="res://.godot/imported/ShadowHumanoidSpinDie.png-1484676a1afb34ae73c0df36d03bf4c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Orc/Wild Orc/_Shadows/ShadowHumanoidSpinDie.png"
-dest_files=["res://.godot/imported/ShadowHumanoidSpinDie.png-4147fcf6af427886480315fc910029e9.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Orc/Wild Orc/_Shadows/ShadowHumanoidSpinDie.png"
+dest_files=["res://.godot/imported/ShadowHumanoidSpinDie.png-1484676a1afb34ae73c0df36d03bf4c1.ctex"]
 
 [params]
 

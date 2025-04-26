@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://21o0ucp20w28"
-path="res://.godot/imported/WildfireIdle.png-5628a99d097b92e590f2f3483f2ae3ec.ctex"
+path="res://.godot/imported/WildfireIdle.png-a65db9c43581bc683e5d2bf012b38e21.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Undead/Wildfire/WildfireIdle.png"
-dest_files=["res://.godot/imported/WildfireIdle.png-5628a99d097b92e590f2f3483f2ae3ec.ctex"]
+source_file="res://Assets/characters/Undead/Wildfire/WildfireIdle.png"
+dest_files=["res://.godot/imported/WildfireIdle.png-a65db9c43581bc683e5d2bf012b38e21.ctex"]
 
 [params]
 

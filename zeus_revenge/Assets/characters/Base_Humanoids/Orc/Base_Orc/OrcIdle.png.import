@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://snwi4bj6vsjo"
-path="res://.godot/imported/OrcIdle.png-4ea0a01b9b1c4196245777dcb29b08a1.ctex"
+path="res://.godot/imported/OrcIdle.png-9e8466eccaa7de7a5059fa88cd8b7a83.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Orc/Base_Orc/OrcIdle.png"
-dest_files=["res://.godot/imported/OrcIdle.png-4ea0a01b9b1c4196245777dcb29b08a1.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Orc/Base_Orc/OrcIdle.png"
+dest_files=["res://.godot/imported/OrcIdle.png-9e8466eccaa7de7a5059fa88cd8b7a83.ctex"]
 
 [params]
 

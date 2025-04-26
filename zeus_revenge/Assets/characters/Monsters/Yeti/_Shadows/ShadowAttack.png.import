@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0jg181wk07lh"
-path="res://.godot/imported/ShadowAttack.png-bdf530e058bbc00503803a9ae5bd35c5.ctex"
+path="res://.godot/imported/ShadowAttack.png-0c14f57e346881a16a4e0a0fd83c6d1a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Yeti/_Shadows/ShadowAttack.png"
-dest_files=["res://.godot/imported/ShadowAttack.png-bdf530e058bbc00503803a9ae5bd35c5.ctex"]
+source_file="res://Assets/characters/Monsters/Yeti/_Shadows/ShadowAttack.png"
+dest_files=["res://.godot/imported/ShadowAttack.png-0c14f57e346881a16a4e0a0fd83c6d1a.ctex"]
 
 [params]
 

@@ -1,4 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://c1yk6hsp7741g"]
+[gd_scene load_steps=4 format=3 uid="uid://c1yk6hsp7741g"]
+
+[ext_resource type="Texture2D" uid="uid://dnvtqy75t063d" path="res://Assets/Clouds/Clouds.png" id="1_r6bot"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_jqmas"]
 size = Vector2(23, 20)
@@ -21,3 +23,7 @@ position = Vector2(2, 0)
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CameraStopper"]
 position = Vector2(581, 647)
 shape = SubResource("WorldBoundaryShape2D_r6bot")
+
+[node name="Clouds" type="Sprite2D" parent="."]
+position = Vector2(553, -318)
+texture = ExtResource("1_r6bot")

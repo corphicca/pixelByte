@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lignavfxbeo4"
-path="res://.godot/imported/ShadowTrasgoChargedAttack.png-5bbd6fd2459530d9e321312ed13ddb97.ctex"
+path="res://.godot/imported/ShadowTrasgoChargedAttack.png-39bd1efbfd038dac8fbdc768d7a779a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Trasgo/_Shadows/ShadowTrasgoChargedAttack.png"
-dest_files=["res://.godot/imported/ShadowTrasgoChargedAttack.png-5bbd6fd2459530d9e321312ed13ddb97.ctex"]
+source_file="res://Assets/characters/Monsters/Trasgo/_Shadows/ShadowTrasgoChargedAttack.png"
+dest_files=["res://.godot/imported/ShadowTrasgoChargedAttack.png-39bd1efbfd038dac8fbdc768d7a779a3.ctex"]
 
 [params]
 

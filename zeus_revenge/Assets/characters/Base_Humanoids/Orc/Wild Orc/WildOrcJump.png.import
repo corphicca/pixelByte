@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ssh52mgu5vgg"
-path="res://.godot/imported/WildOrcJump.png-633c70688d547a4442d5c473c9c77972.ctex"
+path="res://.godot/imported/WildOrcJump.png-0166cd041be9e7be5b8f8134f4f1d13d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Orc/Wild Orc/WildOrcJump.png"
-dest_files=["res://.godot/imported/WildOrcJump.png-633c70688d547a4442d5c473c9c77972.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Orc/Wild Orc/WildOrcJump.png"
+dest_files=["res://.godot/imported/WildOrcJump.png-0166cd041be9e7be5b8f8134f4f1d13d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds4a6o2ixu1bi"
-path="res://.godot/imported/ShadowJump.png-47d695b2e80dc4c53077501ae2b38518.ctex"
+path="res://.godot/imported/ShadowJump.png-829aecb99b896ab5f0847eac5db509ec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Cyclop/_Shadows/ShadowJump.png"
-dest_files=["res://.godot/imported/ShadowJump.png-47d695b2e80dc4c53077501ae2b38518.ctex"]
+source_file="res://Assets/characters/Monsters/Cyclop/_Shadows/ShadowJump.png"
+dest_files=["res://.godot/imported/ShadowJump.png-829aecb99b896ab5f0847eac5db509ec.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctne86logfd35"
-path="res://.godot/imported/GoblinSpinDie.png-1e515810f2727084dcb42945e1a5aa5b.ctex"
+path="res://.godot/imported/GoblinSpinDie.png-882d94b36fe068a74e825a73e34ada12.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Goblin/GoblinSpinDie.png"
-dest_files=["res://.godot/imported/GoblinSpinDie.png-1e515810f2727084dcb42945e1a5aa5b.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Goblin/GoblinSpinDie.png"
+dest_files=["res://.godot/imported/GoblinSpinDie.png-882d94b36fe068a74e825a73e34ada12.ctex"]
 
 [params]
 

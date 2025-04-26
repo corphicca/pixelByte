@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdh5vphlh2ki5"
-path="res://.godot/imported/AmazonIdle.png-f3078a2220bb43f18fe7fbb7a970d371.ctex"
+path="res://.godot/imported/AmazonIdle.png-150800a71c1d8438b1820cdc1e09a0fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Human/Human_Amazon/AmazonIdle.png"
-dest_files=["res://.godot/imported/AmazonIdle.png-f3078a2220bb43f18fe7fbb7a970d371.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Human/Human_Amazon/AmazonIdle.png"
+dest_files=["res://.godot/imported/AmazonIdle.png-150800a71c1d8438b1820cdc1e09a0fb.ctex"]
 
 [params]
 

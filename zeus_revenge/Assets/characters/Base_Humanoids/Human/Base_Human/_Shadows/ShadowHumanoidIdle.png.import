@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c50ldjeflqxab"
-path="res://.godot/imported/ShadowHumanoidIdle.png-2c582ffba1df19f5d51202c50b2dc7f2.ctex"
+path="res://.godot/imported/ShadowHumanoidIdle.png-7fb69a2c7c51acbb3020b6f1cab87bb3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Human/Base_Human/_Shadows/ShadowHumanoidIdle.png"
-dest_files=["res://.godot/imported/ShadowHumanoidIdle.png-2c582ffba1df19f5d51202c50b2dc7f2.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Human/Base_Human/_Shadows/ShadowHumanoidIdle.png"
+dest_files=["res://.godot/imported/ShadowHumanoidIdle.png-7fb69a2c7c51acbb3020b6f1cab87bb3.ctex"]
 
 [params]
 

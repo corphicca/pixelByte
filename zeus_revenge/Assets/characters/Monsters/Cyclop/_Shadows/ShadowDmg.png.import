@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jr0k0whyt4xi"
-path="res://.godot/imported/ShadowDmg.png-d9148d93b20302c01e96f21a41c13f33.ctex"
+path="res://.godot/imported/ShadowDmg.png-da74ad0ad141f5494828d61535e54e5b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Cyclop/_Shadows/ShadowDmg.png"
-dest_files=["res://.godot/imported/ShadowDmg.png-d9148d93b20302c01e96f21a41c13f33.ctex"]
+source_file="res://Assets/characters/Monsters/Cyclop/_Shadows/ShadowDmg.png"
+dest_files=["res://.godot/imported/ShadowDmg.png-da74ad0ad141f5494828d61535e54e5b.ctex"]
 
 [params]
 

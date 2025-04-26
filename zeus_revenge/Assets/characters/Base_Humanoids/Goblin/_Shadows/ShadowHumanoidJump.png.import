@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccg4buhms1lp1"
-path="res://.godot/imported/ShadowHumanoidJump.png-5372195f8fa8b219808aae750b64229e.ctex"
+path="res://.godot/imported/ShadowHumanoidJump.png-78fb8403b008d360b382de6f21c4dfd0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Goblin/_Shadows/ShadowHumanoidJump.png"
-dest_files=["res://.godot/imported/ShadowHumanoidJump.png-5372195f8fa8b219808aae750b64229e.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Goblin/_Shadows/ShadowHumanoidJump.png"
+dest_files=["res://.godot/imported/ShadowHumanoidJump.png-78fb8403b008d360b382de6f21c4dfd0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlb532u2jcq4q"
-path="res://.godot/imported/YellowBearWalk.png-83ef868a7c5f4a69e3def9d3589c49c7.ctex"
+path="res://.godot/imported/YellowBearWalk.png-3ad5cda3c8d16dbe1a9316c4c43d8382.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/YellowBearWalk.png"
-dest_files=["res://.godot/imported/YellowBearWalk.png-83ef868a7c5f4a69e3def9d3589c49c7.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/YellowBearWalk.png"
+dest_files=["res://.godot/imported/YellowBearWalk.png-3ad5cda3c8d16dbe1a9316c4c43d8382.ctex"]
 
 [params]
 

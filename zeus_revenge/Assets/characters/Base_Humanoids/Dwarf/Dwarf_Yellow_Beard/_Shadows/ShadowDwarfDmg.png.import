@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc7uusfjlfndh"
-path="res://.godot/imported/ShadowDwarfDmg.png-f0f05a4b55d74b746a30c1cfeaf12099.ctex"
+path="res://.godot/imported/ShadowDwarfDmg.png-cda4207e2517edd0d3997c9cb413a9ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/_Shadows/ShadowDwarfDmg.png"
-dest_files=["res://.godot/imported/ShadowDwarfDmg.png-f0f05a4b55d74b746a30c1cfeaf12099.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/_Shadows/ShadowDwarfDmg.png"
+dest_files=["res://.godot/imported/ShadowDwarfDmg.png-cda4207e2517edd0d3997c9cb413a9ca.ctex"]
 
 [params]
 

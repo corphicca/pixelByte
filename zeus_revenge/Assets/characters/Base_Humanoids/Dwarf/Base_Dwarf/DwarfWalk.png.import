@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://damvxpepans8b"
-path="res://.godot/imported/DwarfWalk.png-8a16fa3f764d6a697b716ef525a38219.ctex"
+path="res://.godot/imported/DwarfWalk.png-6db8a41b06073afb5a13a92f4edda1f2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Base_Dwarf/DwarfWalk.png"
-dest_files=["res://.godot/imported/DwarfWalk.png-8a16fa3f764d6a697b716ef525a38219.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Base_Dwarf/DwarfWalk.png"
+dest_files=["res://.godot/imported/DwarfWalk.png-6db8a41b06073afb5a13a92f4edda1f2.ctex"]
 
 [params]
 

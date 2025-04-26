@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cy25b015nigt6"
-path="res://.godot/imported/TrasgoDmg.png-71659cfdd51f27fa6cf3b08c44cd2d67.ctex"
+path="res://.godot/imported/TrasgoDmg.png-6f38188707a43ce2c2433b900c2a84cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Trasgo/TrasgoDmg.png"
-dest_files=["res://.godot/imported/TrasgoDmg.png-71659cfdd51f27fa6cf3b08c44cd2d67.ctex"]
+source_file="res://Assets/characters/Monsters/Trasgo/TrasgoDmg.png"
+dest_files=["res://.godot/imported/TrasgoDmg.png-6f38188707a43ce2c2433b900c2a84cc.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2iqt3gygcy2q"
-path="res://.godot/imported/TrollJump.png-8b28e7a62421e8c4c69ff0df0e1d2fca.ctex"
+path="res://.godot/imported/TrollJump.png-ada415cbfb3847d485142ae79810c418.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Monsters/Troll/TrollJump.png"
-dest_files=["res://.godot/imported/TrollJump.png-8b28e7a62421e8c4c69ff0df0e1d2fca.ctex"]
+source_file="res://Assets/characters/Monsters/Troll/TrollJump.png"
+dest_files=["res://.godot/imported/TrollJump.png-ada415cbfb3847d485142ae79810c418.ctex"]
 
 [params]
 

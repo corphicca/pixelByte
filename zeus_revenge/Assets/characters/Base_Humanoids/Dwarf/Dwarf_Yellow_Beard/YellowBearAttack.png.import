@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwfjg5d31oan4"
-path="res://.godot/imported/YellowBearAttack.png-e309c92f774099cc15b42d41c25316ae.ctex"
+path="res://.godot/imported/YellowBearAttack.png-b433974ac6aa92dc3716c5b39b80dd3d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/YellowBearAttack.png"
-dest_files=["res://.godot/imported/YellowBearAttack.png-e309c92f774099cc15b42d41c25316ae.ctex"]
+source_file="res://Assets/characters/Base_Humanoids/Dwarf/Dwarf_Yellow_Beard/YellowBearAttack.png"
+dest_files=["res://.godot/imported/YellowBearAttack.png-b433974ac6aa92dc3716c5b39b80dd3d.ctex"]
 
 [params]
 

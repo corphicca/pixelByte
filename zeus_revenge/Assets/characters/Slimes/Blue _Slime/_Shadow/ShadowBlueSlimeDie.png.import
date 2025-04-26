@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cv5lah78m1qcj"
-path="res://.godot/imported/ShadowBlueSlimeDie.png-a9bf04f5fca63c58a205f9584bb69dd8.ctex"
+path="res://.godot/imported/ShadowBlueSlimeDie.png-6dc3fbe327b21e0c9777411f58618a04.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Slimes/Blue _Slime/_Shadow/ShadowBlueSlimeDie.png"
-dest_files=["res://.godot/imported/ShadowBlueSlimeDie.png-a9bf04f5fca63c58a205f9584bb69dd8.ctex"]
+source_file="res://Assets/characters/Slimes/Blue _Slime/_Shadow/ShadowBlueSlimeDie.png"
+dest_files=["res://.godot/imported/ShadowBlueSlimeDie.png-6dc3fbe327b21e0c9777411f58618a04.ctex"]
 
 [params]
 
