@@ -9,9 +9,8 @@
 [ext_resource type="PackedScene" uid="uid://dsbffyfxpg8cc" path="res://Scenes/Levels/Ocean_Level/Ocean_Vertical_Hallway.tscn" id="6_pre21"]
 [ext_resource type="PackedScene" uid="uid://d0wtkkddpcrqh" path="res://Scenes/Levels/Ocean_Level/ocean_level_H_common_room.tscn" id="8_2dytx"]
 [ext_resource type="PackedScene" uid="uid://cf6yt4475l3p" path="res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway2.tscn" id="9_pvtbk"]
-[ext_resource type="PackedScene" uid="uid://5y3o6s17s4hn" path="res://Scenes/Intro/ProtagProto.tscn" id="10_5ccin"]
+[ext_resource type="PackedScene" uid="uid://c1kguv6qhtxjx" path="res://Scenes/Intro/ProtagProto.tscn" id="10_5ccin"]
 [ext_resource type="PackedScene" uid="uid://4dgb73jod1l1" path="res://Scenes/Enemies/monster_ocean_body.tscn" id="11_11xuu"]
-[ext_resource type="Texture2D" uid="uid://b5xq32pyem0a1" path="res://Assets/Fantasy Minimal Pixel Art GUI by eta-commercial-free/UI/HeartIcons_32x32.png" id="11_wnk5i"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_11xuu"]
 size = Vector2(192, 192)
@@ -117,22 +116,12 @@ position = Vector2(-400, 336)
 
 [node name="CharacterBody2D" parent="." instance=ExtResource("10_5ccin")]
 z_index = 1
-full_heart_texture = ExtResource("11_wnk5i")
 
 [node name="Enemies" type="Node" parent="."]
 
 [node name="Monster_ocean_Body" parent="Enemies" instance=ExtResource("11_11xuu")]
 position = Vector2(-38, 64)
 
-<<<<<<< HEAD
-[node name="UI" type="CanvasLayer" parent="."]
-
-[node name="HBoxContainer" type="HBoxContainer" parent="UI"]
-offset_left = 13.0
-offset_top = 6.0
-offset_right = 353.0
-offset_bottom = 73.0
-=======
 [node name="Room_Areas" type="Node" parent="."]
 
 [node name="Room_1" type="Area2D" parent="Room_Areas"]
@@ -144,4 +133,3 @@ collision_mask = 2
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Room_Areas/Room_1"]
 z_index = 2
 shape = SubResource("RectangleShape2D_11xuu")
->>>>>>> 0a93c55856157b0920fb3afa036ed314d77fbb7b
