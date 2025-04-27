@@ -1,2 +1,6 @@
 res://Scenes/Menu/intro_menu.tscn
 res://Scenes/Menu/scriptcs_menu/intro_menu.gd
+res://settings.gd
+res://Scenes/Menu/settings.tscn
+res://Scenes/Menu/FadeTransition.tscn
+res://Scenes/Menu/intro_menu.gd

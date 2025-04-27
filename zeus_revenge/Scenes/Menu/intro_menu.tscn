@@ -1,81 +1,62 @@
-[gd_scene load_steps=6 format=3 uid="uid://c1yk6hsp7741g"]
+[gd_scene load_steps=7 format=3 uid="uid://bab0ggr2q2aek"]
 
-[ext_resource type="Script" uid="uid://bquu11oblkxmu" path="res://Scenes/Menu/scriptcs_menu/intro_menu.gd" id="1_f41bl"]
-[ext_resource type="Texture2D" uid="uid://b1s47w40trpld" path="res://Assets/backgrounds/Space Background.png" id="1_r6bot"]
-[ext_resource type="PackedScene" uid="uid://ct7uqbvg53p3o" path="res://Scenes/Menu/FadeTransition.tscn" id="3_bo5cf"]
+[ext_resource type="Script" uid="uid://bi1wdpkbu6qy3" path="res://Scenes/Menu/menu scripts/intro_menu.gd" id="1_f41bl"]
+[ext_resource type="Texture2D" uid="uid://dtt8k6j57lann" path="res://Assets/backgrounds/space_background_pack/space_background_pack/Assets/Blue Version/blue-preview.png" id="2_bo5cf"]
+[ext_resource type="Texture2D" uid="uid://ceb3b5qn1s8v6" path="res://Assets/Pixelarium - Interfaces Bundle - Free version/Pixelarium - Interfaces Bundle - Free version/Pack Content/DarkMode Interface/GameplayHud/spr_banner_hud.png" id="3_7i1ai"]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_r6bot"]
-size = Vector2(22, 18)
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_f41bl"]
+texture = ExtResource("3_7i1ai")
 
-[sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_r6bot"]
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_bo5cf"]
+texture = ExtResource("3_7i1ai")
 
-[node name="IntroMenu" type="Node2D"]
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_7i1ai"]
+texture = ExtResource("3_7i1ai")
+
+[node name="introMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
 script = ExtResource("1_f41bl")
 
-[node name="SpaceBackground" type="Sprite2D" parent="."]
-position = Vector2(705, -804)
-texture = ExtResource("1_r6bot")
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_bo5cf")
 
-[node name="IntroFaller" type="RigidBody2D" parent="."]
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
 
-[node name="CameraCollision" type="CollisionShape2D" parent="IntroFaller"]
-position = Vector2(597, -1971)
-shape = SubResource("RectangleShape2D_r6bot")
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer"]
+layout_mode = 2
 
-[node name="Camera2D" type="Camera2D" parent="IntroFaller/CameraCollision"]
-position = Vector2(-6, 1)
+[node name="Play" type="Button" parent="CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_styles/normal = SubResource("StyleBoxTexture_f41bl")
+text = "Play
+"
 
-[node name="CameraStopper" type="StaticBody2D" parent="."]
+[node name="Settings" type="Button" parent="CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_styles/normal = SubResource("StyleBoxTexture_bo5cf")
+text = "Settings"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="CameraStopper"]
-position = Vector2(576, 359)
-shape = SubResource("WorldBoundaryShape2D_r6bot")
-
-[node name="Button_Manager" type="Control" parent="."]
-layout_mode = 3
-anchors_preset = 0
-offset_right = 40.0
-offset_bottom = 40.0
-
-[node name="Start" type="Button" parent="Button_Manager"]
-layout_mode = 0
-offset_left = 157.0
-offset_top = 275.0
-offset_right = 475.0
-offset_bottom = 366.0
-text = "Start Game"
-
-[node name="Options" type="Button" parent="Button_Manager"]
-layout_mode = 0
-offset_left = 151.0
-offset_top = 400.0
-offset_right = 481.0
-offset_bottom = 505.0
-text = "Options"
-
-[node name="ExitGame" type="Button" parent="Button_Manager"]
-layout_mode = 0
-offset_left = 151.0
-offset_top = 520.0
-offset_right = 477.0
-offset_bottom = 616.0
+[node name="ExitGame" type="Button" parent="CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_styles/normal = SubResource("StyleBoxTexture_7i1ai")
 text = "Exit Game"
-
-[node name="Title" type="Button" parent="Button_Manager"]
-layout_mode = 0
-offset_left = 82.0
-offset_top = 51.0
-offset_right = 672.0
-offset_bottom = 196.0
-theme_override_font_sizes/font_size = 100
-text = "PlaceHolder"
-
-[node name="FadeTransition" parent="." instance=ExtResource("3_bo5cf")]
-visible = false
-offset_top = -2509.0
-
-[node name="Fade_timer" type="Timer" parent="FadeTransition"]
-
-[connection signal="pressed" from="Button_Manager/Start" to="." method="_on_start_pressed"]
-[connection signal="pressed" from="Button_Manager/Options" to="." method="_on_options_pressed"]
-[connection signal="pressed" from="Button_Manager/ExitGame" to="." method="_on_exit_game_pressed"]
