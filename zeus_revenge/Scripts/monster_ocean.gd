@@ -12,11 +12,6 @@ func _ready() -> void:
 	vfx = character.get_node("AnimatedSprite2D2")
 
 func _on_timer_timeout() -> void:
-<<<<<<< HEAD
-=======
-	print("Attack")
-	
->>>>>>> 350694c24bbd70c39a2e66fb3fe0aa239090442f
 	var distance = character.global_position.distance_to(pos.global_position)
 	if distance <= 250:
 		vfx.show()
