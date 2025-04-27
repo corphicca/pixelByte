@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=3 uid="uid://bab0ggr2q2aek"]
+[gd_scene load_steps=7 format=3 uid="uid://c1yk6hsp7741g"]
 
 [ext_resource type="Script" uid="uid://bi1wdpkbu6qy3" path="res://Scenes/Menu/menu scripts/intro_menu.gd" id="1_f41bl"]
 [ext_resource type="Texture2D" uid="uid://dtt8k6j57lann" path="res://Assets/backgrounds/space_background_pack/space_background_pack/Assets/Blue Version/blue-preview.png" id="2_bo5cf"]
