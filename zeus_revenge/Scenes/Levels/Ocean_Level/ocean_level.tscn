@@ -1,7 +1,9 @@
-[gd_scene load_steps=6 format=3 uid="uid://d4gabpx6t1msy"]
+[gd_scene load_steps=8 format=3 uid="uid://d4gabpx6t1msy"]
 
 [ext_resource type="Texture2D" uid="uid://bmxdrfslby77v" path="res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/Tileset.png" id="1_qm1vk"]
 [ext_resource type="Texture2D" uid="uid://cvgmo507251eh" path="res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Tileset/Shadows.png" id="2_j1tkr"]
+[ext_resource type="PackedScene" uid="uid://c21fosgn6debf" path="res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn" id="3_ig01x"]
+[ext_resource type="PackedScene" uid="uid://pf2r0plrqjed" path="res://Scenes/Levels/Ocean_Level/Ocean_Hallway.tscn" id="4_sx0qm"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_cla0v"]
 texture = ExtResource("1_qm1vk")
@@ -1065,3 +1067,11 @@ format = 2
 layer_0/name = "Background"
 layer_1/name = "Floor"
 layer_2/name = "Walls_Props"
+
+[node name="Ocean_Level_StartRoom" parent="." instance=ExtResource("3_ig01x")]
+
+[node name="OceanHallway" parent="." instance=ExtResource("4_sx0qm")]
+position = Vector2(160, 9)
+
+[node name="OceanHallway2" parent="." instance=ExtResource("4_sx0qm")]
+position = Vector2(-160, 8)
