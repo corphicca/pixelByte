@@ -125,6 +125,6 @@ position = Vector2(-38, 64)
 
 [node name="HBoxContainer" type="HBoxContainer" parent="UI"]
 offset_left = 13.0
-offset_top = 6.0
-offset_right = 353.0
+offset_top = -3.0
+offset_right = 231.0
 offset_bottom = 73.0

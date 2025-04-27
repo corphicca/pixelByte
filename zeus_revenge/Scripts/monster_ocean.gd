@@ -8,4 +8,4 @@ func _ready() -> void:
 
 func _on_timer_timeout() -> void:
 	print("Attack")
-	print(character.position)
+	

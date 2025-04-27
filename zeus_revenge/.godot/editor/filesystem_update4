@@ -1,1 +1,12 @@
 res://Scenes/Intro/MotherIntro.tscn
+res://Scenes/Intro/mother_intro.gd
+res://Scenes/Enemies/monster_ocean_body.tscn
+res://Scenes/Intro/story_2.gd
+res://Scenes/Intro/ProtagProto.tscn
+res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+res://Scenes/Intro/protag_proto.gd
+res://Scenes/Levels/Ocean_Level/ocean_level.tscn
+res://Scenes/Intro/area_2d.gd
+res://Scenes/Intro/mom.tscn
+res://Scenes/Intro/intro_scene.tscn
+res://Scripts/monster_ocean.gd
