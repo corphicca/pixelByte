@@ -1,0 +1,14 @@
+res://Scenes/Menu/intro_menu.tscn
+res://Scenes/Levels/Ocean_Level/ocean_level.tscn
+res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+res://Scenes/Menu/CreatorIntro.tscn
+res://Scenes/Menu/menu scripts/intro_menu.gd
+res://Scenes/Menu/shaker.gd
+res://Scenes/Intro/MotherIntro.tscn
+res://Scenes/Intro/mother_intro.gd
+res://Scenes/Intro/story.tscn
+res://Scenes/Intro/story.gd
+res://Scenes/Intro/story2.gd
+res://Scenes/Intro/story2.tscn
+res://Scenes/Intro/story_2.gd
+res://Scenes/Menu/menu scripts/node_2d.gd

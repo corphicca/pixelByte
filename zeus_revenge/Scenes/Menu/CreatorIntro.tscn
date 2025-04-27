@@ -1,0 +1,78 @@
+[gd_scene load_steps=7 format=3 uid="uid://b8ky04byhw08k"]
+
+[ext_resource type="Script" uid="uid://cse6y486ofvvp" path="res://Scenes/Menu/menu scripts/node_2d.gd" id="1_wrldl"]
+[ext_resource type="Texture2D" uid="uid://fugmf2xe5x3w" path="res://Assets/backgrounds/A Game By.jpg" id="2_tta8p"]
+
+[sub_resource type="Animation" id="Animation_tta8p"]
+resource_name = "Black_Out"
+length = 3.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(1, 3),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0), Color(0, 0, 0, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_wrldl"]
+resource_name = "Black_in"
+length = 3.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_ob07v"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_ob07v"]
+_data = {
+&"Black_Out": SubResource("Animation_tta8p"),
+&"Black_in": SubResource("Animation_wrldl"),
+&"RESET": SubResource("Animation_ob07v")
+}
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_wrldl")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(640.689, 361.95)
+scale = Vector2(1.01681, 1.01681)
+texture = ExtResource("2_tta8p")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_left = -24.0
+offset_top = -32.0
+offset_right = 1303.0
+offset_bottom = 741.0
+color = Color(0, 0, 0, 0)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+&"": SubResource("AnimationLibrary_ob07v")
+}
