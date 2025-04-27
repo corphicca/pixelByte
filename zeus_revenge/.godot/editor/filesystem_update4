@@ -1,3 +1,8 @@
 res://Scenes/Menu/intro_menu.tscn
 res://Scenes/Intro/intro_scene.tscn
 res://Scenes/Menu/scriptcs_menu/intro_menu.gd
+res://Assets/characters/ChibiChars/readme.txt
+res://Assets/characters/ChibiChars/this is only a demo.txt
+res://Scenes/Intro/ProtagProto.tscn
+res://Scenes/Intro/animated_sprite_2d.gd
+res://Scenes/Intro/protag_proto.gd
