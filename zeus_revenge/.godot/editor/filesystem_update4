@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn
 res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 res://Scenes/Levels/Ocean_Level/Ocean_Hallway.tscn
@@ -13,3 +14,9 @@ res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway2.tscn
 res://Scenes/Intro/ProtagProto.tscn
 res://Scenes/Intro/protag_proto.gd
 res://Scenes/Levels/Ocean_Level/Ocean_Hallway_Horiz.tscn
+=======
+res://Scenes/Levels/Ocean_Level/ocean_level.tscn
+res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+res://Scenes/Levels/Ocean_Level/ocean_level_V_common_room.tscn
+res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn
+>>>>>>> Stashed changes
