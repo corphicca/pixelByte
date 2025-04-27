@@ -7,3 +7,4 @@ res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn
 res://Scenes/Enemies/monster_ocean_body.tscn
 res://Scenes/Intro/ProtagProto.tscn
 res://Scenes/Intro/protag_proto.gd
+res://Scenes/Levels/Ocean_Level/ocean_level_H_common_room.tscn
