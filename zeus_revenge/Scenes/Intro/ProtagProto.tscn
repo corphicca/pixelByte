@@ -270,3 +270,6 @@ position = Vector2(0, -0.5)
 scale = Vector2(0.569908, 1)
 shape = SubResource("CapsuleShape2D_uwwjx")
 debug_color = Color(1, 0, 0, 0.419608)
+
+[node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
+zoom = Vector2(4, 4)
