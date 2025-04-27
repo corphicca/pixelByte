@@ -6,6 +6,21 @@
 [ext_resource type="Texture2D" uid="uid://b6ywoqv6gesyr" path="res://Assets/backgrounds/background2.png" id="4_swj6n"]
 [ext_resource type="Texture2D" uid="uid://bbk2ioe3oq8r8" path="res://Assets/intro_charac/part2-removebg-preview.png" id="5_mu52q"]
 
+[sub_resource type="Animation" id="Animation_o0u2n"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(357, 561)]
+}
+
 [sub_resource type="Animation" id="Animation_6jnwc"]
 resource_name = "slide"
 length = 5.0
@@ -20,21 +35,6 @@ tracks/0/keys = {
 "transitions": PackedFloat32Array(1, 1),
 "update": 0,
 "values": [Vector2(570, 427), Vector2(641, 361)]
-}
-
-[sub_resource type="Animation" id="Animation_o0u2n"]
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath(".:position")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 0,
-"values": [Vector2(357, 561)]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_yklyo"]
@@ -80,6 +80,21 @@ _data = {
 &"motherWalk": SubResource("Animation_jf0l5")
 }
 
+[sub_resource type="Animation" id="Animation_mu52q"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(0, 0, 0, 0)]
+}
+
 [sub_resource type="Animation" id="Animation_swj6n"]
 resource_name = "fade_in"
 length = 6.0
@@ -94,21 +109,6 @@ tracks/0/keys = {
 "transitions": PackedFloat32Array(1, 1),
 "update": 0,
 "values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
-}
-
-[sub_resource type="Animation" id="Animation_mu52q"]
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath(".:color")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 0,
-"values": [Color(0, 0, 0, 0)]
 }
 
 [sub_resource type="Animation" id="Animation_yklyo"]
