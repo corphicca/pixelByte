@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 res://Assets/characters/ChibiChars/char_a_p1
 res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets
 res://Scenes/Levels/Ocean_Level
 res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Premade_Scene
+=======
+res://Scenes/Intro
+res://Assets/characters/ChibiChars/char_a_p1
+res://Assets/characters/ChibiChars/char_a_p1/4har
+res://Scenes/Menu
+>>>>>>> 81121c0715a8df7512da14a111c36ab1c73409f5
