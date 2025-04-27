@@ -6,3 +6,7 @@ res://Scenes/Levels/Ocean_Level/ocean_level.tscn
 res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn
 res://Scenes/Levels/Ocean_Level/ocean_level_common_room.tscn
 res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway.tscn
+res://Scenes/Levels/Ocean_Level/Ocean_Vertical_Hallway.tscn
+res://Scenes/Levels/Ocean_Level/ocean_level_V_common_room.tscn
+res://Scenes/Levels/Ocean_Level/ocean_level_H_common_room.tscn
+res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway2.tscn
