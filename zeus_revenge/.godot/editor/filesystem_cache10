@@ -1,7 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
 ::res://::1745737699
 game_manager.tscn::PackedScene/PackedScene::7075268726104667232::1745730774::0::1::::<><><>0<>0<><>::
-::res://Assets/::1745737687
+::res://Assets/::1745740831
 icon.svg::CompressedTexture2D/CompressedTexture2D::7585732403192757058::1745730774::1745730774::1::::<><><>0<>0<>a474007fe1e221343321a6146801cebe<>res://.godot/imported/icon.svg-8193eb3d66a1b5143b8bb4c28c1dc139.ctex::
 Pot_Game_Feature.png::CompressedTexture2D/CompressedTexture2D::2664723552763174402::1745730774::1745730809::1::::<><><>0<>0<>0b409215a1f9ef008062e021f0d33f55<>res://.godot/imported/Pot_Game_Feature.png-8d44bd0205eaa805a28da9cc65f975b2.ctex::
 ::res://Assets/backgrounds/::1745737555
@@ -961,24 +961,24 @@ Use_Guideline_Layer.png::CompressedTexture2D/CompressedTexture2D::78971376420229
 read_me.txt::TextFile::-1::1745737555::0::1::::<><><>0<>0<><>::
 ::res://Assets/Pixelaruim/Bundle Interface/Pack Content/::1745737555
 ::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/::1745737555
-::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Dialogue interfaces/::1745737687
+::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Dialogue interfaces/::1745737699
 spr_dialogue_box_9slice.png::CompressedTexture2D::3358327008413275072::1745737555::1745737699::1::::<><><>0<>0<>686b7331b751c31490c3cc2e31ddc564<>res://.godot/imported/spr_dialogue_box_9slice.png-6c6807285e8314140fc08cc86c74aa0f.ctex::
 spr_dialogue_box_button.png::CompressedTexture2D::1317948137198201011::1745737555::1745737699::1::::<><><>0<>0<>4fc5732fc03c64b17a853e01ea339156<>res://.godot/imported/spr_dialogue_box_button.png-862736d03fd1fa605c76ccffd5c7617d.ctex::
 spr_dialogue_box_withoutstartingpoint_9slice.png::CompressedTexture2D::1968005029947081690::1745737555::1745737699::1::::<><><>0<>0<>1e6a4441fe5c150a9cb3c8d36fe2b105<>res://.godot/imported/spr_dialogue_box_withoutstartingpoint_9slice.png-7891963820772d073b54389f87343219.ctex::
-::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Enemy Healthbar/::1745737687
+::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Enemy Healthbar/::1745737699
 spr_enemy_health_bar.png::CompressedTexture2D::8770242285909073262::1745737555::1745737699::1::::<><><>0<>0<>93bbbd4bff2000ccbfa70cb43bca182a<>res://.godot/imported/spr_enemy_health_bar.png-2084c0a23156b6008dcdb6e7503b6afc.ctex::
 spr_enemy_health_bar_frame.png::CompressedTexture2D::3039423200984815468::1745737555::1745737699::1::::<><><>0<>0<>f644893c258dd38009a017b891199df1<>res://.godot/imported/spr_enemy_health_bar_frame.png-b4966d3d8b4150e5c22d28fbbd9c4e3c.ctex::
-::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/GameplayHud/::1745737687
+::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/GameplayHud/::1745737699
 spr_banner_hud.png::CompressedTexture2D::5057364582327283901::1745737555::1745737699::1::::<><><>0<>0<>976c205a3aa7d9e7932fe3d4aaec372f<>res://.godot/imported/spr_banner_hud.png-b3285f5dac3d358d3021400798ca73b8.ctex::
 ::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Player interface/::1745737555
-::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Player interface/Player Status/::1745737687
+::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Player interface/Player Status/::1745737699
 spr_item_slot.png::CompressedTexture2D::929477566399289251::1745737555::1745737699::1::::<><><>0<>0<>fbe27f7584d374c94faf79c00af2048b<>res://.godot/imported/spr_item_slot.png-aaa9d28d2f9267b15a39521f09602022.ctex::
 spr_money_interface.png::CompressedTexture2D::7386127247894143367::1745737555::1745737699::1::::<><><>0<>0<>9f7f31c337e94ba786474b2bbeb67697<>res://.godot/imported/spr_money_interface.png-f0f60c285c6c352d9268e86752ad0041.ctex::
-::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Player interface/Player Status/Bars/::1745737687
+::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Player interface/Player Status/Bars/::1745737699
 spr_health_bar.png::CompressedTexture2D::1233902691642170095::1745737555::1745737699::1::::<><><>0<>0<>4be5995d69934c15023b84283d92b8c1<>res://.godot/imported/spr_health_bar.png-37b2944c29e2523076a2b303b1bd630c.ctex::
 spr_mana_bar.png::CompressedTexture2D::6598363218717550823::1745737555::1745737699::1::::<><><>0<>0<>d2851d401877b09961f5c8590e20aa2a<>res://.godot/imported/spr_mana_bar.png-b2e6cce430357810c8b41ef282961726.ctex::
 spr_stamina_bar.png::CompressedTexture2D::1257444086249232348::1745737555::1745737699::1::::<><><>0<>0<>7f6b8c403d036c323e719959c4359320<>res://.godot/imported/spr_stamina_bar.png-b02e9251458d5cec30021dfc0f0dd6a2.ctex::
-::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Player interface/Player Status/Player status bars frame for 9-slice/::1745737687
+::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Player interface/Player Status/Player status bars frame for 9-slice/::1745737699
 spr_energy_bar_9slice.png::CompressedTexture2D::8884642062525150599::1745737555::1745737699::1::::<><><>0<>0<>acd60c67420971a83dd98229c33b0ef5<>res://.godot/imported/spr_energy_bar_9slice.png-6513a7e3fba58ee87276eb7910314508.ctex::
 spr_energy_bar_bk_9slice.png::CompressedTexture2D::7787880332783997793::1745737555::1745737699::1::::<><><>0<>0<>b7a258491aaa032fc73ece1bcb3935a2<>res://.godot/imported/spr_energy_bar_bk_9slice.png-2897478cd849bfd04a967373227c17cf.ctex::
 spr_health_bar_9slice.png::CompressedTexture2D::6507801722595617727::1745737555::1745737699::1::::<><><>0<>0<>a80913cd9d12910d845d302e0df4e152<>res://.godot/imported/spr_health_bar_9slice.png-84b936d9764d3e190f98f26c00e8c757.ctex::
@@ -987,7 +987,7 @@ spr_mana_bar_9slice.png::CompressedTexture2D::6845395850837997704::1745737555::1
 spr_mana_bar_bk_9slice.png::CompressedTexture2D::2790551488737011208::1745737555::1745737699::1::::<><><>0<>0<>e40075be60387a2ac1cabb8a7dd75ac4<>res://.godot/imported/spr_mana_bar_bk_9slice.png-807e2bc54390c4b471b18f9c2dd91cfe.ctex::
 spr_player_status_3bars_frame.png::CompressedTexture2D::7893005912107366884::1745737555::1745737699::1::::<><><>0<>0<>cec5ba5747595338c3932b45861148b2<>res://.godot/imported/spr_player_status_3bars_frame.png-dd5e58a322e2673ca17e2f6b7b57c200.ctex::
 spr_player_status_frame.png::CompressedTexture2D::4016858716587880593::1745737555::1745737699::1::::<><><>0<>0<>4f74aa1a67022686dab9627efbe09b1f<>res://.godot/imported/spr_player_status_frame.png-746a95487192583188ac02ec5c609f49.ctex::
-::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Player interface/Player Status/single size player status/::1745737687
+::res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/Player interface/Player Status/single size player status/::1745737699
 spr_player_status_3bars_version1.png::CompressedTexture2D::405116978421320688::1745737555::1745737699::1::::<><><>0<>0<>4321fa1c83f2d432a3d74cd5c3946c5f<>res://.godot/imported/spr_player_status_3bars_version1.png-0d01cff3120c5c136a5884ebbd586cba.ctex::
 spr_player_status_3bars_version2.png::CompressedTexture2D::164769059050997969::1745737555::1745737699::1::::<><><>0<>0<>4c939e9f24dababc7bffcc0975ae12b9<>res://.godot/imported/spr_player_status_3bars_version2.png-50604dad49068a106c19a4bb9278dce7.ctex::
 spr_player_status_healthbar_bk.png::CompressedTexture2D::8349265823344793163::1745737555::1745737699::1::::<><><>0<>0<>c22095c73c98e1b0841fcbd632b5b338<>res://.godot/imported/spr_player_status_healthbar_bk.png-b9c59e916cd57abf5c0b6860deba0435.ctex::
@@ -999,8 +999,21 @@ spr_player_status_version2.png::CompressedTexture2D::3208978244579675360::174573
 Exclusive to paid version.txt::TextFile::-1::1745737555::0::1::::<><><>0<>0<><>::
 ::res://Assets/Pixelaruim/Bundle Interface/Pack Content/Zelda-Like Interface (paid version exclusive)/::1745737555
 Exclusive to paid version.txt::TextFile::-1::1745737555::0::1::::<><><>0<>0<><>::
-::res://Scenes/::1745730774
+::res://Assets/VFX/::1745740838
+::res://Assets/VFX/Pixel UI pack 3/::1745740838
+00.png::CompressedTexture2D::7675910466098152417::1745740838::1745740838::1::::<><><>0<>0<>c863b08f13ea7a599663664fc337ac07<>res://.godot/imported/00.png-af7b12f366ac59103d712a7594d388c7.ctex::
+01.png::CompressedTexture2D::6889803931735838063::1745740838::1745740838::1::::<><><>0<>0<>f40ef3c9f38c42491eadeb6b2b421f11<>res://.godot/imported/01.png-d7d00a7709e82cc5c29604bc2768889e.ctex::
+02.png::CompressedTexture2D::3809489443629113083::1745740838::1745740838::1::::<><><>0<>0<>2d355d8637d597aadf896cda82538ce9<>res://.godot/imported/02.png-524eeb1a92322cbee83c80768ea33451.ctex::
+03.png::CompressedTexture2D::7867063473290601290::1745740838::1745740838::1::::<><><>0<>0<>65aa868dbf05c8e406100217f64f12cd<>res://.godot/imported/03.png-b7512218afee7a4b2e22c22c84760989.ctex::
+04.png::CompressedTexture2D::3134520847540760405::1745740838::1745740838::1::::<><><>0<>0<>04d392743bde0db467520a21b827089d<>res://.godot/imported/04.png-7f7a702a162b5336d250b380166b9894.ctex::
+05.png::CompressedTexture2D::7659523390579528889::1745740838::1745740838::1::::<><><>0<>0<>99ee157afa78be1fe9911e325be69588<>res://.godot/imported/05.png-608b8f9b005f5700d5f9cc2b33fedce1.ctex::
+06.png::CompressedTexture2D::1308611913502308077::1745740838::1745740838::1::::<><><>0<>0<>0e1789c925682088e428e57a27aa6d5b<>res://.godot/imported/06.png-bf585cd28c28a9fd048ee6af9a801676.ctex::
+07.png::CompressedTexture2D::4259413385031806704::1745740838::1745740838::1::::<><><>0<>0<>1fb87eec045a2be6b13c085ea349eafa<>res://.godot/imported/07.png-eeb97189cf9d2631026fbcd64ecdba80.ctex::
+All.png::CompressedTexture2D::2529403139457544605::1745740838::1745740838::1::::<><><>0<>0<>c145dd740d03a58d27c32d8be8023503<>res://.godot/imported/All.png-7003327be6e05b4b18e86549f6424e73.ctex::
+::res://Scenes/::1745738078
 animated_sprite_2d.tscn::PackedScene/PackedScene::3629499283439652126::1745730774::0::1::::<><><>0<>0<><>::uid://bikh0k4c17n8l::::res://Assets/characters/ChibiChars/char_a_p1/char_a_p1_0bas_humn_v01.png
+::res://Scenes/Enemies/::1745738639
+monster_ocean_body.tscn::PackedScene::2042037410945126288::1745738639::0::1::::<><><>0<>0<><>::uid://bbl8o8f2phqdu::::res://Scripts/monster_ocean.gd<>uid://bancokm8p6dxp::::res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/basic magical sprites/Basic 4x.png<>uid://tb1u1w8fstvu::::res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/basic magical animations/water elemental/WaterElemental.png
 ::res://Scenes/Intro/::1745730774
 intro_scene.tscn::PackedScene/PackedScene::6426512783602554578::1745730774::0::1::::<><><>0<>0<><>::uid://bhts4wvh2qpkn::::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Tileset.png<>uid://cmkus4vd7tscr::::res://Scenes/Intro/ProtagProto.tscn
 mom.tscn::PackedScene/PackedScene::4238335098081379119::1745730774::0::1::::<><><>0<>0<><>::uid://b084gmc41nab3::::res://Scenes/Intro/protag_proto.gd<>uid://bikh0k4c17n8l::::res://Assets/characters/ChibiChars/char_a_p1/char_a_p1_0bas_humn_v01.png
@@ -1012,15 +1025,15 @@ main_menu.tscn::PackedScene/PackedScene::4251127047504976402::1745730774::0::1::
 ocean_level.tscn::PackedScene/PackedScene::9207127393716184524::1745730774::0::1::::<><><>0<>0<><>::
 space_level.tscn::PackedScene/PackedScene::4794065697226833428::1745730774::0::1::::<><><>0<>0<><>::
 space_loop_level.tscn::PackedScene/PackedScene::1623784784669217779::1745730774::0::1::::<><><>0<>0<><>::
-::res://Scenes/Levels/Ocean_Level/::1745734950
+::res://Scenes/Levels/Ocean_Level/::1745738467
 Ocean_Corner_Hallway2.tscn::PackedScene/PackedScene::152625705980405187::1745730774::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 Ocean_Corner_Hallway.tscn::PackedScene/PackedScene::6349700190117177175::1745730774::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 Ocean_Hallway_Horiz.tscn::PackedScene/PackedScene::1064825597420829023::1745730774::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
-ocean_level.tscn::PackedScene/PackedScene::9207127393716184524::1745734950::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres<>uid://c21fosgn6debf::::res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn<>uid://pf2r0plrqjed::::res://Scenes/Levels/Ocean_Level/Ocean_Hallway_Horiz.tscn<>uid://4yqmkit54c0n::::res://Scenes/Levels/Ocean_Level/ocean_level_V_common_room.tscn<>uid://cwp3vtntsl3gd::::res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway.tscn<>uid://bs1a3hn74mvlo::::res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn<>uid://dsbffyfxpg8cc::::res://Scenes/Levels/Ocean_Level/Ocean_Vertical_Hallway.tscn<>uid://d0wtkkddpcrqh::::res://Scenes/Levels/Ocean_Level/ocean_level_H_common_room.tscn<>uid://cf6yt4475l3p::::res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway2.tscn<>uid://5y3o6s17s4hn::::res://Scenes/Intro/ProtagProto.tscn
+ocean_level.tscn::PackedScene::9207127393716184524::1745738467::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres<>uid://c21fosgn6debf::::res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn<>uid://pf2r0plrqjed::::res://Scenes/Levels/Ocean_Level/Ocean_Hallway_Horiz.tscn<>uid://4yqmkit54c0n::::res://Scenes/Levels/Ocean_Level/ocean_level_V_common_room.tscn<>uid://cwp3vtntsl3gd::::res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway.tscn<>uid://bs1a3hn74mvlo::::res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn<>uid://dsbffyfxpg8cc::::res://Scenes/Levels/Ocean_Level/Ocean_Vertical_Hallway.tscn<>uid://d0wtkkddpcrqh::::res://Scenes/Levels/Ocean_Level/ocean_level_H_common_room.tscn<>uid://cf6yt4475l3p::::res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway2.tscn<>uid://5y3o6s17s4hn::::res://Scenes/Intro/ProtagProto.tscn<>uid://4dgb73jod1l1::::res://Scenes/Enemies/monster_ocean_body.tscn
 ocean_level_H_common_room.tscn::PackedScene/PackedScene::8960571463445404427::1745730774::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 ocean_level_start_room.tscn::PackedScene/PackedScene::6721943508618470111::1745730774::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres<>uid://bmd4cxih6ydo8::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Premade_Scene/Premade.png
-ocean_level_V_common_room.tscn::PackedScene/PackedScene::2086014971507938831::1745734950::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
-Ocean_small_room.tscn::PackedScene/PackedScene::3703544082251667272::1745734950::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+ocean_level_V_common_room.tscn::PackedScene::2086014971507938831::1745738467::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+Ocean_small_room.tscn::PackedScene::3703544082251667272::1745738467::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 Ocean_Vertical_Hallway.tscn::PackedScene/PackedScene::8425039397601062026::1745730774::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 ::res://Scenes/Menu/::1745737620
 intro_menu.tscn::PackedScene/PackedScene::6647959293806711886::1745737555::0::1::::<><><>0<>0<><>::uid://bquu11oblkxmu::::res://Scenes/Menu/scriptcs_menu/intro_menu.gd<>uid://b1s47w40trpld::::res://Assets/backgrounds/Space Background.png<>uid://ct7uqbvg53p3o::::res://Scenes/Menu/FadeTransition.tscn
@@ -1028,7 +1041,8 @@ settings.tscn::PackedScene/PackedScene::3500939587853695503::1745737620::0::1:::
 ::res://Scenes/Menu/menu scripts/::1745737555
 intro_menu.gd::GDScript/GDScript::3002947188997187428::1745737555::0::1::::<>Control<><>0<>0<><>::
 settings.gd::GDScript/GDScript::6194749726615730607::1745737555::0::1::::<>Control<><>0<>0<><>::
-::res://Scripts/::1745730774
+::res://Scripts/::1745738575
 game_manager.gd::GDScript/GDScript::7459846175697557647::1745730774::0::1::::<>Node<><>0<>0<><>::
 level_manager.gd::GDScript/GDScript::1467223219871133758::1745730774::0::1::::<>Node<><>0<>0<><>::
 menu.gd::GDScript/GDScript::623880120094977731::1745730774::0::1::::<>Node<><>0<>0<><>::
+monster_ocean.gd::GDScript::2481348086743424898::1745738575::0::1::::<>CharacterBody2D<><>0<>0<><>::
