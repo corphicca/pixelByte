@@ -88,6 +88,10 @@ visible = false
 scale = Vector2(0.4, 0.4)
 sprite_frames = ExtResource("3_3g2ri")
 animation = &"Aim"
-frame_progress = 0.0268808
+frame_progress = 0.596891
+
+[node name="attack" type="Timer" parent="."]
+wait_time = 4.0
 
 [connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
+[connection signal="timeout" from="attack" to="." method="_on_attack_timeout"]
