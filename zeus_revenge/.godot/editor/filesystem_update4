@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 res://Scenes/Intro/MotherIntro.tscn
 res://Scenes/Intro/mother_intro.gd
 res://Scenes/Enemies/monster_ocean_body.tscn
@@ -16,18 +18,17 @@ res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn
 res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 res://Scenes/Levels/Ocean_Level/Ocean_Hallway.tscn
 res://Scenes/Levels/Ocean_Level/small_room.tscn
+>>>>>>> dcf9d54980e59880658544f432f913d07276d734
 res://Scenes/Levels/Ocean_Level/ocean_level.tscn
-res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn
-res://Scenes/Levels/Ocean_Level/ocean_level_common_room.tscn
-res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway.tscn
-res://Scenes/Levels/Ocean_Level/Ocean_Vertical_Hallway.tscn
-res://Scenes/Levels/Ocean_Level/ocean_level_V_common_room.tscn
-res://Scenes/Levels/Ocean_Level/ocean_level_H_common_room.tscn
-res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway2.tscn
-res://Scenes/Intro/ProtagProto.tscn
-res://Scenes/Intro/protag_proto.gd
-res://Scenes/Levels/Ocean_Level/Ocean_Hallway_Horiz.tscn
-res://Scenes/Enemies/monster_ocean_body.tscn
+res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+res://Scenes/Enemies/aim_anim.tres
 res://Scripts/monster_ocean.gd
+<<<<<<< HEAD
+res://Scenes/Levels/Ocean_Level/ocean_level_V_common_room.tscn
+res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn
+res://Scenes/Enemies/monster_ocean_body.tscn
+res://Scenes/Intro/ProtagProto.tscn
+=======
 res://Scenes/Menu/menu scripts/intro_menu.gd
 >>>>>>> 0a93c55856157b0920fb3afa036ed314d77fbb7b
+>>>>>>> dcf9d54980e59880658544f432f913d07276d734

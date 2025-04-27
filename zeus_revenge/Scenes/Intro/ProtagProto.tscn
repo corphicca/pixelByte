@@ -299,5 +299,9 @@ visible = false
 z_index = 5
 scale = Vector2(0.75, 0.75)
 sprite_frames = ExtResource("3_rhdep")
+<<<<<<< HEAD
+animation = &"water"
+=======
 animation = &"Aim"
 >>>>>>> 0a93c55856157b0920fb3afa036ed314d77fbb7b
+>>>>>>> dcf9d54980e59880658544f432f913d07276d734
