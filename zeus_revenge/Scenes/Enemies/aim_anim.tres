@@ -1,0 +1,39 @@
+[gd_resource type="SpriteFrames" load_steps=6 format=3 uid="uid://dhgfhhqgc6oqj"]
+
+[ext_resource type="Texture2D" uid="uid://b1xj6fcdnm0dw" path="res://Assets/VFX/Pixel UI pack 3/07.png" id="1_rmk6p"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_q64ur"]
+atlas = ExtResource("1_rmk6p")
+region = Rect2(0, 206, 32, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_imfrd"]
+atlas = ExtResource("1_rmk6p")
+region = Rect2(32, 206, 32, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_8vwpg"]
+atlas = ExtResource("1_rmk6p")
+region = Rect2(64, 206, 32, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_p8h18"]
+atlas = ExtResource("1_rmk6p")
+region = Rect2(96, 206, 32, 40)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_q64ur")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_imfrd")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_8vwpg")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_p8h18")
+}],
+"loop": true,
+"name": &"Aim",
+"speed": 10.0
+}]

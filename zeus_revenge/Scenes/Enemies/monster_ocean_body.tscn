@@ -1,7 +1,8 @@
-[gd_scene load_steps=11 format=3 uid="uid://4dgb73jod1l1"]
+[gd_scene load_steps=12 format=3 uid="uid://4dgb73jod1l1"]
 
 [ext_resource type="Script" uid="uid://bbl8o8f2phqdu" path="res://Scripts/monster_ocean.gd" id="1_3g2ri"]
 [ext_resource type="Texture2D" uid="uid://tb1u1w8fstvu" path="res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/basic magical animations/water elemental/WaterElemental.png" id="2_nl2u1"]
+[ext_resource type="SpriteFrames" uid="uid://dhgfhhqgc6oqj" path="res://Scenes/Enemies/aim_anim.tres" id="3_3g2ri"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_nl2u1"]
 atlas = ExtResource("2_nl2u1")
@@ -68,7 +69,7 @@ collision_layer = 2
 collision_mask = 2
 script = ExtResource("1_3g2ri")
 
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+[node name="Enemy" type="AnimatedSprite2D" parent="."]
 position = Vector2(0, -8)
 sprite_frames = SubResource("SpriteFrames_lqomx")
 animation = &"Attack"
@@ -82,4 +83,15 @@ shape = SubResource("CapsuleShape2D_3g2ri")
 [node name="Timer" type="Timer" parent="."]
 wait_time = 6.0
 
+[node name="VFX" type="AnimatedSprite2D" parent="."]
+visible = false
+scale = Vector2(0.4, 0.4)
+sprite_frames = ExtResource("3_3g2ri")
+animation = &"Aim"
+frame_progress = 0.596891
+
+[node name="attack" type="Timer" parent="."]
+wait_time = 4.0
+
 [connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
+[connection signal="timeout" from="attack" to="." method="_on_attack_timeout"]
