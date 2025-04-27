@@ -284,18 +284,3 @@ script = ExtResource("3_rhdep")
 [node name="HurtBox" type="CollisionShape2D" parent="Area2D"]
 position = Vector2(0, -2)
 shape = SubResource("CapsuleShape2D_2yq2t")
-<<<<<<< HEAD
-=======
-=======
-[node name="AnimatedSprite2D2" type="AnimatedSprite2D" parent="."]
-visible = false
-z_index = 5
-scale = Vector2(0.75, 0.75)
-sprite_frames = ExtResource("3_rhdep")
-<<<<<<< HEAD
-animation = &"water"
-=======
-animation = &"Aim"
->>>>>>> 0a93c55856157b0920fb3afa036ed314d77fbb7b
->>>>>>> dcf9d54980e59880658544f432f913d07276d734
->>>>>>> 68a51fcc9f2749358b7ba26034fe90f49dbb8e33
