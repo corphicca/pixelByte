@@ -1,0 +1,105 @@
+[gd_scene load_steps=9 format=3 uid="uid://dsn5qqe16h1kw"]
+
+[ext_resource type="Script" uid="uid://ujaltyroosp1" path="res://Scenes/Intro/story_2.gd" id="1_d5g4d"]
+[ext_resource type="Texture2D" uid="uid://b1s47w40trpld" path="res://Assets/backgrounds/Space Background.png" id="2_ai8ay"]
+[ext_resource type="Texture2D" uid="uid://b81dwrgh2cv5f" path="res://Assets/ui/pngs/wide.png" id="3_d3nat"]
+[ext_resource type="FontFile" uid="uid://dtqnroxrkgnj3" path="res://Assets/fonts/Greek-Freak.ttf" id="4_dgeag"]
+
+[sub_resource type="Animation" id="Animation_f3bax"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_yub6u"]
+resource_name = "fade_in"
+length = 5.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 4.86667),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_5sd44"]
+resource_name = "fade_out"
+length = 5.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 4),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0), Color(0, 0, 0, 1)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_mmxpg"]
+_data = {
+&"RESET": SubResource("Animation_f3bax"),
+&"fade_in": SubResource("Animation_yub6u"),
+&"fade_out": SubResource("Animation_5sd44")
+}
+
+[node name="Story" type="Node2D"]
+script = ExtResource("1_d5g4d")
+
+[node name="SpaceBackground" type="Sprite2D" parent="."]
+position = Vector2(680, 813)
+texture = ExtResource("2_ai8ay")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(631, 347)
+texture = ExtResource("3_d3nat")
+
+[node name="Label" type="Label" parent="Sprite2D"]
+offset_left = -1368.0
+offset_top = -164.0
+offset_right = 1418.0
+offset_bottom = 271.0
+theme_override_colors/font_color = Color(0.29686, 0.00110633, 0.574056, 1)
+theme_override_fonts/font = ExtResource("4_dgeag")
+theme_override_font_sizes/font_size = 56
+text = "Unfortunately for Kronos, the supposed baby 
+wasn't more than a rock in disguise. 
+Now that Kronos was fooled by Zeus's mother, 
+zues trained for years 
+for the day he would release 
+his brothers and take revenge, the day 
+you would take revenge....Click to continue...."
+horizontal_alignment = 1
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_right = 1336.0
+offset_bottom = 818.0
+color = Color(0, 0, 0, 0)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+&"": SubResource("AnimationLibrary_mmxpg")
+}
+
+[node name="Button" type="Button" parent="."]
+unique_name_in_owner = true
+modulate = Color(1, 1, 1, 0)
+self_modulate = Color(1, 1, 1, 0)
+offset_right = 1311.0
+offset_bottom = 744.0
