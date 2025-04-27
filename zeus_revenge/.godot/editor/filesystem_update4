@@ -1,0 +1,7 @@
+res://Scenes/Levels/Ocean_Level/ocean_level.tscn
+res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+res://Scenes/Levels/Ocean_Level/ocean_level_V_common_room.tscn
+res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn
+res://Scenes/Enemies/monster_ocean_body.tscn
+res://Scripts/monster_ocean.gd
+res://Scenes/Intro/protag_proto.gd
