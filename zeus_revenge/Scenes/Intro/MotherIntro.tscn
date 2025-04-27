@@ -1,7 +1,47 @@
-[gd_scene load_steps=6 format=3 uid="uid://b5dtcror0yo2y"]
+[gd_scene load_steps=16 format=3 uid="uid://b5dtcror0yo2y"]
 
-[ext_resource type="Texture2D" uid="uid://d6du0jj0ami2" path="res://Assets/intro_charac/ChatGPT Image Apr 27, 2025, 01_14_25 AM.png" id="1_jf0l5"]
 [ext_resource type="Texture2D" uid="uid://dqxqgb3kwvd1j" path="res://Assets/intro_charac/introAnimChars/mother1.png" id="1_p60fe"]
+[ext_resource type="Script" uid="uid://cfrwwpuib0dg1" path="res://Scenes/Intro/mother_intro.gd" id="1_vgd8u"]
+[ext_resource type="Texture2D" uid="uid://t7dqbktmq7iw" path="res://Assets/backgrounds/space_background_pack/ChatGPT Image Apr 27, 2025, 04_06_56 AM.png" id="2_vgd8u"]
+[ext_resource type="Texture2D" uid="uid://b6ywoqv6gesyr" path="res://Assets/backgrounds/background2.png" id="4_swj6n"]
+[ext_resource type="Texture2D" uid="uid://bbk2ioe3oq8r8" path="res://Assets/intro_charac/part2-removebg-preview.png" id="5_mu52q"]
+
+[sub_resource type="Animation" id="Animation_6jnwc"]
+resource_name = "slide"
+length = 5.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 5),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(570, 427), Vector2(641, 361)]
+}
+
+[sub_resource type="Animation" id="Animation_o0u2n"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(357, 561)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_yklyo"]
+_data = {
+&"RESET": SubResource("Animation_o0u2n"),
+&"slide": SubResource("Animation_6jnwc")
+}
 
 [sub_resource type="Animation" id="Animation_vgd8u"]
 length = 0.001
@@ -20,8 +60,7 @@ tracks/0/keys = {
 
 [sub_resource type="Animation" id="Animation_jf0l5"]
 resource_name = "motherWalk"
-length = 2.5
-loop_mode = 1
+length = 10.0
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -29,10 +68,10 @@ tracks/0/path = NodePath(".:position")
 tracks/0/interp = 1
 tracks/0/loop_wrap = true
 tracks/0/keys = {
-"times": PackedFloat32Array(0, 1.2),
-"transitions": PackedFloat32Array(1, 1),
+"times": PackedFloat32Array(0, 1.2, 2.47, 3.67, 5, 6.3, 7.57, 8.77, 9.9),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1),
 "update": 0,
-"values": [Vector2(475, 492), Vector2(475, 423)]
+"values": [Vector2(475, 492), Vector2(475, 423), Vector2(475, 492), Vector2(475, 423), Vector2(475, 492), Vector2(475, 423), Vector2(475, 492), Vector2(475, 423), Vector2(475, 492)]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_1na2q"]
@@ -41,26 +80,112 @@ _data = {
 &"motherWalk": SubResource("Animation_jf0l5")
 }
 
+[sub_resource type="Animation" id="Animation_swj6n"]
+resource_name = "fade_in"
+length = 6.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 6),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_mu52q"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_yklyo"]
+resource_name = "fade_out"
+length = 4.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 4),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0), Color(0, 0, 0, 1)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_6jnwc"]
+_data = {
+&"RESET": SubResource("Animation_mu52q"),
+&"fade_in": SubResource("Animation_swj6n"),
+&"fade_out": SubResource("Animation_yklyo")
+}
+
 [node name="Node2D" type="Node2D"]
+script = ExtResource("1_vgd8u")
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+visible = false
+offset_left = 1.0
+offset_top = -191.0
+offset_right = 1280.0
+offset_bottom = 906.0
+texture = ExtResource("4_swj6n")
+
+[node name="sideUp" type="Sprite2D" parent="."]
+position = Vector2(357, 561)
+scale = Vector2(1.734, 1.734)
+texture = ExtResource("5_mu52q")
+
+[node name="sideUp" type="AnimationPlayer" parent="sideUp"]
+libraries = {
+&"": SubResource("AnimationLibrary_yklyo")
+}
 
 [node name="TextureRect" type="TextureRect" parent="."]
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_left = -2.0
-offset_top = -208.0
-offset_right = 1286.0
-offset_bottom = 816.0
+offset_left = -5.0
+offset_top = -38.0
+offset_right = 1280.0
+offset_bottom = 776.0
 grow_horizontal = 2
 grow_vertical = 2
-texture = ExtResource("1_jf0l5")
+texture = ExtResource("2_vgd8u")
+expand_mode = 1
 
-[node name="Sprite2D" type="Sprite2D" parent="."]
+[node name="walkFront" type="Sprite2D" parent="."]
 position = Vector2(475, 492)
 scale = Vector2(0.721191, 0.775879)
 texture = ExtResource("1_p60fe")
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="Sprite2D"]
+[node name="walkMother" type="AnimationPlayer" parent="walkFront"]
 libraries = {
 &"": SubResource("AnimationLibrary_1na2q")
+}
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_left = -20.0
+offset_top = -52.0
+offset_right = 1315.0
+offset_bottom = 802.0
+color = Color(0, 0, 0, 0)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="ColorRect"]
+libraries = {
+&"": SubResource("AnimationLibrary_6jnwc")
 }
