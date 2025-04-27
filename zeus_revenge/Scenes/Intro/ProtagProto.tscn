@@ -3,8 +3,6 @@
 [ext_resource type="Texture2D" uid="uid://bikh0k4c17n8l" path="res://Assets/characters/ChibiChars/char_a_p1/char_a_p1_0bas_humn_v01.png" id="1_4x7tj"]
 [ext_resource type="Script" uid="uid://b084gmc41nab3" path="res://Scenes/Intro/protag_proto.gd" id="1_uwwjx"]
 
-[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_uwwjx"]
-
 [sub_resource type="AtlasTexture" id="AtlasTexture_lsah5"]
 atlas = ExtResource("1_4x7tj")
 region = Rect2(0, 192, 64, 64)
@@ -125,7 +123,7 @@ region = Rect2(256, 384, 64, 64)
 atlas = ExtResource("1_4x7tj")
 region = Rect2(320, 384, 64, 64)
 
-[sub_resource type="SpriteFrames" id="SpriteFrames_rhdep"]
+[sub_resource type="SpriteFrames" id="SpriteFrames_4x7tj"]
 animations = [{
 "frames": [{
 "duration": 1.0,
@@ -253,20 +251,26 @@ animations = [{
 "speed": 5.0
 }]
 
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_uwwjx"]
+height = 21.0
+
 [node name="CharacterBody2D" type="CharacterBody2D"]
 z_index = 2
+scale = Vector2(0.5, 0.5)
 collision_layer = 2
 collision_mask = 2
 script = ExtResource("1_uwwjx")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-z_index = 1
-position = Vector2(0, -2)
-scale = Vector2(0.569908, 1)
-shape = SubResource("CapsuleShape2D_uwwjx")
-one_way_collision_margin = 5.0
-debug_color = Color(1, 0, 0, 0.419608)
-
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 z_index = 1
-sprite_frames = SubResource("SpriteFrames_rhdep")
+sprite_frames = SubResource("SpriteFrames_4x7tj")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+z_index = 2
+position = Vector2(0, -0.5)
+scale = Vector2(0.569908, 1)
+shape = SubResource("CapsuleShape2D_uwwjx")
+debug_color = Color(1, 0, 0, 0.419608)
+
+[node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(4, 4)
