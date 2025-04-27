@@ -1,10 +1,7 @@
 extends CharacterBody2D
 
-<<<<<<< HEAD
-@onready var sprite = $CollisionShape2D/AnimatedSprite2D
-=======
+
 @onready var sprite = $AnimatedSprite2D
->>>>>>> 1c3ef01a314fe70a97693f0e7d4bb88925d84655
 
 
 var speed = 100

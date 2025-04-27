@@ -35,9 +35,6 @@ position = Vector2(-160, 0)
 [node name="OceanCornerHallway" parent="TileMap2/Hallways" instance=ExtResource("5_sx0qm")]
 position = Vector2(256, 0)
 
-[node name="OceanVerticalHallway" parent="TileMap2/Hallways" instance=ExtResource("6_pre21")]
-position = Vector2(0, -160)
-
 [node name="OceanVerticalHallway2" parent="TileMap2/Hallways" instance=ExtResource("6_pre21")]
 position = Vector2(0, 176)
 

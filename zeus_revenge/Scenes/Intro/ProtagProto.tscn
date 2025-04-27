@@ -125,11 +125,7 @@ region = Rect2(256, 384, 64, 64)
 atlas = ExtResource("1_4x7tj")
 region = Rect2(320, 384, 64, 64)
 
-<<<<<<< HEAD
 [sub_resource type="SpriteFrames" id="SpriteFrames_rhdep"]
-=======
-[sub_resource type="SpriteFrames" id="SpriteFrames_4x7tj"]
->>>>>>> 1c3ef01a314fe70a97693f0e7d4bb88925d84655
 animations = [{
 "frames": [{
 "duration": 1.0,
@@ -257,7 +253,6 @@ animations = [{
 "speed": 5.0
 }]
 
-<<<<<<< HEAD
 [node name="CharacterBody2D" type="CharacterBody2D"]
 z_index = 2
 collision_layer = 2
@@ -267,32 +262,11 @@ script = ExtResource("1_uwwjx")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 z_index = 1
 position = Vector2(0, -2)
-=======
-[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_uwwjx"]
-height = 21.0
-
-[node name="CharacterBody2D" type="CharacterBody2D"]
-script = ExtResource("1_uwwjx")
-
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-z_index = 1
-sprite_frames = SubResource("SpriteFrames_4x7tj")
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(0, -0.5)
->>>>>>> 1c3ef01a314fe70a97693f0e7d4bb88925d84655
 scale = Vector2(0.569908, 1)
 shape = SubResource("CapsuleShape2D_uwwjx")
 one_way_collision_margin = 5.0
 debug_color = Color(1, 0, 0, 0.419608)
 
-<<<<<<< HEAD
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CollisionShape2D"]
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 z_index = 1
-position = Vector2(0, 2)
-scale = Vector2(1.75467, 1)
 sprite_frames = SubResource("SpriteFrames_rhdep")
-=======
-[node name="Camera2D" type="Camera2D" parent="."]
-zoom = Vector2(4, 4)
->>>>>>> 1c3ef01a314fe70a97693f0e7d4bb88925d84655
