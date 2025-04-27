@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://cxtbyx8dmbgj7"]
 
 [ext_resource type="Texture2D" uid="uid://bhts4wvh2qpkn" path="res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Tileset.png" id="1_wq7gj"]
-[ext_resource type="PackedScene" uid="uid://cmkus4vd7tscr" path="res://Scenes/Intro/ProtagProto.tscn" id="2_iiahw"]
+[ext_resource type="PackedScene" uid="uid://5y3o6s17s4hn" path="res://Scenes/Intro/ProtagProto.tscn" id="2_iiahw"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_iiahw"]
 texture = ExtResource("1_wq7gj")
@@ -430,4 +430,3 @@ layer_2/name = "Walls_Props"
 
 [node name="Node2D" parent="." instance=ExtResource("2_iiahw")]
 position = Vector2(113, 58)
-scale = Vector2(0.5, 0.5)
