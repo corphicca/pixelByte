@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1745735827
+::res://::1745737040
 game_manager.tscn::PackedScene/PackedScene::7075268726104667232::1745646738::0::1::::<><><>0<>0<><>::
 ::res://Assets/::1745734923
 icon.svg::CompressedTexture2D/CompressedTexture2D::7585732403192757058::1745646738::1745646868::1::::<><><>0<>0<>a474007fe1e221343321a6146801cebe<>res://.godot/imported/icon.svg-8193eb3d66a1b5143b8bb4c28c1dc139.ctex::
@@ -1013,11 +1013,11 @@ ocean_level_start_room.tscn::PackedScene/PackedScene::6721943508618470111::17457
 ocean_level_V_common_room.tscn::PackedScene/PackedScene::2086014971507938831::1745734910::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 Ocean_small_room.tscn::PackedScene/PackedScene::3703544082251667272::1745734910::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 Ocean_Vertical_Hallway.tscn::PackedScene/PackedScene::8425039397601062026::1745734686::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
-::res://Scenes/Menu/::1745734923
-intro_menu.tscn::PackedScene/PackedScene::2390014043680726922::1745734923::0::1::::<><><>0<>0<><>::uid://bi1wdpkbu6qy3::::res://Scenes/Menu/menu scripts/intro_menu.gd<>uid://dtt8k6j57lann::::res://Assets/backgrounds/space_background_pack/space_background_pack/Assets/Blue Version/blue-preview.png<>uid://ceb3b5qn1s8v6::::res://Assets/Pixelarium - Interfaces Bundle - Free version/Pixelarium - Interfaces Bundle - Free version/Pack Content/DarkMode Interface/GameplayHud/spr_banner_hud.png
+::res://Scenes/Menu/::1745735837
+intro_menu.tscn::PackedScene::2390014043680726922::1745735837::0::1::::<><><>0<>0<><>::uid://bi1wdpkbu6qy3::::res://Scenes/Menu/menu scripts/intro_menu.gd<>uid://dtt8k6j57lann::::res://Assets/backgrounds/space_background_pack/space_background_pack/Assets/Blue Version/blue-preview.png<>uid://ceb3b5qn1s8v6::::res://Assets/Pixelarium - Interfaces Bundle - Free version/Pixelarium - Interfaces Bundle - Free version/Pack Content/DarkMode Interface/GameplayHud/spr_banner_hud.png
 settings.tscn::PackedScene/PackedScene::3500939587853695503::1745734923::0::1::::<><><>0<>0<><>::uid://cui1vgd06qoqh::::res://Scenes/Menu/menu scripts/settings.gd
 ::res://Scenes/Menu/menu scripts/::1745734923
-intro_menu.gd::GDScript::3002947188997187428::1745734923::0::1::::<>Control<><>0<>0<><>::
+intro_menu.gd::GDScript/GDScript::3002947188997187428::1745734923::0::1::::<>Control<><>0<>0<><>::
 settings.gd::GDScript/GDScript::6194749726615730607::1745734923::0::1::::<>Control<><>0<>0<><>::
 ::res://Scripts/::1745646738
 game_manager.gd::GDScript/GDScript::7459846175697557647::1745646738::0::1::::<>Node<><>0<>0<><>::
