@@ -1,4 +1,4 @@
-[gd_scene load_steps=11 format=3 uid="uid://d4gabpx6t1msy"]
+[gd_scene load_steps=10 format=3 uid="uid://d4gabpx6t1msy"]
 
 [ext_resource type="TileSet" uid="uid://b0ponoho84g1" path="res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres" id="1_sx0qm"]
 [ext_resource type="PackedScene" uid="uid://c21fosgn6debf" path="res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn" id="3_ig01x"]
@@ -9,7 +9,6 @@
 [ext_resource type="PackedScene" uid="uid://dsbffyfxpg8cc" path="res://Scenes/Levels/Ocean_Level/Ocean_Vertical_Hallway.tscn" id="6_pre21"]
 [ext_resource type="PackedScene" uid="uid://d0wtkkddpcrqh" path="res://Scenes/Levels/Ocean_Level/ocean_level_H_common_room.tscn" id="8_2dytx"]
 [ext_resource type="PackedScene" uid="uid://cf6yt4475l3p" path="res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway2.tscn" id="9_pvtbk"]
-[ext_resource type="PackedScene" uid="uid://5y3o6s17s4hn" path="res://Scenes/Intro/ProtagProto.tscn" id="10_5ccin"]
 
 [node name="OceanLevel" type="Node2D"]
 
@@ -109,7 +108,3 @@ position = Vector2(-400, 336)
 
 [node name="Camera2D" type="Camera2D" parent="."]
 zoom = Vector2(3, 3)
-
-[node name="CharacterBody2D" parent="." instance=ExtResource("10_5ccin")]
-position = Vector2(8, -8)
-scale = Vector2(0.5, 0.5)
