@@ -1,4 +1,4 @@
-[gd_scene load_steps=35 format=3 uid="uid://cmkus4vd7tscr"]
+[gd_scene load_steps=35 format=3 uid="uid://5y3o6s17s4hn"]
 
 [ext_resource type="Texture2D" uid="uid://bikh0k4c17n8l" path="res://Assets/characters/ChibiChars/char_a_p1/char_a_p1_0bas_humn_v01.png" id="1_4x7tj"]
 [ext_resource type="Script" uid="uid://b084gmc41nab3" path="res://Scenes/Intro/protag_proto.gd" id="1_uwwjx"]
@@ -255,6 +255,10 @@ animations = [{
 height = 21.0
 
 [node name="CharacterBody2D" type="CharacterBody2D"]
+z_index = 2
+scale = Vector2(0.5, 0.5)
+collision_layer = 2
+collision_mask = 2
 script = ExtResource("1_uwwjx")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
@@ -262,6 +266,7 @@ z_index = 1
 sprite_frames = SubResource("SpriteFrames_4x7tj")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+z_index = 2
 position = Vector2(0, -0.5)
 scale = Vector2(0.569908, 1)
 shape = SubResource("CapsuleShape2D_uwwjx")
