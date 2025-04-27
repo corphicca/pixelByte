@@ -2,8 +2,23 @@
 
 [ext_resource type="Script" uid="uid://bi1wdpkbu6qy3" path="res://Scenes/Menu/menu scripts/intro_menu.gd" id="1_f41bl"]
 [ext_resource type="Texture2D" uid="uid://dtt8k6j57lann" path="res://Assets/backgrounds/space_background_pack/space_background_pack/Assets/Blue Version/blue-preview.png" id="2_bo5cf"]
-[ext_resource type="Texture2D" uid="uid://ceb3b5qn1s8v6" path="res://Assets/Pixelarium - Interfaces Bundle - Free version/Pixelarium - Interfaces Bundle - Free version/Pack Content/DarkMode Interface/GameplayHud/spr_banner_hud.png" id="3_7i1ai"]
+[ext_resource type="Texture2D" uid="uid://ceb3b5qn1s8v6" path="res://Assets/Pixelaruim/Bundle Interface/Pack Content/DarkMode Interface/GameplayHud/spr_banner_hud.png" id="3_7i1ai"]
 [ext_resource type="Texture2D" uid="uid://d4i64ndmhhr4l" path="res://Assets/intro_charac/starcrash.png" id="4_7i1ai"]
+
+[sub_resource type="Animation" id="Animation_2wefu"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
 
 [sub_resource type="Animation" id="Animation_yrjm7"]
 resource_name = "back"
@@ -19,21 +34,6 @@ tracks/0/keys = {
 "transitions": PackedFloat32Array(1, 1),
 "update": 0,
 "values": [Color(1, 1, 1, 0), Color(1, 1, 1, 1)]
-}
-
-[sub_resource type="Animation" id="Animation_2wefu"]
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath(".:modulate")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 0,
-"values": [Color(1, 1, 1, 1)]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_cu2o3"]
@@ -53,6 +53,21 @@ texture = ExtResource("3_7i1ai")
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_yayws"]
 
+[sub_resource type="Animation" id="Animation_7i1ai"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("../ColorRect:color")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(0, 0, 0, 0)]
+}
+
 [sub_resource type="Animation" id="Animation_yayws"]
 resource_name = "leave"
 length = 5.0
@@ -67,21 +82,6 @@ tracks/0/keys = {
 "transitions": PackedFloat32Array(1, 1),
 "update": 0,
 "values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
-}
-
-[sub_resource type="Animation" id="Animation_7i1ai"]
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("../ColorRect:color")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 0,
-"values": [Color(0, 0, 0, 0)]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_2wefu"]
@@ -141,6 +141,9 @@ tracks/3/keys = {
 "values": [Color(1, 1, 1, 0)]
 }
 
+[sub_resource type="Animation" id="Animation_cu2o3"]
+resource_name = "SideStars"
+
 [sub_resource type="Animation" id="Animation_ob07v"]
 resource_name = "StarCrash"
 length = 5.0
@@ -192,9 +195,6 @@ tracks/3/keys = {
 "update": 0,
 "values": [Color(1, 1, 1, 1), Color(1, 1, 1, 0)]
 }
-
-[sub_resource type="Animation" id="Animation_cu2o3"]
-resource_name = "SideStars"
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_au260"]
 _data = {
@@ -272,6 +272,7 @@ theme_override_styles/normal = SubResource("StyleBoxTexture_yayws")
 text = "Shackles Of The LastBorn"
 
 [node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 0
 offset_left = -19.0
 offset_top = -15.0
 offset_right = 1308.0

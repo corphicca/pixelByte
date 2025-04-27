@@ -114,7 +114,5 @@ position = Vector2(-400, 336)
 [node name="CharacterBody2D" parent="." instance=ExtResource("10_5ccin")]
 z_index = 1
 
-[node name="Enemies" type="Node" parent="."]
-
-[node name="Monster_ocean_Body" parent="Enemies" instance=ExtResource("11_11xuu")]
+[node name="Monster_ocean_Body" parent="." instance=ExtResource("11_11xuu")]
 position = Vector2(-38, 64)
