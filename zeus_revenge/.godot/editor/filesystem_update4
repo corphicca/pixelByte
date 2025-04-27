@@ -16,3 +16,4 @@ res://Scenes/Levels/Ocean_Level/Ocean_Hallway_Horiz.tscn
 res://Scenes/Enemies/monster_ocean_body.tscn
 res://Scripts/monster_ocean.gd
 res://Scenes/Menu/menu scripts/intro_menu.gd
+res://Scenes/Enemies/aim_anim.tres

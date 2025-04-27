@@ -4,11 +4,11 @@ game_manager.tscn::PackedScene/PackedScene::7075268726104667232::1745646273::0::
 ::res://Assets/::1745767126
 icon.svg::CompressedTexture2D/CompressedTexture2D::7585732403192757058::1745646273::1745646347::1::::<><><>0<>0<>a474007fe1e221343321a6146801cebe<>res://.godot/imported/icon.svg-8193eb3d66a1b5143b8bb4c28c1dc139.ctex::
 Pot_Game_Feature.png::CompressedTexture2D::2664723552763174402::1745726237::1745726237::1::::<><><>0<>0<>0b409215a1f9ef008062e021f0d33f55<>res://.godot/imported/Pot_Game_Feature.png-8d44bd0205eaa805a28da9cc65f975b2.ctex::
-::res://Assets/backgrounds/::1745767126
+::res://Assets/backgrounds/::1745767244
 A Game By.jpg::CompressedTexture2D::392617810132851706::1745767126::1745767244::1::::<><><>0<>0<>25dd96469d64520bf15413203d213f74<>res://.godot/imported/A Game By.jpg-4907962ae86aabd3092ddf28cbbc47d2.ctex::
 background2.png::CompressedTexture2D::4613181551756260393::1745767126::1745767244::1::::<><><>0<>0<>fad51a748b80bd1853aab59dad976eed<>res://.godot/imported/background2.png-6f62fcbac517254b43e6a54729d99d10.ctex::
 Space Background.png::CompressedTexture2D/CompressedTexture2D::4250308557525196237::1745646273::1745646348::1::::<><><>0<>0<>dd6a1f3bb89c7473a7d4d8cfdeca898b<>res://.godot/imported/Space Background.png-ab2957ba2482905607a1ef6fc906b62b.ctex::
-::res://Assets/backgrounds/space_background_pack/::1745767126
+::res://Assets/backgrounds/space_background_pack/::1745767244
 ChatGPT Image Apr 27, 2025, 04_06_56 AM.png::CompressedTexture2D::1399858909784675398::1745767126::1745767244::1::::<><><>0<>0<>0805a049a786d3524560f522e8a59286<>res://.godot/imported/ChatGPT Image Apr 27, 2025, 04_06_56 AM.png-a49127358e17c43de0be8ec411b9c787.ctex::
 ChatGPT Image Apr 27, 2025, 04_11_19 AM.png::CompressedTexture2D::3875561618724400646::1745767126::1745767243::1::::<><><>0<>0<>f8cfadd7272f9e27391df1d609c62cb6<>res://.godot/imported/ChatGPT Image Apr 27, 2025, 04_11_19 AM.png-d898c5f0b1b8e26f1e11ab01d1631209.ctex::
 ::res://Assets/backgrounds/space_background_pack/__MACOSX/::1745764041
@@ -325,7 +325,7 @@ Basic Demons 4x.png::CompressedTexture2D::3758676403753008957::1745764042::17457
 ::res://Assets/characters/Basic Asset Pack (2)/::1745764042
 ::res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/::1745764042
 ::res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/basic magical animations/::1745764042
-::res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/basic magical animations/adept necromancer/::1745767126
+::res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/basic magical animations/adept necromancer/::1745767243
 AdeptNecromancer.png::CompressedTexture2D::3127076691369655503::1745764042::1745764073::1::::<><><>0<>0<>4cde98e8d01e4179e7a464fba4eadad9<>res://.godot/imported/AdeptNecromancer.png-9a51a415abe5efdb74508c28a1c37810.ctex::
 ChatGPT Image Apr 27, 2025, 01_14_25 AM.png::CompressedTexture2D::5421275602080951741::1745767126::1745767243::1::::<><><>0<>0<>96a56f2cdd2becef8ee584ef3025e045<>res://.godot/imported/ChatGPT Image Apr 27, 2025, 01_14_25 AM.png-b59025b6f359de3e26e0c48c7ed86f09.ctex::
 ::res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/basic magical animations/corrupted treant/::1745764073
@@ -816,7 +816,7 @@ TopPatternPanel_02_33x15.png::CompressedTexture2D::5535570300989445995::17457640
 ValueBar_128x16.png::CompressedTexture2D::6368384379353995622::1745764041::1745764074::1::::<><><>0<>0<>4a0551e5d999040b85191fd49d5ecf71<>res://.godot/imported/ValueBar_128x16.png-34f25692eddf904e3e817c93acc99d5f.ctex::
 ValueBlue_120x8.png::CompressedTexture2D::7235240276236370296::1745764041::1745764074::1::::<><><>0<>0<>b79f6b9c7bac913f77639db0d0d49b94<>res://.godot/imported/ValueBlue_120x8.png-2c9fcf9370bce1ab491630c855156c0e.ctex::
 ValueRed_120x8.png::CompressedTexture2D::7145334095889065649::1745764041::1745764074::1::::<><><>0<>0<>d0a1b91eb36980d0d103a8f0984abe78<>res://.godot/imported/ValueRed_120x8.png-15f1566ca7e3aaf1e515432c96706ee1.ctex::
-::res://Assets/fonts/::1745767126
+::res://Assets/fonts/::1745767225
 Greek-Freak.ttf::FontFile::8526700575312642482::1745767126::1745767225::1::::<><><>0<>0<>ab7a10a75d97eb6bb3f5404f849346dc<>res://.godot/imported/Greek-Freak.ttf-5ad28ec25e168e74a61c7a094a5c5589.fontdata::
 ::res://Assets/Hell_Env/::1745647114
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/::1745647115
@@ -872,14 +872,14 @@ Animation Info.txt::TextFile/TextFile::-1::1745647115::0::1::::<><><>0<>0<><>::
 BigBubble.png::CompressedTexture2D/CompressedTexture2D::43083757166396040::1745647115::1745699940::1::::<><><>0<>0<>b4b355fce63223667bdab1860bc3bb8e<>res://.godot/imported/BigBubble.png-b67a32dd208c9beb5c07af1258b78036.ctex::
 LavaTiles.png::CompressedTexture2D/CompressedTexture2D::3948079752377194374::1745647115::1745699940::1::::<><><>0<>0<>b3a0592e70d6e3439cae35a2128ea34a<>res://.godot/imported/LavaTiles.png-9f4e9a37b19263eadfe2c358fa89f2b9.ctex::
 ::res://Assets/Hell_Env/Minifantasy_Hellscape_v1.0/Minifantasy_Hellscape_Assets/Tileset/Animated Tiles/Lava/GIFs/::1745647115
-::res://Assets/intro_charac/::1745767126
+::res://Assets/intro_charac/::1745767243
 background.png::CompressedTexture2D::567934132155320907::1745764042::1745764074::1::::<><><>0<>0<>46d13f68a84a31131d2d03a6c166b2f4<>res://.godot/imported/background.png-066305850f757ad5facee6298339e924.ctex::
 ChatGPT Image Apr 27, 2025, 01_14_25 AM.png::CompressedTexture2D::274781435575682251::1745767126::1745767243::1::::<><><>0<>0<>563d3b5f4901c5e8c0020b45886644ca<>res://.godot/imported/ChatGPT Image Apr 27, 2025, 01_14_25 AM.png-a8c5d28081405017e15246c8b8cb2b17.ctex::
 part2-removebg-preview.png::CompressedTexture2D::2478907692825352775::1745767126::1745767242::1::::<><><>0<>0<>213f717ae2e778c12605f8da9d7bcdb3<>res://.godot/imported/part2-removebg-preview.png-1137a4f7932c08dc8662cbc738dcc2bc.ctex::
 starcrash.png::CompressedTexture2D::9213188241406563217::1745767126::1745767242::1::::<><><>0<>0<>94a7f53eeca9634926adc759abad04e5<>res://.godot/imported/starcrash.png-190ef3ae01c1e5bb6c0ab7d70477610e.ctex::
 woman 2.png::CompressedTexture2D::7244244104243595741::1745764042::1745764074::1::::<><><>0<>0<>553821ec72272f89006fa28cda5907c6<>res://.godot/imported/woman 2.png-80d86913285bc7960096b875fa5fe77b.ctex::
 women 1.png::CompressedTexture2D::464777050689677161::1745764042::1745764074::1::::<><><>0<>0<>f0fe9275598a1eeb705c723f8f718f29<>res://.godot/imported/women 1.png-6f9386d7a42370467a23f5bbf1d197d8.ctex::
-::res://Assets/intro_charac/introAnimChars/::1745767126
+::res://Assets/intro_charac/introAnimChars/::1745767243
 mother1.png::CompressedTexture2D::8330746520541346129::1745767126::1745767243::1::::<><><>0<>0<>c9129c52aa542694b3e1dd8fd69c4b03<>res://.godot/imported/mother1.png-0936bfb1132cfb21a05105926a030eaa.ctex::
 mother2-removebg-preview.png::CompressedTexture2D::3998883204369690678::1745767126::1745767242::1::::<><><>0<>0<>9f7b789c8ec1d7ce54e2f3e46e0f1d33<>res://.godot/imported/mother2-removebg-preview.png-701a0d0f5e97d6adc605313832312ed9.ctex::
 ::res://Assets/Minifantasy_Dungeon_v2.2_Free_Version/::1745700803
@@ -1016,7 +1016,7 @@ Exclusive to paid version.txt::TextFile::-1::1745764041::0::1::::<><><>0<>0<><>:
 ::res://Assets/ui/Free Paper UI System/::1745767129
 License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/::1745767127
-::res://Assets/ui/Free Paper UI System/1 Sprites/Book Desk/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Book Desk/::1745767267
 1.png::CompressedTexture2D::7840275187918156209::1745767126::1745767267::1::::<><><>0<>0<>8feee6a87569f85a08f3099138f1e4a4<>res://.godot/imported/1.png-d82215d0d6f6e17372be4ce78f6108ac.ctex::
 2.png::CompressedTexture2D::7508266483997374989::1745767126::1745767267::1::::<><><>0<>0<>53a8437d190937ae9cc23f595d9d3e8d<>res://.godot/imported/2.png-11859126e4c5f42ecc08b130e382827c.ctex::
 3.png::CompressedTexture2D::815102041663796998::1745767126::1745767267::1::::<><><>0<>0<>7624eb7d6812988e93dc612c7f22e7ab<>res://.godot/imported/3.png-79308cece2ae849206fdc8972114b417.ctex::
@@ -1025,7 +1025,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 6.png::CompressedTexture2D::322865530372829671::1745767126::1745767267::1::::<><><>0<>0<>c28a98f44e2d7162de02dffca7533762<>res://.godot/imported/6.png-477b297849dc25eb9e1b22eb3efefb20.ctex::
 7.png::CompressedTexture2D::7160942546550578133::1745767126::1745767267::1::::<><><>0<>0<>19204fff6247f83f7a46bc20f80b5d4b<>res://.godot/imported/7.png-7d4bf923118773601b0030fde8378c09.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Content/::1745767126
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/1 Items/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/1 Items/::1745767268
 1.png::CompressedTexture2D::8109299042499539979::1745767126::1745767267::1::::<><><>0<>0<>fe4f8729a999f5934f938fc4975b5546<>res://.godot/imported/1.png-95f173b5557cff90a1dc30ce094f73ea.ctex::
 2.png::CompressedTexture2D::4416037329571837660::1745767126::1745767267::1::::<><><>0<>0<>20df6fc0e7e28993ef5a241bd424eb21<>res://.godot/imported/2.png-5745bf87fcb614fd60934f97741920e0.ctex::
 3.png::CompressedTexture2D::5633581750162431072::1745767126::1745767267::1::::<><><>0<>0<>d826d334fc40041531278a5c12c2bb3c<>res://.godot/imported/3.png-779e3525ad6e1ccfbe8fb4ed24f1a5e3.ctex::
@@ -1053,7 +1053,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 25.png::CompressedTexture2D::1185388580301116596::1745767126::1745767268::1::::<><><>0<>0<>42e012b68c6bb6131a6669a45780e838<>res://.godot/imported/25.png-22a63b288b87db892322824f64ad01cc.ctex::
 26.png::CompressedTexture2D::7729938742711244656::1745767126::1745767268::1::::<><><>0<>0<>d05cab4fafbb3d9a8f8fd3bd85e1de55<>res://.godot/imported/26.png-46c000690d3dcc40b1022cf0491348c4.ctex::
 27.png::CompressedTexture2D::4951351765840508752::1745767126::1745767268::1::::<><><>0<>0<>2707cb637a17ab2490f1838a64b9a013<>res://.godot/imported/27.png-161f1b17259c7390ab8a2d3f13565517.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/2 Icons/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/2 Icons/::1745767268
 1.png::CompressedTexture2D::8970896291576260164::1745767126::1745767268::1::::<><><>0<>0<>3f5b7c4a657beaa8018d9907e27f6b9b<>res://.godot/imported/1.png-e05b613f7aba4f75c1e1a2b9150cb4da.ctex::
 2.png::CompressedTexture2D::1638631427761753365::1745767126::1745767268::1::::<><><>0<>0<>62361c8bbe36f48be25f277524dde892<>res://.godot/imported/2.png-a90dfc4b1bdf30a8a92d747b2c70fb98.ctex::
 3.png::CompressedTexture2D::3358876803081591016::1745767126::1745767268::1::::<><><>0<>0<>4bdf6cd344af569f4bcf0b97e143950b<>res://.godot/imported/3.png-8171abe23418d066553861332b91860f.ctex::
@@ -1080,7 +1080,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 24.png::CompressedTexture2D::3497574922477129033::1745767126::1745767267::1::::<><><>0<>0<>29f7a0b22f49595b906b8b5f94f6bb33<>res://.godot/imported/24.png-2598f382bddba6d6396850bdfe11bdc1.ctex::
 25.png::CompressedTexture2D::8051928315341495840::1745767126::1745767267::1::::<><><>0<>0<>278009d9bcd4c96cbf6a6ce1696ce8b4<>res://.godot/imported/25.png-c60267372dd86e61aa2698fac90621cf.ctex::
 26.png::CompressedTexture2D::7247378302888006066::1745767126::1745767267::1::::<><><>0<>0<>f6a089ca3ecceb5c49bf9cff10126c37<>res://.godot/imported/26.png-fdface80242ba4388edf25951f82e4cb.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/3 Progress Bars/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/3 Progress Bars/::1745767267
 1.png::CompressedTexture2D::8536944923490256349::1745767126::1745767267::1::::<><><>0<>0<>a909638ebd031317388cbd7bf9835b26<>res://.godot/imported/1.png-70615c6e6c8d63add198d63e63b897da.ctex::
 2.png::CompressedTexture2D::1194647492779210440::1745767126::1745767267::1::::<><><>0<>0<>935360bbbe666725996f4588012d9957<>res://.godot/imported/2.png-869d07b90e7e38aaa78ff1c23c53a0d3.ctex::
 3.png::CompressedTexture2D::8748118376313221389::1745767126::1745767267::1::::<><><>0<>0<>4dfa1a9bfd9c9af9cdbdba794aa5a1df<>res://.godot/imported/3.png-05e0ce52b9ae3c26eb0561a041c4d01a.ctex::
@@ -1096,7 +1096,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 13.png::CompressedTexture2D::6402962130108086754::1745767126::1745767267::1::::<><><>0<>0<>c06306f24d24b29278f7148c4f8d37e1<>res://.godot/imported/13.png-cdacb59ebc773072af028891810fef37.ctex::
 14.png::CompressedTexture2D::4916416559221567689::1745767126::1745767267::1::::<><><>0<>0<>fdce7aaa4c3b4f2335d302ef7432595a<>res://.godot/imported/14.png-59363ebf5d4fafb43ab4656582cc9f31.ctex::
 15.png::CompressedTexture2D::1410594283123180807::1745767126::1745767267::1::::<><><>0<>0<>2c462f6986419910fe7b1e3c4f2aad71<>res://.godot/imported/15.png-1120020b4cc3beeda2cf3769d7a676fa.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/4 Buttons/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/4 Buttons/::1745767268
 1.png::CompressedTexture2D::6952041354335983493::1745767126::1745767267::1::::<><><>0<>0<>388e81322491ec42ef1a9e55845c2b88<>res://.godot/imported/1.png-815d0403a1843bfba039808f50472889.ctex::
 2.png::CompressedTexture2D::6572936188146621198::1745767126::1745767267::1::::<><><>0<>0<>f5b5c7baabeca4b37dae9a77917c291a<>res://.godot/imported/2.png-6dd881e9bd2eeadeb7485519b17ab41d.ctex::
 3.png::CompressedTexture2D::8922688337078085156::1745767126::1745767267::1::::<><><>0<>0<>33b1ce4af183d96acc705aaa13e877c3<>res://.godot/imported/3.png-69820f68d335f94014c5fb2a81bc4a60.ctex::
@@ -1130,7 +1130,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 31.png::CompressedTexture2D::2064270441363494098::1745767126::1745767268::1::::<><><>0<>0<>eaab8003ce7938935454b539d0cb6488<>res://.godot/imported/31.png-191f432ad366975915b1cc097ab9d17b.ctex::
 32.png::CompressedTexture2D::1816468165187191141::1745767126::1745767268::1::::<><><>0<>0<>cb937aa7151d059595ee00b0fc57c85c<>res://.godot/imported/32.png-345e0f18fce297a7956d3bc50dea1837.ctex::
 33.png::CompressedTexture2D::7385047459410612817::1745767126::1745767268::1::::<><><>0<>0<>576737611a28865eb58c00d3115c8ba1<>res://.godot/imported/33.png-c2a610cd928098f3c27130639cffa563.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/5 Holders/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/5 Holders/::1745767269
 1.png::CompressedTexture2D::2082218470461665579::1745767126::1745767268::1::::<><><>0<>0<>6e0cafaa0509ca32724c837cfa2b371e<>res://.godot/imported/1.png-efa64cc324acdebdf0b9841b447821d5.ctex::
 2.png::CompressedTexture2D::7951895495480344874::1745767126::1745767268::1::::<><><>0<>0<>14cb8b3075eab017020931aac1437a27<>res://.godot/imported/2.png-6d8ae98dcce294ddc3ab9d2f72d252cc.ctex::
 3.png::CompressedTexture2D::8258553409676736568::1745767126::1745767268::1::::<><><>0<>0<>6895255fa8479c6448bcc12ccb51580c<>res://.godot/imported/3.png-9ff7dd4abb65a88814a335ae7e7b1957.ctex::
@@ -1156,7 +1156,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 23.png::CompressedTexture2D::1473464392757448919::1745767126::1745767269::1::::<><><>0<>0<>64fed5d13067e9f60d55d97f3cc45b0f<>res://.godot/imported/23.png-223a40eddaf3cc3bceb121bb9a5c891b.ctex::
 24.png::CompressedTexture2D::4243785122021459561::1745767126::1745767269::1::::<><><>0<>0<>0811d536c2f124302f6d45cae94a6e41<>res://.godot/imported/24.png-2545a016c18b9506ee9af63b89012fc1.ctex::
 25.png::CompressedTexture2D::9087712433429039604::1745767126::1745767269::1::::<><><>0<>0<>f4b6eba88c38aeef17114a12466087e3<>res://.godot/imported/25.png-12e3df2d3bf09e34a8c967dba9ce16fa.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/6 High lighter/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/6 High lighter/::1745767269
 1.png::CompressedTexture2D::7876449021346142835::1745767126::1745767269::1::::<><><>0<>0<>3dda783749f4472670d4c17e05b8b620<>res://.godot/imported/1.png-285edb6ed26beab725668fb192947339.ctex::
 2.png::CompressedTexture2D::3504171435961113860::1745767126::1745767268::1::::<><><>0<>0<>ebb34382ebddabeb46b26bb4ab2b5a4a<>res://.godot/imported/2.png-6e3a83cf1b747ab5096f741c4ecb0272.ctex::
 3.png::CompressedTexture2D::3530089383013302935::1745767126::1745767268::1::::<><><>0<>0<>4dc212b5833e50218f446c6c8dde8432<>res://.godot/imported/3.png-e7e75fe61f1ef34ce3b01b5406ee1f1a.ctex::
@@ -1166,7 +1166,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 7.png::CompressedTexture2D::3031982933185053712::1745767126::1745767268::1::::<><><>0<>0<>3f5578bd7b59c132ca70b40659be1dfa<>res://.godot/imported/7.png-ca617800d569c6dba0148e7894d068b3.ctex::
 8.png::CompressedTexture2D::6535985979377482920::1745767126::1745767268::1::::<><><>0<>0<>1782e1b718638549f427ba55bca679f9<>res://.godot/imported/8.png-3c0a2731e49f80aab3ba4081b43a03e5.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Content/7 Day & Night Cycle/::1745767126
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/7 Day & Night Cycle/Items Holder/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/7 Day & Night Cycle/Items Holder/::1745767268
 1.png::CompressedTexture2D::2867517782989856261::1745767126::1745767268::1::::<><><>0<>0<>d36dfbed88b284a12ea494eeb82ec3df<>res://.godot/imported/1.png-5add1189e90091e66ebd27202310cfd0.ctex::
 2.png::CompressedTexture2D::7259715246157300324::1745767126::1745767268::1::::<><><>0<>0<>765e849e39a901aedd0fb17a0438289d<>res://.godot/imported/2.png-9bda1afb85c5b778ae0159c92ecb1020.ctex::
 3.png::CompressedTexture2D::3939821710691475141::1745767126::1745767268::1::::<><><>0<>0<>0570421712fd4afaf9a1b660f34e05d4<>res://.godot/imported/3.png-d638a46330a5a0741d777256e4d15107.ctex::
@@ -1183,7 +1183,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 14.png::CompressedTexture2D::4935772535027274020::1745767126::1745767268::1::::<><><>0<>0<>ec35d72b32a1c70e606d63b14bd4d064<>res://.godot/imported/14.png-524c3c238a26f8aa8cb5fb6751cf9d1f.ctex::
 15.png::CompressedTexture2D::3624630295398073406::1745767126::1745767268::1::::<><><>0<>0<>bda4d6d200c6b394c29ced35b1246060<>res://.godot/imported/15.png-057c70c1284d2503314e0a2e8e383f95.ctex::
 16.png::CompressedTexture2D::9014339079683628877::1745767126::1745767268::1::::<><><>0<>0<>b996b2669cb25df2e3047fd1ff47c840<>res://.godot/imported/16.png-6f3f3a14f860a174411ae413ea1cff45.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/8 Equipment/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/8 Equipment/::1745767268
 1.png::CompressedTexture2D::5105916326217963671::1745767126::1745767268::1::::<><><>0<>0<>028ca915ded4eeb70c28b12214f75278<>res://.godot/imported/1.png-78bc799f19d4b2723d8a14a3ae58a0e5.ctex::
 2.png::CompressedTexture2D::4061027187944875256::1745767126::1745767268::1::::<><><>0<>0<>8349143980684b5cc12571e84ac00f88<>res://.godot/imported/2.png-1b538ac2ecd0aca4a41cbb511e9ff3d7.ctex::
 3.png::CompressedTexture2D::3940498790580956491::1745767126::1745767268::1::::<><><>0<>0<>e537132e16083aca5000394b776bb00b<>res://.godot/imported/3.png-9bca0a58ba7392c2b64d0a0e84be599b.ctex::
@@ -1204,9 +1204,9 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 18.png::CompressedTexture2D::2982713710689062047::1745767126::1745767268::1::::<><><>0<>0<>57876b6e6f2d29568dd67e38614a3deb<>res://.godot/imported/18.png-990054eddd346757955fdf9bc76d5777.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Content/9 Stamp/::1745767126
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Content/9 Stamp/Stamp/::1745767126
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/9 Stamp/Stamp/idle/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/9 Stamp/Stamp/idle/::1745767268
 1.png::CompressedTexture2D::632972903662361416::1745767126::1745767268::1::::<><><>0<>0<>ed594a64c65c549cf8c1ebc1112d1eac<>res://.godot/imported/1.png-f984529afaadb1c8d31fb4fbfaf14c9b.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/9 Stamp/Stamp/Stamped/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/9 Stamp/Stamp/Stamped/::1745767268
 1.png::CompressedTexture2D::5552078928094242477::1745767126::1745767268::1::::<><><>0<>0<>75a0dbb31e515e9bb7b83f74ddf08673<>res://.godot/imported/1.png-073db08126548f35c8809c9d4c8a75fc.ctex::
 2.png::CompressedTexture2D::6386583531464624418::1745767126::1745767268::1::::<><><>0<>0<>118b22c12a8de6803e2df3b29daeeda3<>res://.godot/imported/2.png-61ddbdb6d8211baf0cb2cd3764844959.ctex::
 3.png::CompressedTexture2D::1186360873897310505::1745767126::1745767268::1::::<><><>0<>0<>1b4a5f62cc353e45295ee5679d91223f<>res://.godot/imported/3.png-23d39d2f88804248699dd493c2c01a06.ctex::
@@ -1227,10 +1227,10 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 18.png::CompressedTexture2D::7715394958154983930::1745767126::1745767265::1::::<><><>0<>0<>45f042a4551e8ab64b1dcda6059a4b97<>res://.godot/imported/18.png-47b23baae2cb154f96e8b6a003000719.ctex::
 19.png::CompressedTexture2D::3596294555330707605::1745767126::1745767265::1::::<><><>0<>0<>f149fd301bb3d865f05c14875de0f1c3<>res://.godot/imported/19.png-7ba86e0bb27e6f7476f440587cfbae90.ctex::
 20.png::CompressedTexture2D::3516126987223172573::1745767126::1745767265::1::::<><><>0<>0<>7506d2cc9da3e249c791b25aa9030562<>res://.godot/imported/20.png-17a4dab2c9fa4a3df9281873047de869.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/9 Stamp/Stamp Mark/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/9 Stamp/Stamp Mark/::1745767265
 1.png::CompressedTexture2D::786506611200412102::1745767126::1745767265::1::::<><><>0<>0<>4032a5c47eeab97a879157c798698ac2<>res://.godot/imported/1.png-cfbffbea8d9853ca7a76e2d9a9c33af0.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Content/10 Banners & Headers/::1745767126
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/10 Banners & Headers/Cutout/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/10 Banners & Headers/Cutout/::1745767266
 1.png::CompressedTexture2D::783342112896161551::1745767126::1745767265::1::::<><><>0<>0<>77243cf90a18d77c38f6551a2fa54ab9<>res://.godot/imported/1.png-aa4132d1319efad6fa3b2f3cd3b56ff2.ctex::
 2.png::CompressedTexture2D::6942698667848474672::1745767126::1745767265::1::::<><><>0<>0<>93a33277c4074d4fdb5d98288eebc90e<>res://.godot/imported/2.png-ae55002a57f69d11e0b989dc3d4589e2.ctex::
 3.png::CompressedTexture2D::4950571120352796848::1745767126::1745767265::1::::<><><>0<>0<>038f386aa829eee27b2e3869d91fcd35<>res://.godot/imported/3.png-bbb9ac4f78e3e842c1ce8bc396b9e452.ctex::
@@ -1251,7 +1251,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 18.png::CompressedTexture2D::4635654399298646686::1745767126::1745767265::1::::<><><>0<>0<>892703625604f0a532f51b599c5c9092<>res://.godot/imported/18.png-9a7956cf1ae1a6c6b488826d4e85bb9a.ctex::
 19.png::CompressedTexture2D::7279135095599892553::1745767126::1745767265::1::::<><><>0<>0<>6a399bdffa80d04fdd88e9845996ddc1<>res://.godot/imported/19.png-f01261d693fcb0afdfff828987416ad4.ctex::
 20.png::CompressedTexture2D::587962118754070968::1745767126::1745767265::1::::<><><>0<>0<>adf8028a2cbe49c98cede72d30cad472<>res://.godot/imported/20.png-f3908fd9147d12bc97e97312e1092fa1.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Content/10 Banners & Headers/Plain/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Content/10 Banners & Headers/Plain/::1745767266
 1.png::CompressedTexture2D::4422429071290236646::1745767126::1745767265::1::::<><><>0<>0<>86d6326fd15817529309e102177e0116<>res://.godot/imported/1.png-1a850309a167c5521f663ebb70cced6d.ctex::
 2.png::CompressedTexture2D::3073175443164813980::1745767126::1745767265::1::::<><><>0<>0<>19bd97d6db22c6d0e13cd6aedf06eb91<>res://.godot/imported/2.png-76ec09d841ea72fe6f70e78c93753a21.ctex::
 3.png::CompressedTexture2D::7072233170341575589::1745767126::1745767265::1::::<><><>0<>0<>963a0450c23353e8206a59393250f7e0<>res://.godot/imported/3.png-487e9438755db62d8fd86db461ffa98c.ctex::
@@ -1275,7 +1275,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/::1745767126
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/::1745767127
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/::1745767127
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/1 Dawn/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/1 Dawn/::1745767265
 1.png::CompressedTexture2D::7674458095769547916::1745767126::1745767265::1::::<><><>0<>0<>fcbe7e101488dc3d16b94db8973c384d<>res://.godot/imported/1.png-b875cf96f4b9dad5ea84cf1ae1f04ac1.ctex::
 2.png::CompressedTexture2D::4225182957236564351::1745767126::1745767264::1::::<><><>0<>0<>ce4e1ed6c4005471af294b3b2e754785<>res://.godot/imported/2.png-c554ae5d214eaad06fd73e1bfa019931.ctex::
 3.png::CompressedTexture2D::4778852837761933559::1745767126::1745767264::1::::<><><>0<>0<>b2789e375641201b3d35f24e9274e14e<>res://.godot/imported/3.png-ab83e3e63975d4de31fd19eeb78543c9.ctex::
@@ -1286,7 +1286,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::6394519967800908817::1745767126::1745767264::1::::<><><>0<>0<>71cdeb1547d8d4ff89fb7739eeff7323<>res://.godot/imported/8.png-885ff63b48a1ab5794d602f7858bf98d.ctex::
 9.png::CompressedTexture2D::3609545280716243853::1745767126::1745767264::1::::<><><>0<>0<>d6063a2a978cbe259b315a7e11514225<>res://.godot/imported/9.png-09948a95550629189e75bea67fb6c290.ctex::
 10.png::CompressedTexture2D::4488810072499837481::1745767126::1745767264::1::::<><><>0<>0<>841a013bf19b67a36da3fbcba153f3bc<>res://.godot/imported/10.png-dae5fe31a7e059e91d1d6e6327905a70.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/2 Day/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/2 Day/::1745767265
 1.png::CompressedTexture2D::4342990021493089223::1745767126::1745767264::1::::<><><>0<>0<>ef8bcaf4f98773edb8deefbdef0f971f<>res://.godot/imported/1.png-fe6417fdb8871d5dde2ba4125db4cef6.ctex::
 2.png::CompressedTexture2D::2439901960671183472::1745767126::1745767264::1::::<><><>0<>0<>d71a3fa7caefeeeb831d9a1cb2c9e3a3<>res://.godot/imported/2.png-e71259da6d5a8ef567b89ad2c1f619af.ctex::
 3.png::CompressedTexture2D::4767085954035582396::1745767126::1745767264::1::::<><><>0<>0<>44c2b2c397692fd98f4447b2117f48bb<>res://.godot/imported/3.png-1bb6bd3cbbc58d67fd84cc4d6cb45623.ctex::
@@ -1297,7 +1297,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::5985693867627788704::1745767126::1745767265::1::::<><><>0<>0<>361af17bf5558bdf61314b1a73ea0433<>res://.godot/imported/8.png-3f24bd026b30b5a21d17d5fafa839fbd.ctex::
 9.png::CompressedTexture2D::5876879589643743323::1745767126::1745767265::1::::<><><>0<>0<>d4e8bbd4a7951b54b2296639eff67cee<>res://.godot/imported/9.png-a612071862f83f5d24cf8a2c229bafaf.ctex::
 10.png::CompressedTexture2D::6942052851151712768::1745767126::1745767265::1::::<><><>0<>0<>2b97ff9f186e31208d59bc3a8f396fe1<>res://.godot/imported/10.png-fe18c08613f6598d18796949af6e5025.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/3 Noon/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/3 Noon/::1745767265
 1.png::CompressedTexture2D::7667597471122946163::1745767126::1745767265::1::::<><><>0<>0<>fb72a61b0ccdc99bffc90200d36c2169<>res://.godot/imported/1.png-f5b095acd4285280c4c46adf1c0554e1.ctex::
 2.png::CompressedTexture2D::1668281894065718874::1745767126::1745767265::1::::<><><>0<>0<>90e32691bb573243cf0f70220bff9310<>res://.godot/imported/2.png-344af0168dd76209c29bc2fc190a2bf8.ctex::
 3.png::CompressedTexture2D::3117804199016529396::1745767126::1745767265::1::::<><><>0<>0<>eca27407509e64626a8d04d517cd5498<>res://.godot/imported/3.png-5349d3484b58161ce74888d78520564b.ctex::
@@ -1308,7 +1308,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::3555079596101640385::1745767126::1745767265::1::::<><><>0<>0<>5652a743bab55258dd0b68bb03f93f6b<>res://.godot/imported/8.png-1ad270e1e29a16853225783ee8b7a755.ctex::
 9.png::CompressedTexture2D::5104742363412081097::1745767126::1745767265::1::::<><><>0<>0<>54af23bd7a1f5bca4ba97fa885a26f3b<>res://.godot/imported/9.png-778c87f16ba62974e51c74d868383728.ctex::
 10.png::CompressedTexture2D::4914384570328851989::1745767126::1745767265::1::::<><><>0<>0<>9225554b6946083c16e00c5f5330a604<>res://.godot/imported/10.png-5ad2baa52d48668b82391a5d82149bff.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/4 Night/::1745767126
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/4 Night/::1745767266
 1.png::CompressedTexture2D::4435236147899452026::1745767126::1745767265::1::::<><><>0<>0<>5768f6dee1c69ff7fbbd1bded77f03e4<>res://.godot/imported/1.png-86978aed489297f2d6046e91fdfd5c1d.ctex::
 2.png::CompressedTexture2D::5339930042983712037::1745767126::1745767265::1::::<><><>0<>0<>02946cbc86f9636d379ec535c187a472<>res://.godot/imported/2.png-68d9be1862dd9907b09def49a93f1cfc.ctex::
 3.png::CompressedTexture2D::6344163219005200217::1745767126::1745767265::1::::<><><>0<>0<>7fe78fc4466742f59004c37464666462<>res://.godot/imported/3.png-50a76aef410cd2cfb34c117d76394dd4.ctex::
@@ -1319,7 +1319,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::1521458873316645580::1745767126::1745767266::1::::<><><>0<>0<>f961616156347d6bb6da41f489ce670e<>res://.godot/imported/8.png-5277fa6096cc35c779c0b4556b44f8fc.ctex::
 9.png::CompressedTexture2D::4922187989918083506::1745767126::1745767266::1::::<><><>0<>0<>81218bb53b8aad87aec86fec87c25f4d<>res://.godot/imported/9.png-c9cbb9667de0ab4863c23c3392e4e4cc.ctex::
 10.png::CompressedTexture2D::2259017892802304862::1745767126::1745767266::1::::<><><>0<>0<>9c5a3e22a7d7e5f38727f08eee5dda46<>res://.godot/imported/10.png-3e7b9d69d4cde986252dbb99d3d71435.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/5 Lightning 1/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/5 Lightning 1/::1745767266
 1.png::CompressedTexture2D::1581467271955578546::1745767126::1745767266::1::::<><><>0<>0<>22adc2253fadc62de52dd1a5c54e3a9b<>res://.godot/imported/1.png-24a1e03a0c803c49e7ff06e0cb0a889d.ctex::
 2.png::CompressedTexture2D::7904622103060925660::1745767126::1745767266::1::::<><><>0<>0<>4dd9bac6d6fe46b1dab3b19fd2284f55<>res://.godot/imported/2.png-48d1a5620023e9902ba3c86b12d25bdf.ctex::
 3.png::CompressedTexture2D::7116231518088704242::1745767126::1745767266::1::::<><><>0<>0<>028f54e494a53b9bd2c74d9827cce6d6<>res://.godot/imported/3.png-3378fbeb21509557cd33d3bd644a9941.ctex::
@@ -1330,7 +1330,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::7923931671749047825::1745767127::1745767266::1::::<><><>0<>0<>60b8d0e206856e6e108e8bc885529bea<>res://.godot/imported/8.png-91b172c0c5f7ac85ced7e54c511edb09.ctex::
 9.png::CompressedTexture2D::805833318585993529::1745767127::1745767266::1::::<><><>0<>0<>3f97715bf41e572395d4ee743df71959<>res://.godot/imported/9.png-f266bff478c32d4fe897586bfa67fb04.ctex::
 10.png::CompressedTexture2D::3872675827718921476::1745767126::1745767266::1::::<><><>0<>0<>83013de09ae88f83dea767144793c9e4<>res://.godot/imported/10.png-cfa2bc465f580a807ec8cc37c856b6f2.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/6 Lightning 2/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/6 Lightning 2/::1745767266
 1.png::CompressedTexture2D::2467375021115261721::1745767127::1745767266::1::::<><><>0<>0<>da51ec8cd245dee8f36015f868ab26d7<>res://.godot/imported/1.png-55562d2121ccdb2cc937685611d3afb6.ctex::
 2.png::CompressedTexture2D::3495613301316982833::1745767127::1745767266::1::::<><><>0<>0<>8c2966c944f151842d39f3b97b6cd1b7<>res://.godot/imported/2.png-d1a22d882fb0545c78c8ce420f201383.ctex::
 3.png::CompressedTexture2D::3815486616295104191::1745767127::1745767266::1::::<><><>0<>0<>afa9e6e30fe023223b8460247eaa1e9f<>res://.godot/imported/3.png-45cdec7bc99be093baa279a1ee486141.ctex::
@@ -1341,7 +1341,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::1725412804710452180::1745767127::1745767266::1::::<><><>0<>0<>f4a499c3a60c4ca582bb49f9c273c022<>res://.godot/imported/8.png-66b5d51caf6f3455c010ff71670dddba.ctex::
 9.png::CompressedTexture2D::3369648872741328723::1745767127::1745767266::1::::<><><>0<>0<>97787166d83be08468186353bdf7fb4f<>res://.godot/imported/9.png-2f290d1d6afee65c5ef4988ac88a5beb.ctex::
 10.png::CompressedTexture2D::1366984270558286349::1745767127::1745767266::1::::<><><>0<>0<>dbd5a233fdea1bee69be7c5c06d895f9<>res://.godot/imported/10.png-22db2d0df6b21d938365dc7ff62647ee.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/7 Raining/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/1/7 Raining/::1745767267
 1.png::CompressedTexture2D::657664404014251650::1745767127::1745767267::1::::<><><>0<>0<>e2f5fb6cd09d61c3c9c2227fe6cbbefd<>res://.godot/imported/1.png-b998fec64c693144286114dd259cbd7c.ctex::
 2.png::CompressedTexture2D::557851498882022462::1745767127::1745767267::1::::<><><>0<>0<>db8e47183029c1b39d5dcacd89e1f4b3<>res://.godot/imported/2.png-4cd11c5dc6633be0d0aca7df63b726b3.ctex::
 3.png::CompressedTexture2D::516804831661293461::1745767127::1745767267::1::::<><><>0<>0<>1c60af6cbd796d511d08b2c60cd78fdf<>res://.godot/imported/3.png-1b7a633278be72bca09515049030e5b5.ctex::
@@ -1353,7 +1353,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 9.png::CompressedTexture2D::3649337251785202946::1745767127::1745767267::1::::<><><>0<>0<>50cffd226b2ff55cfab7b7711614a4c8<>res://.godot/imported/9.png-6156082c8f0b150f15e725707f76b121.ctex::
 10.png::CompressedTexture2D::3330009072634437645::1745767127::1745767267::1::::<><><>0<>0<>1a4c983fc1aad0c02a753cb7294082fd<>res://.godot/imported/10.png-7fac9f074c696c303a1f049a9b90aac7.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/::1745767127
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/1 Dawn/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/1 Dawn/::1745767267
 1.png::CompressedTexture2D::3941807945708110470::1745767127::1745767267::1::::<><><>0<>0<>96b52b31d93ccf8c86a4755b83f57b7d<>res://.godot/imported/1.png-36884deec378fc3e3705df43f616fd48.ctex::
 2.png::CompressedTexture2D::3910063809440928542::1745767127::1745767267::1::::<><><>0<>0<>8423d7fdaeb6594d980e9b17a973d5df<>res://.godot/imported/2.png-52afd4339d8d824f2649a9f23a64205a.ctex::
 3.png::CompressedTexture2D::8718691954173283133::1745767127::1745767267::1::::<><><>0<>0<>6a39dae3049b44188b6a36bd9a5cd933<>res://.godot/imported/3.png-b41127ef8f08a8aff7433c10121e3479.ctex::
@@ -1364,7 +1364,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::8287544574328064603::1745767127::1745767266::1::::<><><>0<>0<>030d104b1280e11a5c2078229cd80b6f<>res://.godot/imported/8.png-54c1e8ee23b1703600200ebf4817c540.ctex::
 9.png::CompressedTexture2D::4069957871886952567::1745767127::1745767266::1::::<><><>0<>0<>707c2fd396ec6370c4b07f4ad939747d<>res://.godot/imported/9.png-9bb3ddbbcd3258c1d537ed22fa3b8dfc.ctex::
 10.png::CompressedTexture2D::1484843213578911587::1745767127::1745767266::1::::<><><>0<>0<>fd36e4f7f966f81d65047ff403bf49d0<>res://.godot/imported/10.png-8bda91e292ff6e0f23b26772f06627c2.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/2 Day/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/2 Day/::1745767266
 1.png::CompressedTexture2D::8083899356045522181::1745767127::1745767266::1::::<><><>0<>0<>09b486a48ca0f9e1f00c4449503cec3c<>res://.godot/imported/1.png-4f0373d22d95fdf05e304eef70b3aaa1.ctex::
 2.png::CompressedTexture2D::764620387009224383::1745767127::1745767266::1::::<><><>0<>0<>743f7b8f163febcc615ef9fb95b03a5f<>res://.godot/imported/2.png-1d5cad2c19ec9b8cbe057b3384824b93.ctex::
 3.png::CompressedTexture2D::8109820985753595403::1745767127::1745767266::1::::<><><>0<>0<>c634369c7eb824c652b52741fc39872c<>res://.godot/imported/3.png-75f7e2fc2b9840ca49da7136b9cba5fc.ctex::
@@ -1375,7 +1375,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::2362780139293004357::1745767127::1745767266::1::::<><><>0<>0<>15acf20757f53250d85a54810b176801<>res://.godot/imported/8.png-4ebb4eed56933d67f1308cb7a96172ca.ctex::
 9.png::CompressedTexture2D::8785207034202037961::1745767127::1745767266::1::::<><><>0<>0<>08ab95976a61b9e5ca3fa5aa934ccccb<>res://.godot/imported/9.png-a9109cd7fa7ded6cc202d38e5a05e7d8.ctex::
 10.png::CompressedTexture2D::6409911348383856225::1745767127::1745767266::1::::<><><>0<>0<>7bb96e44bb71d781d6c3d493cf383574<>res://.godot/imported/10.png-b96e798e6a615c1b9b6b24e3c9f926b6.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/3 Noon/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/3 Noon/::1745767266
 1.png::CompressedTexture2D::6674604833036613957::1745767127::1745767266::1::::<><><>0<>0<>6dedfec315b9fb20f6297d66bd101fc7<>res://.godot/imported/1.png-bcf46d22ec6966e7361b29b8b770368d.ctex::
 2.png::CompressedTexture2D::2043568184091440525::1745767127::1745767266::1::::<><><>0<>0<>e58a24f91dda56103fdd6bb04f6753de<>res://.godot/imported/2.png-f4f12ce8a66b8488f081ad34b3b22af1.ctex::
 3.png::CompressedTexture2D::6511147203705518920::1745767127::1745767266::1::::<><><>0<>0<>ae0733fb30e44b213ce50cab0186b1e2<>res://.godot/imported/3.png-61589c693c661ee48f6a241c1f4e8868.ctex::
@@ -1386,7 +1386,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::7208512861366636329::1745767127::1745767266::1::::<><><>0<>0<>729321d8361c3c6b09ed57d44f34edde<>res://.godot/imported/8.png-dd726071e60e2e3c0abb4fb055cc0446.ctex::
 9.png::CompressedTexture2D::4882170266054757112::1745767127::1745767266::1::::<><><>0<>0<>b22a54b608384bd743114fdf763eeeb5<>res://.godot/imported/9.png-06ae73adf2e0491ef7d4efe07f806b7c.ctex::
 10.png::CompressedTexture2D::6897298969669648502::1745767127::1745767266::1::::<><><>0<>0<>0c56fc9bad50ecc03617ed8cd0207f11<>res://.godot/imported/10.png-08d4dfeb622277b344d8953bf4a4811c.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/4 Night/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/4 Night/::1745767266
 1.png::CompressedTexture2D::4726805109623693450::1745767127::1745767266::1::::<><><>0<>0<>d4cb1ed83f2633df1672a36f97cd690f<>res://.godot/imported/1.png-9e70bb4d148232aa614e506aed4f4ec6.ctex::
 2.png::CompressedTexture2D::8436232558498388215::1745767127::1745767266::1::::<><><>0<>0<>5a1385e478e84ac196de5126f5cd7732<>res://.godot/imported/2.png-73ca2d53195e95ab0926d857d9c3b56d.ctex::
 3.png::CompressedTexture2D::93955454479618918::1745767127::1745767266::1::::<><><>0<>0<>090f69bea9215361760a88a94bfd2d52<>res://.godot/imported/3.png-2d475628f036e26d9f97f639337e450d.ctex::
@@ -1397,7 +1397,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::3218307412775308204::1745767127::1745767266::1::::<><><>0<>0<>850cde7fae998af329f9b09177261431<>res://.godot/imported/8.png-ab1e04e09fcbe11afd982c2e29c6502b.ctex::
 9.png::CompressedTexture2D::35835769704999602::1745767127::1745767266::1::::<><><>0<>0<>9b91ee51f07004c4dc090e8ee43cf332<>res://.godot/imported/9.png-03ee057a203f3953d566f8b6708175e8.ctex::
 10.png::CompressedTexture2D::2920021583441825064::1745767127::1745767266::1::::<><><>0<>0<>5b6d5b4ae3f38bc9a525ef077a1939b7<>res://.godot/imported/10.png-c872bf9bcecdecee0d561877d6f7211d.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/5 Lightning 1/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/5 Lightning 1/::1745767266
 1.png::CompressedTexture2D::6829663827150255084::1745767127::1745767266::1::::<><><>0<>0<>61cf86793c552bdada1ba5866f9e5724<>res://.godot/imported/1.png-de347e290ddf330f8ba2c61963a95667.ctex::
 2.png::CompressedTexture2D::800052770341685292::1745767127::1745767266::1::::<><><>0<>0<>a62000fd44c68b6cd50fe985c6705278<>res://.godot/imported/2.png-6eb3fc836f29ba0bb2f413cdfc9940d6.ctex::
 3.png::CompressedTexture2D::7127935687530805912::1745767127::1745767266::1::::<><><>0<>0<>5c189697d839d8cde065520ba67bf97a<>res://.godot/imported/3.png-2ef7a7bbc1ff8653da5717c88cf0b198.ctex::
@@ -1408,7 +1408,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::3602233000006686995::1745767127::1745767266::1::::<><><>0<>0<>d4431c9af977366ad2b9b9cc3d8fdc2c<>res://.godot/imported/8.png-c948d8879b9f1edc18e97b6308ee80f7.ctex::
 9.png::CompressedTexture2D::4308901510545271194::1745767127::1745767266::1::::<><><>0<>0<>7404c1ca3bfa71ad3000f272a980da82<>res://.godot/imported/9.png-144c8d5b1f0f4fb3fbd53832ef054c13.ctex::
 10.png::CompressedTexture2D::4222206358625326964::1745767127::1745767266::1::::<><><>0<>0<>d9a745185bdcc2edcd05f0de61d6254b<>res://.godot/imported/10.png-14b2b106925e8864f39d033a7242fb01.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/6 Lightning 2/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/6 Lightning 2/::1745767272
 1.png::CompressedTexture2D::4353677320747598495::1745767127::1745767266::1::::<><><>0<>0<>9efab7219f1f3717f8e7a17ee6c0bc64<>res://.godot/imported/1.png-e26877d518068837c53a98eca2c2fd15.ctex::
 2.png::CompressedTexture2D::6044621500223682710::1745767127::1745767266::1::::<><><>0<>0<>ea546367846f5491a5aef2311ef1b2a0<>res://.godot/imported/2.png-9d68ff7b0982fc5d0ff8eb274ce8bdcd.ctex::
 3.png::CompressedTexture2D::2744230500407124680::1745767127::1745767266::1::::<><><>0<>0<>724320f34644af056eb598deb7569b51<>res://.godot/imported/3.png-2a3135f47eb0f6eaf7e2ba440a83b39b.ctex::
@@ -1419,7 +1419,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 8.png::CompressedTexture2D::6170753989244671366::1745767127::1745767266::1::::<><><>0<>0<>418e408191dee2fc799f8a86a4cdd075<>res://.godot/imported/8.png-ded1f5204980548860ee522e37a79542.ctex::
 9.png::CompressedTexture2D::8035871946339369950::1745767127::1745767272::1::::<><><>0<>0<>20f7cc770576f41df3504b69fc065bfb<>res://.godot/imported/9.png-905833d14866826a402b4d3912545dd4.ctex::
 10.png::CompressedTexture2D::2128811129269569759::1745767127::1745767272::1::::<><><>0<>0<>7b96c8f647273c66300b782a7156f78a<>res://.godot/imported/10.png-7dc2589eaa3fd632d3b60939216e57cc.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/7 Raining/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Day & Night Cycle/Items Holder/2/7 Raining/::1745767272
 1.png::CompressedTexture2D::7279052808450016371::1745767127::1745767272::1::::<><><>0<>0<>bdfc0eab2ded865022d222c7dd92947f<>res://.godot/imported/1.png-e68223b4709fa2e9eed6b77314d8fc12.ctex::
 2.png::CompressedTexture2D::3840399759691860390::1745767127::1745767272::1::::<><><>0<>0<>07c141b80f62a6379015a07b6ffa6007<>res://.godot/imported/2.png-81fdd848db79cd638078fe12182c99b6.ctex::
 3.png::CompressedTexture2D::9154249215487218309::1745767127::1745767272::1::::<><><>0<>0<>6ef2e0f1814eabe62c3674d618b700d3<>res://.godot/imported/3.png-a47ea62ed128d872fef6d2b7de576669.ctex::
@@ -1433,7 +1433,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/::1745767127
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/::1745767129
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/::1745767127
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/1 Paper/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/1 Paper/::1745767272
 1.png::CompressedTexture2D::2303412624065604061::1745767127::1745767272::1::::<><><>0<>0<>abe8a914d30df2c62c0d288a98534559<>res://.godot/imported/1.png-4c3fc3e051654b842b3a332213b3178c.ctex::
 2.png::CompressedTexture2D::2924044557086974417::1745767127::1745767272::1::::<><><>0<>0<>dcc1ce1ac0b0f39878c893ce8781b950<>res://.godot/imported/2.png-d96b4b566e620ecf017c90ba2aa06207.ctex::
 3.png::CompressedTexture2D::3975512563351276677::1745767127::1745767272::1::::<><><>0<>0<>8da2ee33bcdfe26c381d52dd6ecddc0a<>res://.godot/imported/3.png-5c0fa7d9fbebf4e9fbd01e96c362ede4.ctex::
@@ -1490,33 +1490,33 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 54.png::CompressedTexture2D::5798623216648929107::1745767127::1745767271::1::::<><><>0<>0<>c1667bad996594560a164b22dedf1635<>res://.godot/imported/54.png-d63cb0900660e3db704d527889ee460e.ctex::
 55.png::CompressedTexture2D::269461861351437579::1745767127::1745767271::1::::<><><>0<>0<>0f9f1b8ef1be472a89165a97e170b4cd<>res://.godot/imported/55.png-b089476268f0dce22fa28f2301fd3af5.ctex::
 56.png::CompressedTexture2D::5798414513517349948::1745767127::1745767271::1::::<><><>0<>0<>941fd245cfa171e5a24dd69bb0212f4b<>res://.godot/imported/56.png-49cfb2b985c6b9cd91ce0a21705ffff5.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/2 Headers/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/2 Headers/::1745767272
 1.png::CompressedTexture2D::4700163088834818192::1745767127::1745767272::1::::<><><>0<>0<>9def6cac2b44d411af46b1c273d37b4f<>res://.godot/imported/1.png-97db63b7a67446837d309292a9bbefcc.ctex::
 2.png::CompressedTexture2D::6471394131667165202::1745767127::1745767272::1::::<><><>0<>0<>eeb39aca7a8e660e918fe89ec4c9ad46<>res://.godot/imported/2.png-e4965ec61eb092cbdb645ccff0b591c7.ctex::
 3.png::CompressedTexture2D::4408520685667665504::1745767127::1745767272::1::::<><><>0<>0<>8992c794fe049f3d2bc594fa47d394c1<>res://.godot/imported/3.png-7ce40c8eadcca317cb774e4005af8bd5.ctex::
 4.png::CompressedTexture2D::4089543782239126035::1745767127::1745767272::1::::<><><>0<>0<>e840c8153536a618f3555d75bce6ee1e<>res://.godot/imported/4.png-3feee79054e438e0acc031c5d06c2fd7.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/3 Item Holder/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/3 Item Holder/::1745767272
 1.png::CompressedTexture2D::405348780026589765::1745767127::1745767272::1::::<><><>0<>0<>b1fa7e410a75dedb6dff243f39cafa45<>res://.godot/imported/1.png-84d35904cc206ccb80ad411f512f8282.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/4 Notification/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/4 Notification/::1745767271
 1.png::CompressedTexture2D::1592594538704205191::1745767127::1745767271::1::::<><><>0<>0<>049455c1815c0cb97d359d071e56de26<>res://.godot/imported/1.png-5b6921725da4c2413a7666823ab8faf3.ctex::
 2.png::CompressedTexture2D::9091066301690729491::1745767127::1745767271::1::::<><><>0<>0<>5cfd0bfdd5b774fb17a6b8c03e1b015d<>res://.godot/imported/2.png-26d2460b0434c3e63352fefdbbb9e6be.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/5 Mini Map/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/5 Mini Map/::1745767271
 1.png::CompressedTexture2D::4647634658744898128::1745767127::1745767271::1::::<><><>0<>0<>c6a575037955080942a4124c54a08f5f<>res://.godot/imported/1.png-3f701dd24630a5c50d9f5833dfa78197.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/6 Player HUD/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/6 Player HUD/::1745767271
 1.png::CompressedTexture2D::1346374674022976861::1745767127::1745767271::1::::<><><>0<>0<>76b01dc4a8711f904a66b183c7392615<>res://.godot/imported/1.png-5e269c7f8e572d70a8bf977bd98321b6.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/7 Dialogue Box/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/7 Dialogue Box/::1745767271
 1.png::CompressedTexture2D::3176706710239354913::1745767127::1745767271::1::::<><><>0<>0<>46955c9a4b6dffa6b8c8d00d32abc26c<>res://.godot/imported/1.png-bb626ad0ba9407e2d6a6c16f9ea2858d.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/8 Shop/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/8 Shop/::1745767271
 1.png::CompressedTexture2D::8564216999898704466::1745767127::1745767271::1::::<><><>0<>0<>2aab03c33f25c8395519c036693c55b9<>res://.godot/imported/1.png-ea58098eb59b7c7dc8bdd1bede32cff0.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/9 Rewards/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/9 Rewards/::1745767271
 1.png::CompressedTexture2D::1619489638245905580::1745767127::1745767271::1::::<><><>0<>0<>6b422771dc13d722be0cbdfd64c72b8c<>res://.godot/imported/1.png-7b81d54b6d2086ff3072b3c11bf5a130.ctex::
 2.png::CompressedTexture2D::651024223213461879::1745767127::1745767271::1::::<><><>0<>0<>93410b38458c11bf87dfa69c6a606579<>res://.godot/imported/2.png-53f33d88d74289c29ef9278d779966fd.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/10 Calander/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Folding & Cutout/10 Calander/::1745767271
 1.png::CompressedTexture2D::429873248665539081::1745767127::1745767271::1::::<><><>0<>0<>5fee7edc770b76f4182d65713600481b<>res://.godot/imported/1.png-3d33a27251f97636408f4728057c4776.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/::1745767128
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/::1745767128
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/1 Headers/::1745767127
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/1 Headers/1/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/1 Headers/1/::1745767273
 1.png::CompressedTexture2D::7153544655651325101::1745767127::1745767271::1::::<><><>0<>0<>4d4866032e297ea6acfcbb3c261502a4<>res://.godot/imported/1.png-783fdf5295e64c61752b817d332ecc9a.ctex::
 2.png::CompressedTexture2D::2855008947660019684::1745767127::1745767271::1::::<><><>0<>0<>6dfa0110689f2fe3e6aee4e657872e60<>res://.godot/imported/2.png-ae0e689aa14b42b836b110f5f1a39775.ctex::
 3.png::CompressedTexture2D::1524138765577719687::1745767127::1745767271::1::::<><><>0<>0<>d81652cfa9c1694b08e18cdf47722489<>res://.godot/imported/3.png-f5d7e6bb16996d02885508f03edc7d89.ctex::
@@ -1552,7 +1552,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 33.png::CompressedTexture2D::3159079484376910290::1745767127::1745767273::1::::<><><>0<>0<>8dcd02140e52f18406110c1933858e14<>res://.godot/imported/33.png-939d90bd310f84696ddb61227d6fa505.ctex::
 34.png::CompressedTexture2D::7907346885033094469::1745767127::1745767273::1::::<><><>0<>0<>8a56dfad725392afa5fb71c0408586ee<>res://.godot/imported/34.png-b53220120c10c91ff4e6a971ac249fb5.ctex::
 35.png::CompressedTexture2D::2944681111619928797::1745767127::1745767273::1::::<><><>0<>0<>90daccd057b069739f686baba1313e84<>res://.godot/imported/35.png-cba9a1452563aee111311f50baaee637.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/1 Headers/2/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/1 Headers/2/::1745767273
 1.png::CompressedTexture2D::6631738467891789654::1745767127::1745767273::1::::<><><>0<>0<>4c431a47d419bacfd81c54c5abc3c816<>res://.godot/imported/1.png-b86e32f3a2663b6354a44ab024c345fb.ctex::
 2.png::CompressedTexture2D::8912968641948374245::1745767127::1745767273::1::::<><><>0<>0<>ede96180276331b4d927e814f278eaec<>res://.godot/imported/2.png-b529ab8a5088153ad2e32379de7ef5e5.ctex::
 3.png::CompressedTexture2D::1508720279369335474::1745767127::1745767273::1::::<><><>0<>0<>22c534b2024baf830e815fbb90d62729<>res://.godot/imported/3.png-a571f8064b0f118894ecf0c8a91f148c.ctex::
@@ -1581,7 +1581,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 26.png::CompressedTexture2D::3669962300458639804::1745767127::1745767272::1::::<><><>0<>0<>be47dd96734f9f4d7534185ad6ceb49b<>res://.godot/imported/26.png-d5d9e34870a50ebe47e853fd8d26602e.ctex::
 27.png::CompressedTexture2D::2572469082751035346::1745767127::1745767272::1::::<><><>0<>0<>ddc44eea33e18916e6a967f7972f6c8d<>res://.godot/imported/27.png-ce43c682cef23f63ddccf60b42940768.ctex::
 28.png::CompressedTexture2D::2695021573772318427::1745767127::1745767272::1::::<><><>0<>0<>f62cad040f11f8fe25120ba4b957a5e4<>res://.godot/imported/28.png-3a3ea8aa6b6b6dc7243bdfaf230ae616.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/1 Headers/3/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/1 Headers/3/::1745767273
 1.png::CompressedTexture2D::5477217203233592600::1745767127::1745767272::1::::<><><>0<>0<>b6d85ecf41c20516e5765e42b5691bbd<>res://.godot/imported/1.png-5fd6f9482bbbb3b7d93d869d38cd7f5c.ctex::
 2.png::CompressedTexture2D::9192007564558056271::1745767127::1745767272::1::::<><><>0<>0<>2ae759c8dcfd74e2d31e6149ec589a75<>res://.godot/imported/2.png-21d35ba79f5709212f1818df5057569c.ctex::
 3.png::CompressedTexture2D::5892934880286865200::1745767127::1745767272::1::::<><><>0<>0<>035028539345e82260412429efad3345<>res://.godot/imported/3.png-68f26d2d9545e73e891d2a10c548430f.ctex::
@@ -1610,7 +1610,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 26.png::CompressedTexture2D::4949047955410014523::1745767127::1745767272::1::::<><><>0<>0<>9bb5e34cdb67121eaa382e0fde0d0957<>res://.godot/imported/26.png-3d186a5071c828fe74eba8199d48d32b.ctex::
 27.png::CompressedTexture2D::3920989251750364573::1745767127::1745767272::1::::<><><>0<>0<>44ffe9349c47fc2b04d89e1ba5e15631<>res://.godot/imported/27.png-c5b810053bf3df415be82796de0b4b32.ctex::
 28.png::CompressedTexture2D::5916266699038405780::1745767127::1745767272::1::::<><><>0<>0<>5d892770f8e054233128fe0a850e8e04<>res://.godot/imported/28.png-47039e207a0b9de27440c523912a7c95.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/1 Headers/4/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/1 Headers/4/::1745767272
 1.png::CompressedTexture2D::2689035614228882310::1745767127::1745767272::1::::<><><>0<>0<>1f16daa180430a36c5a2ea14bb4a3590<>res://.godot/imported/1.png-6b161391b6db7edd6f8e0831511cb0ed.ctex::
 2.png::CompressedTexture2D::5174802476200977184::1745767127::1745767272::1::::<><><>0<>0<>d7de2b12c4a41d8e836e5f5977c4de11<>res://.godot/imported/2.png-0e6ff9219e892cf0b1b9438c25cd0063.ctex::
 3.png::CompressedTexture2D::5997207875089702873::1745767127::1745767272::1::::<><><>0<>0<>596a89a563a8a66e26515df006b7fbd3<>res://.godot/imported/3.png-ddb48b8877964aa636a1c28d3fd59ad5.ctex::
@@ -1639,7 +1639,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 26.png::CompressedTexture2D::7903106157771380538::1745767127::1745767269::1::::<><><>0<>0<>f126ebb99c29ad3795509508938eabe4<>res://.godot/imported/26.png-23ccc3abf7913c768dc0b11196714401.ctex::
 27.png::CompressedTexture2D::2955091641494064648::1745767127::1745767269::1::::<><><>0<>0<>1e9dfebba68796199e91c84e874c81b3<>res://.godot/imported/27.png-35f5bb8a7a47d00871715852d2f914be.ctex::
 28.png::CompressedTexture2D::4260305351316205311::1745767127::1745767269::1::::<><><>0<>0<>31ca63a54b92257a328a4335867e33d4<>res://.godot/imported/28.png-92b6c82ef0df9f25049ae5a712798d2b.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/2 item Holder/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/2 item Holder/::1745767270
 1.png::CompressedTexture2D::1996528846413121118::1745767127::1745767269::1::::<><><>0<>0<>9c10e8449c4754ea1846631d4602e16c<>res://.godot/imported/1.png-43ddfc477fd45fddfb64dca151345031.ctex::
 2.png::CompressedTexture2D::3585272738808070631::1745767127::1745767269::1::::<><><>0<>0<>fdee4537a6d6e10fa2b57c27403b4f93<>res://.godot/imported/2.png-e4eb76927aefa0d14f4be09f1a6f6797.ctex::
 3.png::CompressedTexture2D::1312744297558638137::1745767127::1745767269::1::::<><><>0<>0<>b72f3559b6df2afbfc8d3d1f32698e09<>res://.godot/imported/3.png-dddfe1b93065e5ae6c9558409a3b75b1.ctex::
@@ -1681,7 +1681,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 39.png::CompressedTexture2D::7987080801752031029::1745767127::1745767269::1::::<><><>0<>0<>1fef8c4b63d9cd12b678a42f458faa63<>res://.godot/imported/39.png-9e7dcb121e4ebd22737f0f697de05bfa.ctex::
 40.png::CompressedTexture2D::8872767867288479794::1745767127::1745767269::1::::<><><>0<>0<>a9431c6b3333318d298b9190d08c81ee<>res://.godot/imported/40.png-5f9487bf75adb397a72c5e2a7c5ece58.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/3 Rewards/::1745767127
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/3 Rewards/1/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/3 Rewards/1/::1745767269
 1.png::CompressedTexture2D::2795602492413645975::1745767127::1745767269::1::::<><><>0<>0<>fb234948b088468c8daacc34504a120c<>res://.godot/imported/1.png-d6f4de5953b0377c70c0d2729365100b.ctex::
 2.png::CompressedTexture2D::8230681519411730775::1745767127::1745767269::1::::<><><>0<>0<>d7bc799e9932416c8183a27dc0003e3e<>res://.godot/imported/2.png-4ff5beb50ce2235028a83e85dc36d76f.ctex::
 3.png::CompressedTexture2D::1357379100426436012::1745767127::1745767269::1::::<><><>0<>0<>a774106b25d96c126c08cb447a67db21<>res://.godot/imported/3.png-b3acdbba029ff6d061da29e33a202e7d.ctex::
@@ -1714,7 +1714,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 30.png::CompressedTexture2D::1255836306698221855::1745767127::1745767269::1::::<><><>0<>0<>b91cd71df396356e9e6ae4bc6479f923<>res://.godot/imported/30.png-1d86df58e1bd1b6c92ab3c8c1a9ca4d1.ctex::
 31.png::CompressedTexture2D::5335646266131229323::1745767127::1745767269::1::::<><><>0<>0<>4b65215c3101a06b99349c62aa7dbd3a<>res://.godot/imported/31.png-d3978f679da57d71bc3061b6f46befaa.ctex::
 32.png::CompressedTexture2D::3645882121722643493::1745767127::1745767269::1::::<><><>0<>0<>6d885a5d468ea35f956b15c586f9c648<>res://.godot/imported/32.png-de1d942b89ce4e480bf11211571ffda7.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/3 Rewards/2/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/3 Rewards/2/::1745767271
 1.png::CompressedTexture2D::7805807803645500490::1745767127::1745767269::1::::<><><>0<>0<>f48a4a51b06814a4595175d8cd8169b9<>res://.godot/imported/1.png-753854670a0a08fc6f9ac0c2601c3502.ctex::
 2.png::CompressedTexture2D::2918244703923455895::1745767127::1745767271::1::::<><><>0<>0<>1cbcd6e4cc79ed603f7340f72f0d68d7<>res://.godot/imported/2.png-ef2fba5258ce184113671118e923aeec.ctex::
 3.png::CompressedTexture2D::4152094511703070132::1745767127::1745767271::1::::<><><>0<>0<>f98b7d12ef38bc06bbc54ba406a4658c<>res://.godot/imported/3.png-1db7eb36335285ee1732437295c51f43.ctex::
@@ -1750,7 +1750,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 33.png::CompressedTexture2D::8881203711767739533::1745767127::1745767271::1::::<><><>0<>0<>b06cc8bfda54f917ff1279355d60ee7b<>res://.godot/imported/33.png-63b796abafc605809791d779ea4ba26b.ctex::
 34.png::CompressedTexture2D::6793850904944951782::1745767127::1745767271::1::::<><><>0<>0<>172b72796b64ab3180f78cc655b219c3<>res://.godot/imported/34.png-7e37770897174abec0f6334fc9e58c03.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/4 Notification/::1745767127
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/4 Notification/1/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/4 Notification/1/::1745767271
 1.png::CompressedTexture2D::7284615943589376377::1745767127::1745767271::1::::<><><>0<>0<>0f0267a2f5b9df15270c8d7c923c8c64<>res://.godot/imported/1.png-ffa088d67c9864510876ce6dcbc54d5f.ctex::
 2.png::CompressedTexture2D::521861261682209227::1745767127::1745767271::1::::<><><>0<>0<>346b2c898cf21aea9c37e26bf30cb204<>res://.godot/imported/2.png-e8b96453ebbe4b9339604cf16776b9fd.ctex::
 3.png::CompressedTexture2D::991063954458436353::1745767127::1745767271::1::::<><><>0<>0<>098754773f49f93b02755232e2dd5652<>res://.godot/imported/3.png-c78256cfbdf98ae51f064e3e45abf850.ctex::
@@ -1774,7 +1774,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 21.png::CompressedTexture2D::6449692515600275145::1745767127::1745767270::1::::<><><>0<>0<>06fa2ba3da1f810b0e887412a4fa6468<>res://.godot/imported/21.png-14a73353deb56beff5cbc17f0dc51a7a.ctex::
 22.png::CompressedTexture2D::8940877646245474621::1745767127::1745767270::1::::<><><>0<>0<>82b0d12d3fc70ecaa80a8ce3178486e1<>res://.godot/imported/22.png-a2bde95bda7e66fe862b855e751fe01e.ctex::
 23.png::CompressedTexture2D::5771374057214236336::1745767127::1745767270::1::::<><><>0<>0<>c8f01e8d6ca5e72f3b3a3f37131790bf<>res://.godot/imported/23.png-e2cfc8c74ff19e603d589776ae5a1d6b.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/4 Notification/2/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/4 Notification/2/::1745767270
 1.png::CompressedTexture2D::7674502865352343461::1745767127::1745767270::1::::<><><>0<>0<>008b9a5053db7cf69116bc9a0a8fae99<>res://.godot/imported/1.png-4991a5115adae01a5cb31810b7ed9f6c.ctex::
 2.png::CompressedTexture2D::3298273096770565999::1745767127::1745767270::1::::<><><>0<>0<>e88195be6df9e255467fd7c6815a4687<>res://.godot/imported/2.png-9f1104eeb81c735436b1f78abe11fa9c.ctex::
 3.png::CompressedTexture2D::2746881411888271088::1745767127::1745767270::1::::<><><>0<>0<>ca43ada6eb06833a72b82f64df40913e<>res://.godot/imported/3.png-c4feb3bba81687d7700e891016781c0b.ctex::
@@ -1799,7 +1799,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 22.png::CompressedTexture2D::3256357051678166146::1745767127::1745767270::1::::<><><>0<>0<>003881f3222979b3ae42c4957e78ae92<>res://.godot/imported/22.png-ed98637e71dfc3ee32d84dd24dacf240.ctex::
 23.png::CompressedTexture2D::2793262538463344896::1745767127::1745767270::1::::<><><>0<>0<>d9bdc7268f6c3628777790dfa54b1092<>res://.godot/imported/23.png-438fc8cf6e21509b7dad3a1f21c28db2.ctex::
 24.png::CompressedTexture2D::340526740477530568::1745767127::1745767270::1::::<><><>0<>0<>19f2d4fbbdfd7cecf499ba0a768b6c85<>res://.godot/imported/24.png-2358b454b774fbee2d02703f8134d0be.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/5 Mini Map/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/5 Mini Map/::1745767270
 1.png::CompressedTexture2D::3170796938096186430::1745767127::1745767270::1::::<><><>0<>0<>5ea4a6446271a855901c129e8b7ab0e2<>res://.godot/imported/1.png-c22c16bf4838ddeddefe625ecebffcf0.ctex::
 2.png::CompressedTexture2D::1601875744011750383::1745767127::1745767270::1::::<><><>0<>0<>3a83fff2797bc11187d413607f5ae53d<>res://.godot/imported/2.png-7a2317f3c8d2765617cc0ff4fb281e83.ctex::
 3.png::CompressedTexture2D::5436246674266691518::1745767127::1745767270::1::::<><><>0<>0<>7513520384fbf6038e371af8f715322b<>res://.godot/imported/3.png-d437f0e9e2934b1543e379cb68bc938f.ctex::
@@ -1820,7 +1820,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 18.png::CompressedTexture2D::7224280220777391652::1745767127::1745767227::1::::<><><>0<>0<>b56cbe774da1ae41e3770c7939f8db09<>res://.godot/imported/18.png-73aac951cdac4a339810990870505269.ctex::
 19.png::CompressedTexture2D::6295520156194423459::1745767127::1745767227::1::::<><><>0<>0<>4d8333ffdf8f1d176c4f5f1019b71f76<>res://.godot/imported/19.png-3217644031ff5cbb40382cdee447ccc4.ctex::
 20.png::CompressedTexture2D::226107247103936068::1745767127::1745767227::1::::<><><>0<>0<>2bb3e6bb2edb6a02e8b859ee207049e4<>res://.godot/imported/20.png-be4ee2c529f23d8259ec98971aadf598.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/6 Player HUD/::1745767127
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/6 Player HUD/::1745767227
 1.png::CompressedTexture2D::2908164317878910238::1745767127::1745767227::1::::<><><>0<>0<>976581f894977284ff31aa3689ef62ee<>res://.godot/imported/1.png-329d8d37281fe0046c38a1ca5af2152a.ctex::
 2.png::CompressedTexture2D::619140855062082646::1745767127::1745767227::1::::<><><>0<>0<>a0ef5b7d8b724c591da12ea700479d3a<>res://.godot/imported/2.png-956e84a2dadc7c669b56ae4519d1df12.ctex::
 3.png::CompressedTexture2D::2107467466344066007::1745767127::1745767227::1::::<><><>0<>0<>d737c8ca4fe1397d98700807fb91009a<>res://.godot/imported/3.png-9e4a5c8d37f2d1af79b84310dba02f47.ctex::
@@ -1843,7 +1843,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 20.png::CompressedTexture2D::397562444356307761::1745767127::1745767227::1::::<><><>0<>0<>139761a6be5e016e71af686590399bdb<>res://.godot/imported/20.png-0e739befe1c7c3b5fb1f33fa915effaf.ctex::
 21.png::CompressedTexture2D::1943402134223264182::1745767127::1745767227::1::::<><><>0<>0<>4a3eb6a2f819d4c95b4d736ed30ce394<>res://.godot/imported/21.png-9ccfdf586f947f76c46972f9a7b67c4c.ctex::
 22.png::CompressedTexture2D::4988741005284652488::1745767127::1745767227::1::::<><><>0<>0<>3ae4bb956c3742c43ce0f9ffa4410576<>res://.godot/imported/22.png-33da96b7d05e959b124638c84ddf630a.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/7 Dialogue Box/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/7 Dialogue Box/::1745767227
 1.png::CompressedTexture2D::5128096627481115853::1745767127::1745767227::1::::<><><>0<>0<>d4cfc0732642fbe75e9e3f541b48bc21<>res://.godot/imported/1.png-c4ff74c03a6ab2556571f428fe4663a7.ctex::
 2.png::CompressedTexture2D::8360162439075441204::1745767127::1745767227::1::::<><><>0<>0<>7aa4357e62a9b239f5e28dc8e656b251<>res://.godot/imported/2.png-0efcbe006a11d04d48691a23dcb34361.ctex::
 3.png::CompressedTexture2D::5244152949263919783::1745767127::1745767227::1::::<><><>0<>0<>51c73352c622c6795f8b1372a27b2118<>res://.godot/imported/3.png-0aae562544cad7b3d8ac0124da5cbc11.ctex::
@@ -1888,7 +1888,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 42.png::CompressedTexture2D::4007204123825194504::1745767128::1745767226::1::::<><><>0<>0<>c300c5cf89ba0ee3dd96f9ae63787e4f<>res://.godot/imported/42.png-c6be9adffd267e2b3495bd9513e5b5b6.ctex::
 43.png::CompressedTexture2D::2259546842063769093::1745767128::1745767226::1::::<><><>0<>0<>9b40a7de0013aefed6f96df4d654d000<>res://.godot/imported/43.png-07e1259a4157bb4db29b5ff801176d27.ctex::
 44.png::CompressedTexture2D::8898966874664943549::1745767128::1745767226::1::::<><><>0<>0<>e4b0734325da912f6b698257df73baef<>res://.godot/imported/44.png-e3707a19dd4f79b7f325d7266b5257d0.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/8 Shop/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/8 Shop/::1745767227
 1.png::CompressedTexture2D::6311266051769589340::1745767128::1745767226::1::::<><><>0<>0<>fbc9eee04c10b457ffbb4da81cb99a97<>res://.godot/imported/1.png-0aaa83b0b89f256a404f29f93312978b.ctex::
 2.png::CompressedTexture2D::7927075178319307250::1745767128::1745767226::1::::<><><>0<>0<>724feadfbad8793e4d918e686e729b4a<>res://.godot/imported/2.png-c22c7cebd6adbe48fd26d7a2e2be2b15.ctex::
 3.png::CompressedTexture2D::5139207746755271080::1745767128::1745767226::1::::<><><>0<>0<>5358944d28f0eb794c7b615b1b849c07<>res://.godot/imported/3.png-71385b2943cfdb9f43ed731c91a4ea4b.ctex::
@@ -1925,7 +1925,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 34.png::CompressedTexture2D::6925438834292917207::1745767128::1745767227::1::::<><><>0<>0<>4f12d5dd333d6f7aad6b1c1ac3214a15<>res://.godot/imported/34.png-20dff56e86918b6f3a3b10bdc67d186c.ctex::
 35.png::CompressedTexture2D::8611120740797664406::1745767128::1745767227::1::::<><><>0<>0<>2584abf5a86173f9f4e7bb7734fe894c<>res://.godot/imported/35.png-ccfac664ca48f18f39998982ab01660f.ctex::
 36.png::CompressedTexture2D::6946244113362135467::1745767128::1745767227::1::::<><><>0<>0<>adaf25e29841e76512bcd78c7ea1d4bb<>res://.godot/imported/36.png-cc0ddbb60d8e2661c30023db4576f008.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/9 Calender/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Folding & Cutout/9 Calender/::1745767228
 1.png::CompressedTexture2D::5442282582476770793::1745767128::1745767227::1::::<><><>0<>0<>4bbb5a6768e113c9bec8dcd7415078d3<>res://.godot/imported/1.png-1c659ba9617c6c12f4bc905661df5a2f.ctex::
 2.png::CompressedTexture2D::3803606164521727728::1745767128::1745767227::1::::<><><>0<>0<>a653266a0000527212cfa40a2cd9bb44<>res://.godot/imported/2.png-b2cfb790162ddf516579d5e49d2dfd24.ctex::
 3.png::CompressedTexture2D::7211525999539689158::1745767128::1745767227::1::::<><><>0<>0<>f86b2ede97def0aba470386524a6823f<>res://.godot/imported/3.png-2d8459b2a3b6264a0b23e2cf794543c9.ctex::
@@ -1977,7 +1977,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 49.png::CompressedTexture2D::5812385503710851667::1745767128::1745767227::1::::<><><>0<>0<>c915f730ce12dbdf734b656fa4668a68<>res://.godot/imported/49.png-20efb287592c28fe97c143cb9ec6923e.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/::1745767128
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/1 Headers/::1745767128
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/1 Headers/1/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/1 Headers/1/::1745767227
 1.png::CompressedTexture2D::6046952825221162617::1745767128::1745767227::1::::<><><>0<>0<>5095ea523561a8cc8b136dcdd1949d52<>res://.godot/imported/1.png-ed58f9eafa575a2ca8b5c62cdc3534e0.ctex::
 2.png::CompressedTexture2D::6559292548374438845::1745767128::1745767227::1::::<><><>0<>0<>23cca0527480dd971be82053bc10f2d5<>res://.godot/imported/2.png-141f64bf7bfdfef06cf4302cd218f4f7.ctex::
 3.png::CompressedTexture2D::2097627195519144224::1745767128::1745767227::1::::<><><>0<>0<>3b531604a396d8b793290475aa9fff4b<>res://.godot/imported/3.png-ba8c1b9ac2ddd832abedcadee03077c6.ctex::
@@ -2013,7 +2013,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 33.png::CompressedTexture2D::2237135976794718031::1745767128::1745767225::1::::<><><>0<>0<>7bf76c3e77fc8363e0365993f7eeba3d<>res://.godot/imported/33.png-698e6466ed14704eab1b159744f290db.ctex::
 34.png::CompressedTexture2D::4370874885292415996::1745767128::1745767225::1::::<><><>0<>0<>4f4f3eda856c77088796a1bf98c4042c<>res://.godot/imported/34.png-1a052dbc05dcf95325ada52917d6c3a1.ctex::
 35.png::CompressedTexture2D::8337016337841767655::1745767128::1745767225::1::::<><><>0<>0<>0c6b4f6cf661f7d641d03ad4dff4a46a<>res://.godot/imported/35.png-5c5f25299ea782d11bf44d63d7307b89.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/1 Headers/2/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/1 Headers/2/::1745767225
 1.png::CompressedTexture2D::629252162742927045::1745767128::1745767225::1::::<><><>0<>0<>0a129c427da7c5fa20d8e4e811b6d314<>res://.godot/imported/1.png-130c8d63d8c98055537cba5e3d9a65f0.ctex::
 2.png::CompressedTexture2D::6879318658011457524::1745767128::1745767225::1::::<><><>0<>0<>af028cd0e0c51c61bda303e575f000aa<>res://.godot/imported/2.png-ebb2d77d80b7cbf7c86e5161aa004337.ctex::
 3.png::CompressedTexture2D::413294756918234775::1745767128::1745767225::1::::<><><>0<>0<>db46e2b57493edaa467d05f3faf8f833<>res://.godot/imported/3.png-6b34c708865d96c2cd6e52373274a30b.ctex::
@@ -2042,7 +2042,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 26.png::CompressedTexture2D::2833421137887772707::1745767128::1745767225::1::::<><><>0<>0<>4867e058b834f7213e5d82418396cd02<>res://.godot/imported/26.png-beb6807ed8c7a87bb47f32e8033a602d.ctex::
 27.png::CompressedTexture2D::2422101828672849358::1745767128::1745767225::1::::<><><>0<>0<>574bda14213c588abe14c64fac1f17e0<>res://.godot/imported/27.png-181c27a75fb1a56faf236d44c5e5912d.ctex::
 28.png::CompressedTexture2D::5712779821220917314::1745767128::1745767225::1::::<><><>0<>0<>36651ea999d1b8b610fac01d5ba8bd24<>res://.godot/imported/28.png-28bd13e05fe88cda5f75b01fa6d0420b.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/1 Headers/3/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/1 Headers/3/::1745767225
 1.png::CompressedTexture2D::4368893576319574769::1745767128::1745767225::1::::<><><>0<>0<>058aac7e9088c521f2edfe103baba7e5<>res://.godot/imported/1.png-52bafdd690f82e5b8b9323c74b3a58bb.ctex::
 2.png::CompressedTexture2D::2192129340530058732::1745767128::1745767225::1::::<><><>0<>0<>7e7276736a84e7f7d4950ba9d489b211<>res://.godot/imported/2.png-58b6d28e6cee31308ab69562b66c43d2.ctex::
 3.png::CompressedTexture2D::7051238808594660047::1745767128::1745767225::1::::<><><>0<>0<>7fe1b5a1ebc103da0be43159cf896115<>res://.godot/imported/3.png-e6dec3ec57d76992ba2f3a591df66a67.ctex::
@@ -2071,7 +2071,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 26.png::CompressedTexture2D::2122570729689956652::1745767128::1745767225::1::::<><><>0<>0<>27347a907aadd21c35be0ed661901542<>res://.godot/imported/26.png-4c3270a42eecd4f46842dfb0cffe962a.ctex::
 27.png::CompressedTexture2D::3416287252525171026::1745767128::1745767225::1::::<><><>0<>0<>bb43d78a103e4d33ee9607b55a1ead57<>res://.godot/imported/27.png-d85b1c60d5bf3d85bedb8550ad03a344.ctex::
 28.png::CompressedTexture2D::1562595835138782058::1745767128::1745767225::1::::<><><>0<>0<>c24ebb24e07724fb7cc8eea53cc12a1d<>res://.godot/imported/28.png-9c0a6c00e0d1769f6a79903f0243e282.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/1 Headers/4/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/1 Headers/4/::1745767226
 1.png::CompressedTexture2D::8791525541890480002::1745767128::1745767225::1::::<><><>0<>0<>cd97cd54e9ad4b41ee30c926fbec2adc<>res://.godot/imported/1.png-9f0d5cc984d0543107b2ff65016d565f.ctex::
 2.png::CompressedTexture2D::289098929981407113::1745767128::1745767225::1::::<><><>0<>0<>73e23ddb54496da3943b96a70d4b9ca9<>res://.godot/imported/2.png-3185d06a22678cd448fbc39e016c33fb.ctex::
 3.png::CompressedTexture2D::3384750337092538263::1745767128::1745767225::1::::<><><>0<>0<>e2529d6250b23133a15722e8b1962c58<>res://.godot/imported/3.png-5d61d52bfe0ce782bf85381731d4f7c5.ctex::
@@ -2100,7 +2100,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 26.png::CompressedTexture2D::5209858699911248697::1745767128::1745767226::1::::<><><>0<>0<>b3d44add1cf77ce210660b79924d6248<>res://.godot/imported/26.png-c440d3020bb0f1ae7ab1624054b4a36a.ctex::
 27.png::CompressedTexture2D::3040743248251548849::1745767128::1745767226::1::::<><><>0<>0<>ece26eb5b3ec3ce60c0a28657c3c4cc5<>res://.godot/imported/27.png-37f65f2bdde9f03949a37e42be0a66d2.ctex::
 28.png::CompressedTexture2D::4235750085161896582::1745767128::1745767226::1::::<><><>0<>0<>a9a667d47f07003b6374272178a5d7ff<>res://.godot/imported/28.png-7a08fe279e0d3817cb43272c0593914f.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/2 item Holder/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/2 item Holder/::1745767226
 1.png::CompressedTexture2D::1938372302796088917::1745767128::1745767226::1::::<><><>0<>0<>8731addf42c8a0c5a54efb081d88b05e<>res://.godot/imported/1.png-ba097a163f8790dd004b82e157033630.ctex::
 2.png::CompressedTexture2D::2339349401744516789::1745767128::1745767226::1::::<><><>0<>0<>b647ef05fcc6b3140a24b1f08ed715e9<>res://.godot/imported/2.png-7d73a2556207d99072f63951044c7abb.ctex::
 3.png::CompressedTexture2D::8081838439696497464::1745767128::1745767226::1::::<><><>0<>0<>f4dd403750d9b0d315576d19fe731178<>res://.godot/imported/3.png-ad0b8073b8a80975774388bee7dc9f72.ctex::
@@ -2142,7 +2142,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 39.png::CompressedTexture2D::7521817055548168308::1745767128::1745767226::1::::<><><>0<>0<>0559c2a599ac9fe55769dc6f4bd202a9<>res://.godot/imported/39.png-242ec735c8dd8dcb30b77a63be53e168.ctex::
 40.png::CompressedTexture2D::7575319031956805825::1745767128::1745767226::1::::<><><>0<>0<>b8572e85665e2542b6325299b501bb38<>res://.godot/imported/40.png-c02e47edc76b4adf511bc2c428b80a67.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/3 Rewards/::1745767128
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/3 Rewards/1/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/3 Rewards/1/::1745767226
 1.png::CompressedTexture2D::2114882019965102543::1745767128::1745767226::1::::<><><>0<>0<>ae891f33099438e2ef3f649e92194c78<>res://.godot/imported/1.png-b2dded07337d34eb3975ae6cee3f13e8.ctex::
 2.png::CompressedTexture2D::7868329911042753669::1745767128::1745767226::1::::<><><>0<>0<>59d162b8f189f3052d4c262479b9bb86<>res://.godot/imported/2.png-e4e93d9390df7b3f1e60b06556909941.ctex::
 3.png::CompressedTexture2D::8019935294482233323::1745767128::1745767226::1::::<><><>0<>0<>55c4cb5a13b2c18337c7b458d4ae4ee3<>res://.godot/imported/3.png-c9e8c72ceaaf563d0e964b28559fe9c4.ctex::
@@ -2175,7 +2175,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 30.png::CompressedTexture2D::4238936050656839066::1745767128::1745767226::1::::<><><>0<>0<>9423fd8c9ec739b1942ac1012837d8a3<>res://.godot/imported/30.png-2846023f45695477beecd219f9b4f31d.ctex::
 31.png::CompressedTexture2D::7661304884518993968::1745767128::1745767226::1::::<><><>0<>0<>104f1ac0aeea0948d5d4899b98cd35ad<>res://.godot/imported/31.png-d9b9c2b1b85aff90433cec440592c310.ctex::
 32.png::CompressedTexture2D::5804133754429499767::1745767128::1745767226::1::::<><><>0<>0<>c3440a93b9c21e874cf9a56c018e5fd7<>res://.godot/imported/32.png-0ca93a5f7d607785405e7fb85325dce7.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/3 Rewards/2/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/3 Rewards/2/::1745767262
 1.png::CompressedTexture2D::6894540808133575869::1745767128::1745767226::1::::<><><>0<>0<>37b4a7175282bb5ccb19e2f4002719c9<>res://.godot/imported/1.png-e818128f0592647fee7da8ce68294e52.ctex::
 2.png::CompressedTexture2D::6276559324700050085::1745767128::1745767226::1::::<><><>0<>0<>86c6df00fab0b0e8e49c1351c65d1cfd<>res://.godot/imported/2.png-2f1cdb741462e11ea1caf51ee470fdd4.ctex::
 3.png::CompressedTexture2D::609158058613621715::1745767128::1745767226::1::::<><><>0<>0<>9f9ac0cebb66f29ebb856022865efada<>res://.godot/imported/3.png-98427bdd28bd9f67707fbb9cd8aa800b.ctex::
@@ -2211,7 +2211,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 33.png::CompressedTexture2D::6751084188512823909::1745767128::1745767262::1::::<><><>0<>0<>576c4bd0021e922b13757b3229e9647b<>res://.godot/imported/33.png-d69125ae150679b5eafa00c4b3b4715a.ctex::
 34.png::CompressedTexture2D::8491539432480046744::1745767128::1745767262::1::::<><><>0<>0<>560d1a0de19e57f0ad0f5c646c5c3746<>res://.godot/imported/34.png-05ac88e7d7e05e958fd9cb21c48da0f5.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/4 Notification/::1745767128
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/4 Notification/1/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/4 Notification/1/::1745767263
 1.png::CompressedTexture2D::2585030764992013028::1745767128::1745767262::1::::<><><>0<>0<>53ede25cd82ec697811a63b5752078d7<>res://.godot/imported/1.png-41d4acbe3c2b736e6e65c4f8fa30669d.ctex::
 2.png::CompressedTexture2D::2094205087016977646::1745767128::1745767262::1::::<><><>0<>0<>2fb9649d74d031483abe24dfe8be0e2f<>res://.godot/imported/2.png-234b046baec88589474fb478d83bccea.ctex::
 3.png::CompressedTexture2D::4031916675860995055::1745767128::1745767262::1::::<><><>0<>0<>112f9aa0296fadda564ce61d0e5d478b<>res://.godot/imported/3.png-5536ca61566c451378e00c1feb35861f.ctex::
@@ -2235,7 +2235,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 21.png::CompressedTexture2D::4208626899878658264::1745767128::1745767262::1::::<><><>0<>0<>fda070e4286735ac1affa87cbf18f7cd<>res://.godot/imported/21.png-95d6e53b4b5b136db393159022e0171c.ctex::
 22.png::CompressedTexture2D::4648654554872012292::1745767128::1745767262::1::::<><><>0<>0<>c141b4bffb58d5cf5560903869f28c13<>res://.godot/imported/22.png-b24fe41d8cb792ccb60f8caf1a154885.ctex::
 23.png::CompressedTexture2D::51092698515601561::1745767128::1745767262::1::::<><><>0<>0<>b416a92bb4c2d5777677ec7ffb2acc89<>res://.godot/imported/23.png-b49e0f458030fb1aa3088dfa0108f043.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/4 Notification/2/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/4 Notification/2/::1745767262
 1.png::CompressedTexture2D::3590321555091653467::1745767128::1745767262::1::::<><><>0<>0<>22bf986c78f9a2a153c2d8fcb581ccd7<>res://.godot/imported/1.png-9a16d87600d11d1303d90665d6975ddc.ctex::
 2.png::CompressedTexture2D::7942496565931646560::1745767128::1745767262::1::::<><><>0<>0<>c8a1561d896156b532b7e035469451a0<>res://.godot/imported/2.png-a47639fd3883d8a02aa7501d2010c4f0.ctex::
 3.png::CompressedTexture2D::3281861642883115168::1745767128::1745767262::1::::<><><>0<>0<>fcd957a09cd740e6338b9c54fd7bee5d<>res://.godot/imported/3.png-0e3b250855d72758e7aeb98415d0ddbb.ctex::
@@ -2258,7 +2258,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 20.png::CompressedTexture2D::4122756982656787398::1745767128::1745767260::1::::<><><>0<>0<>d7da4acb89a59125524e28a14d4b13aa<>res://.godot/imported/20.png-7feda23b11f5c82c83b4faeb7fb1aa6e.ctex::
 21.png::CompressedTexture2D::3635871256432490921::1745767128::1745767260::1::::<><><>0<>0<>3cf4ca8bd9e950be3b435e8a4b754cdd<>res://.godot/imported/21.png-f0e048d487f40357f41aeb374668bac4.ctex::
 22.png::CompressedTexture2D::8967314384542059648::1745767128::1745767260::1::::<><><>0<>0<>ff6a874b2a9c59e204f3f4883998d660<>res://.godot/imported/22.png-01291c2dbab3c38d0e8120d7e8e27a24.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/5 Mini Map/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/5 Mini Map/::1745767262
 1.png::CompressedTexture2D::3438000979124260396::1745767128::1745767260::1::::<><><>0<>0<>346dda788458ea0c03d83e4def5dcdda<>res://.godot/imported/1.png-6b37b239108b94c4d697852d98c95d68.ctex::
 2.png::CompressedTexture2D::4171226014013570467::1745767128::1745767260::1::::<><><>0<>0<>66e905b44dc50133bffa840fee151fd6<>res://.godot/imported/2.png-bfbf167749c31575a6a1e1922a82e264.ctex::
 3.png::CompressedTexture2D::4537509874645682276::1745767128::1745767260::1::::<><><>0<>0<>e27fa1f62bc2d8244f3e5f197ba87eb9<>res://.godot/imported/3.png-3817d6f0e3913e4af89d2e372d201533.ctex::
@@ -2279,7 +2279,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 18.png::CompressedTexture2D::8461258810690214399::1745767128::1745767261::1::::<><><>0<>0<>4ad7ee50a1200fc298c69e14b65ad08d<>res://.godot/imported/18.png-3a15ddf93eb281c8be81b283b3d510d5.ctex::
 19.png::CompressedTexture2D::6877785492209611700::1745767128::1745767261::1::::<><><>0<>0<>760037426c780f33daa1f9f9dc8ce0a5<>res://.godot/imported/19.png-9b22f7631280c638a870490293002eb8.ctex::
 20.png::CompressedTexture2D::1532530579929785101::1745767128::1745767261::1::::<><><>0<>0<>b96e46d363ddb575dec608299fb3fc2c<>res://.godot/imported/20.png-10cc7530ef45203cb9bf60237fa27052.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/6 Player HUD/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/6 Player HUD/::1745767264
 1.png::CompressedTexture2D::8100611429265215534::1745767128::1745767261::1::::<><><>0<>0<>19511bad1e361e6116afa3bd1434af69<>res://.godot/imported/1.png-29da7e741f66bffddb4ccce200f4a93d.ctex::
 2.png::CompressedTexture2D::933727803586636327::1745767128::1745767261::1::::<><><>0<>0<>dec422e47d02eb0ea15ec6a23a363179<>res://.godot/imported/2.png-3cc89c3e8dd7b59867a515bf119b4d4d.ctex::
 3.png::CompressedTexture2D::2751870387411023446::1745767128::1745767261::1::::<><><>0<>0<>3acd352f945111aa2810a4826b23a5af<>res://.godot/imported/3.png-f679b86b1e5a9a50a7349ab5e0d8adf3.ctex::
@@ -2302,7 +2302,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 20.png::CompressedTexture2D::8380491080725206706::1745767128::1745767264::1::::<><><>0<>0<>ff098b1797ccff8bdd2387f60f8690a8<>res://.godot/imported/20.png-d6225b9caca6c34b7e647985c53e5007.ctex::
 21.png::CompressedTexture2D::7738826345631457716::1745767128::1745767264::1::::<><><>0<>0<>f23eb12b4db8aa91067e7d300bcb8343<>res://.godot/imported/21.png-c8ec91416f4bdad8b9e3b6e179130f1b.ctex::
 22.png::CompressedTexture2D::5845328036596955068::1745767128::1745767264::1::::<><><>0<>0<>9cf0695a84121e99a9edd94c3441b056<>res://.godot/imported/22.png-7129ae588d94e0b86f27bb8f86b4af94.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/7 Dialogue Box/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/7 Dialogue Box/::1745767264
 1.png::CompressedTexture2D::8553672220668328796::1745767128::1745767264::1::::<><><>0<>0<>13f450b171426e134ddd05ee93a192cf<>res://.godot/imported/1.png-36c28079983450ce59a700481eb943e5.ctex::
 2.png::CompressedTexture2D::6601539933058096650::1745767128::1745767264::1::::<><><>0<>0<>9fdbc353cbda624152258dbbb4d2e0d3<>res://.godot/imported/2.png-8771fe6a08edfdb056a095201fada9a1.ctex::
 3.png::CompressedTexture2D::6115950675583544959::1745767128::1745767264::1::::<><><>0<>0<>d2787ff49492f279537fda8663682a36<>res://.godot/imported/3.png-3f1787c2a56e4fbcc77648422a0f3eb7.ctex::
@@ -2347,7 +2347,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 42.png::CompressedTexture2D::1864715401758168341::1745767128::1745767263::1::::<><><>0<>0<>c50df5d6678ac0c021675b92602dbd6b<>res://.godot/imported/42.png-3569f06beadf0296fdadc685c18268c9.ctex::
 43.png::CompressedTexture2D::4143983535446037850::1745767128::1745767263::1::::<><><>0<>0<>e99697c818a483592973a35b86ec905c<>res://.godot/imported/43.png-d141d2f7938bbd002e4131dc4b17483c.ctex::
 44.png::CompressedTexture2D::4123857626225921712::1745767128::1745767263::1::::<><><>0<>0<>a748b39cdcf4b9a7ec375c5b07abe06b<>res://.godot/imported/44.png-aa5f2416aeeb57f2fce1d01dd73086d4.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/8 Shop/::1745767128
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/8 Shop/::1745767264
 1.png::CompressedTexture2D::8362645100738436104::1745767128::1745767263::1::::<><><>0<>0<>d7b55ebc7e2a28fc090cee9659c7f92d<>res://.godot/imported/1.png-e488ddbdc0e403833e4edd5e6893ffe8.ctex::
 2.png::CompressedTexture2D::1783159797544928661::1745767128::1745767263::1::::<><><>0<>0<>4838f8aada251cc83c576c834e11b3b2<>res://.godot/imported/2.png-d24aee13e654e45b1cf8aa118bdbde13.ctex::
 3.png::CompressedTexture2D::4371753242193700577::1745767128::1745767263::1::::<><><>0<>0<>07e62ec2fb5aa3fc51a5280cecf18185<>res://.godot/imported/3.png-cdd955d4635a8771e537fcb48dc127d6.ctex::
@@ -2384,7 +2384,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 34.png::CompressedTexture2D::6168794943187110542::1745767128::1745767228::1::::<><><>0<>0<>dac80d1ec65b58e31b4842deba474031<>res://.godot/imported/34.png-c323ec61e84adb26c07e73871223a056.ctex::
 35.png::CompressedTexture2D::2585892003001234280::1745767128::1745767228::1::::<><><>0<>0<>d3623a9b54f50e37a51ecb9a6c5b95fa<>res://.godot/imported/35.png-af9ea0c549b3fcf16efd4215bbe2288c.ctex::
 36.png::CompressedTexture2D::5213300580569859658::1745767128::1745767228::1::::<><><>0<>0<>5fdefe6d85fb10a6a1ee98c7035806ea<>res://.godot/imported/36.png-f6654eb28cf6aafc95ae77382993b27b.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/9 Calender/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Paper Content Appear Animation/Plain/9 Calender/::1745767228
 1.png::CompressedTexture2D::8827878010165216650::1745767128::1745767228::1::::<><><>0<>0<>c22486ab1baddaa0fbb04abb1f5ac5e1<>res://.godot/imported/1.png-64ae7d1166b8e29f473df0984f8880d7.ctex::
 2.png::CompressedTexture2D::906393044866112382::1745767128::1745767228::1::::<><><>0<>0<>e7e4085a7cac63dc6624c07f3751220a<>res://.godot/imported/2.png-e653fbee22f80b2ce23039fff1cd75f2.ctex::
 3.png::CompressedTexture2D::1686673401787480521::1745767128::1745767228::1::::<><><>0<>0<>eb1a9eee3ea919055eee3b72ff417831<>res://.godot/imported/3.png-5842991f38c6e6b6b4a5f1863d8420ab.ctex::
@@ -2435,7 +2435,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 48.png::CompressedTexture2D::5946338275632102418::1745767129::1745767228::1::::<><><>0<>0<>d59dd236e8e483b6dcae83f07262d64f<>res://.godot/imported/48.png-f289e43574f6da088babd27169a607ec.ctex::
 49.png::CompressedTexture2D::2002292014626076622::1745767129::1745767228::1::::<><><>0<>0<>e11ef4eef9ebfc7325824c84f4d87ebe<>res://.godot/imported/49.png-bbb1222637c30c62aa415e3cf3520bcf.ctex::
 ::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/::1745767129
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/1 Paper/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/1 Paper/::1745767246
 1.png::CompressedTexture2D::7621620407554213251::1745767129::1745767228::1::::<><><>0<>0<>cad9208d70b988c565e3afc5f69f6c39<>res://.godot/imported/1.png-18b4a923b814a5ca1e8ce1ce94d09272.ctex::
 2.png::CompressedTexture2D::12331520035183789::1745767129::1745767228::1::::<><><>0<>0<>aff89a9972e1bf90f7c274ab35184f59<>res://.godot/imported/2.png-72c115c54670d0070a6cabcf4252d353.ctex::
 3.png::CompressedTexture2D::4608409925550711386::1745767129::1745767228::1::::<><><>0<>0<>6c4d65afad4173abed4678e74099bfaa<>res://.godot/imported/3.png-4427903dd2405747577b1b40c3875a6f.ctex::
@@ -2489,33 +2489,33 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 51.png::CompressedTexture2D::9122291101893204417::1745767129::1745767246::1::::<><><>0<>0<>3f1742e34cd1699c7296f54eb5503918<>res://.godot/imported/51.png-6a41d47a8facc4176af4546c3a195057.ctex::
 52.png::CompressedTexture2D::37097883254776468::1745767129::1745767245::1::::<><><>0<>0<>e30c8030f2b2802fe286c8c549dfb3d8<>res://.godot/imported/52.png-7a4d43af660c97c323c1a14fe9068b31.ctex::
 53.png::CompressedTexture2D::2070044791769623459::1745767129::1745767245::1::::<><><>0<>0<>9683bfda46cb6387076fe6ffd45a1778<>res://.godot/imported/53.png-88a1e6332cc1a526323d56feaaceb721.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/2 Headers/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/2 Headers/::1745767245
 1.png::CompressedTexture2D::4810949367424712873::1745767129::1745767245::1::::<><><>0<>0<>96b3b27fe0911498d87bb7fcde80c3e7<>res://.godot/imported/1.png-ba7b98b9ca8f4a1393e865de05dbece4.ctex::
 2.png::CompressedTexture2D::1130794636049838953::1745767129::1745767245::1::::<><><>0<>0<>3c0d4b763f54979fd50d7d1245e806be<>res://.godot/imported/2.png-aa6fe93150485c3ae3f6ea3d0dad2734.ctex::
 3.png::CompressedTexture2D::9209400749869054181::1745767129::1745767245::1::::<><><>0<>0<>ab0970883bcc4f148be963d0a6414296<>res://.godot/imported/3.png-363c18131a843479189527d0fea9b60a.ctex::
 4.png::CompressedTexture2D::3061648732552496414::1745767129::1745767245::1::::<><><>0<>0<>3e409e335c5f5814081311827a0b2440<>res://.godot/imported/4.png-589c5796731ced340e85cdec19a33d22.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/3 Item Holder/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/3 Item Holder/::1745767245
 1.png::CompressedTexture2D::2071018804197074689::1745767129::1745767245::1::::<><><>0<>0<>6726eaed35c336e037b98480408ae0c3<>res://.godot/imported/1.png-41da0f96b25b3f2e74c6999c5230b79d.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/4 Notification/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/4 Notification/::1745767245
 1.png::CompressedTexture2D::3907537753318584975::1745767129::1745767245::1::::<><><>0<>0<>055b3ad3561c3bf1532b168121478dda<>res://.godot/imported/1.png-68e99c7f7d8b93f0acdb769c1f4f2f04.ctex::
 2.png::CompressedTexture2D::2192835292126888901::1745767129::1745767245::1::::<><><>0<>0<>7d5e5db21657f9b1c9cd3353df955622<>res://.godot/imported/2.png-003970b5f3f09917d581c59f1874a0d9.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/5 Mini Map/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/5 Mini Map/::1745767245
 1.png::CompressedTexture2D::5650207653275922598::1745767129::1745767245::1::::<><><>0<>0<>9c8d969d06f8221fa94ca158c9b747e5<>res://.godot/imported/1.png-af8837651058c52d1eedb1a6492e0910.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/6 Player HUD/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/6 Player HUD/::1745767245
 1.png::CompressedTexture2D::9176804724145053579::1745767129::1745767245::1::::<><><>0<>0<>c8a7c638861de4f79736780106c0dcb6<>res://.godot/imported/1.png-3009c185671e6425d475de1250b6f3a0.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/7 Dialogue Box/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/7 Dialogue Box/::1745767260
 1.png::CompressedTexture2D::7342941448487257682::1745767129::1745767260::1::::<><><>0<>0<>b639febd9799f6038e1722c3eed67128<>res://.godot/imported/1.png-3fe092b2d7deeeefdfeeba544d654501.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/8 Shop/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/8 Shop/::1745767260
 1.png::CompressedTexture2D::8082382325252825070::1745767129::1745767260::1::::<><><>0<>0<>c5b3338e3a92bc76bcf5068704deff75<>res://.godot/imported/1.png-33de94c4a78cf8e51e137c2997ed929e.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/9 Rewards/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/9 Rewards/::1745767260
 1.png::CompressedTexture2D::3889123597422704571::1745767129::1745767260::1::::<><><>0<>0<>17d362c430f8d843575bf4b1d9b9a2a0<>res://.godot/imported/1.png-8f07c8472e83d3fb061c96e3fd52d755.ctex::
 2.png::CompressedTexture2D::2367007411011936176::1745767129::1745767260::1::::<><><>0<>0<>892db6b2d8de684e5aac638aca2b4821<>res://.godot/imported/2.png-e6b162cb7dd0c75b22257ce223c9e470.ctex::
-::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/10 Calander/::1745767129
+::res://Assets/ui/Free Paper UI System/1 Sprites/Paper UI Pack/Paper UI/Plain/10 Calander/::1745767260
 1.png::CompressedTexture2D::2842966338608419827::1745767129::1745767260::1::::<><><>0<>0<>ecc747eff814db4a0e4c4390b9e75f98<>res://.godot/imported/1.png-026e960904f8138b40d66571c36ca84f.ctex::
 ::res://Assets/ui/Free Paper UI System/2 SpriteSheet/::1745767129
 ::res://Assets/ui/Free Paper UI System/2 SpriteSheet/Png/::1745767129
 ::res://Assets/ui/Free Paper UI System/2 SpriteSheet/Png/Paper UI/::1745767129
-::res://Assets/ui/Free Paper UI System/2 SpriteSheet/Png/Paper UI/Folding & Cutout/::1745767129
+::res://Assets/ui/Free Paper UI System/2 SpriteSheet/Png/Paper UI/Folding & Cutout/::1745767266
 1.png::CompressedTexture2D::2551051077468923737::1745767129::1745767266::1::::<><><>0<>0<>fded360ee4f2c2d7da84e12c86b403f1<>res://.godot/imported/1.png-c12babf69cbc08d366a91aabf2bb3743.ctex::
 2.png::CompressedTexture2D::1586088047814537041::1745767129::1745767266::1::::<><><>0<>0<>5956bb38ecdc683777d4eab93319285a<>res://.godot/imported/2.png-3ad41ae270e4752c9bac468ca82782d8.ctex::
 3.png::CompressedTexture2D::5834238928678933043::1745767129::1745767264::1::::<><><>0<>0<>f6cd6f38a0e9d0a2585861cb4eccce9a<>res://.godot/imported/3.png-bc757f0d676e68d2a3aa4a49497a34b2.ctex::
@@ -2537,7 +2537,7 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 19.png::CompressedTexture2D::951314389454666010::1745767129::1745767248::1::::<><><>0<>0<>33e56f6ddbfc6e37935f1067be9278f3<>res://.godot/imported/19.png-9ecc66a493bfa1b36df44ecde91bad32.ctex::
 20.png::CompressedTexture2D::1793529272351867927::1745767129::1745767249::1::::<><><>0<>0<>84c28d50ef1f71567edafbef52dcfd49<>res://.godot/imported/20.png-e0185c57482345aa06ed8594e7f9644b.ctex::
 21.png::CompressedTexture2D::1052553937790182399::1745767129::1745767249::1::::<><><>0<>0<>be051b3be78b8c73d181a2dd721db800<>res://.godot/imported/21.png-9da0efb66e2781fccea6b1be4ae29b9d.ctex::
-::res://Assets/ui/Free Paper UI System/2 SpriteSheet/Png/Paper UI/Plain/::1745767129
+::res://Assets/ui/Free Paper UI System/2 SpriteSheet/Png/Paper UI/Plain/::1745767251
 1.png::CompressedTexture2D::9000790221991872791::1745767129::1745767247::1::::<><><>0<>0<>1df132894cedb760cc9169417fd9300d<>res://.godot/imported/1.png-6872b038aa7bf8f84ee747cbfeb8b9d3.ctex::
 2.png::CompressedTexture2D::213429632941658437::1745767129::1745767242::1::::<><><>0<>0<>aa6024f9ff47fe0b06588629f2cd0203<>res://.godot/imported/2.png-84b4201ef2642e21b38326192c1c6d4e.ctex::
 3.png::CompressedTexture2D::7255224838707233784::1745767129::1745767242::1::::<><><>0<>0<>728c3a6b8a25a687c59867e5ff561da7<>res://.godot/imported/3.png-1b365635b6a54d37b8f2a43b935355d0.ctex::
@@ -2571,21 +2571,22 @@ License.txt::TextFile::-1::1745767129::0::1::::<><><>0<>0<><>::
 ::res://Assets/ui/Free Paper UI System/3 Source/Paper UI Pack/Plain/::1745767129
 ::res://Assets/ui/Humble Gift - v1.3/::1745767129
 ::res://Assets/ui/Humble Gift - v1.3/Aseprite/::1745767129
-::res://Assets/ui/Humble Gift - v1.3/PNG/::1745767129
+::res://Assets/ui/Humble Gift - v1.3/PNG/::1745767245
 SpriteSheet.png::CompressedTexture2D::4159231184421077699::1745767129::1745767245::1::::<><><>0<>0<>048b871cf245a8bb42c904109ee9da25<>res://.godot/imported/SpriteSheet.png-55c24b5b8e88018cc83ad148d15ab3a8.ctex::
-::res://Assets/ui/pngs/::1745767129
+::res://Assets/ui/pngs/::1745767245
 closed.png::CompressedTexture2D::218221111239957772::1745767129::1745767244::1::::<><><>0<>0<>a0001757df6c45bd1e46cdaffd62f74f<>res://.godot/imported/closed.png-3645763ac8388f715bf29def49018d33.ctex::
 medium.png::CompressedTexture2D::5784429110243088632::1745767129::1745767245::1::::<><><>0<>0<>95a52b3f26d569bc895344294e305509<>res://.godot/imported/medium.png-5175aeeff2413c6a66c1fb0e8a784a7e.ctex::
 square.png::CompressedTexture2D::5309118114239228753::1745767129::1745767244::1::::<><><>0<>0<>a8b57140db2ee7d130f6432bb15489a3<>res://.godot/imported/square.png-b42532f0f61f27c9182f1b8eec29844e.ctex::
 tall.png::CompressedTexture2D::1955658283599495558::1745767129::1745767245::1::::<><><>0<>0<>6145c02622aad2b1c7d1c74fb1383bd3<>res://.godot/imported/tall.png-5e1a10f2b1e2bea8cb16b2e328e5d21c.ctex::
 wide.png::CompressedTexture2D::4756548686317942901::1745767129::1745767244::1::::<><><>0<>0<>cf35f68442d23a747d0ae24ada94e05c<>res://.godot/imported/wide.png-0912c7504df0d3e3f52149af9c18a940.ctex::
-::res://Assets/ui/pngs/parts/::1745767129
+::res://Assets/ui/pngs/parts/::1745767245
 flourish.png::CompressedTexture2D::6223596820957546540::1745767129::1745767245::1::::<><><>0<>0<>735e61382b4768ec8c4a60c3feea407a<>res://.godot/imported/flourish.png-2c30bf0d5eb7f67b395a026f2838f4e9.ctex::
 lower.png::CompressedTexture2D::3351473919045295316::1745767129::1745767245::1::::<><><>0<>0<>236f2efbf909365e9d0d830aefb8bcfc<>res://.godot/imported/lower.png-8d9c1b2fc404d1d7a7082adc184bd055.ctex::
 paper.png::CompressedTexture2D::6964865278650882734::1745767129::1745767245::1::::<><><>0<>0<>3346e75424cdfa09a92a02b995782d13<>res://.godot/imported/paper.png-97560622f0d359813bbb59380ab4e956.ctex::
 ribbon.png::CompressedTexture2D::3833558906143043440::1745767129::1745767244::1::::<><><>0<>0<>c8cf4d0cc18bb66a8f0607ff58b28cb1<>res://.godot/imported/ribbon.png-46949d218d00d29e078b4e662ccd41f9.ctex::
 upper.png::CompressedTexture2D::469849787493421122::1745767129::1745767244::1::::<><><>0<>0<>6142940f2daf4ddf6d3e0eab4ac80a09<>res://.godot/imported/upper.png-ab46f93a89a2964051bf19f556cf63ea.ctex::
-::res://Assets/VFX/::1745764041
+::res://Assets/VFX/::1745768118
+Water Vortex Splash-Sheet.png::CompressedTexture2D::3431759869116620204::1745768118::1745768119::1::::<><><>0<>0<>13b9edd608ca020055e83fc7b2e11aa1<>res://.godot/imported/Water Vortex Splash-Sheet.png-31a9809f400380a778dd3d278305e3c1.ctex::
 ::res://Assets/VFX/Pixel UI pack 3/::1745764074
 00.png::CompressedTexture2D::7675910466098152417::1745764041::1745764074::1::::<><><>0<>0<>c863b08f13ea7a599663664fc337ac07<>res://.godot/imported/00.png-af7b12f366ac59103d712a7594d388c7.ctex::
 01.png::CompressedTexture2D::6889803931735838063::1745764041::1745764074::1::::<><><>0<>0<>f40ef3c9f38c42491eadeb6b2b421f11<>res://.godot/imported/01.png-d7d00a7709e82cc5c29604bc2768889e.ctex::
@@ -2598,19 +2599,19 @@ upper.png::CompressedTexture2D::469849787493421122::1745767129::1745767244::1:::
 All.png::CompressedTexture2D::2529403139457544605::1745764041::1745764074::1::::<><><>0<>0<>c145dd740d03a58d27c32d8be8023503<>res://.godot/imported/All.png-7003327be6e05b4b18e86549f6424e73.ctex::
 ::res://Scenes/::1745764042
 animated_sprite_2d.tscn::PackedScene::-1::1745718799::0::1::::<><><>0<>0<><>::
-::res://Scenes/Enemies/::1745767074
-monster_ocean_body.tscn::PackedScene::2042037410945126288::1745767074::0::1::::<><><>0<>0<><>::uid://bbl8o8f2phqdu::::res://Scripts/monster_ocean.gd<>uid://tb1u1w8fstvu::::res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/basic magical animations/water elemental/WaterElemental.png<>uid://dhgfhhqgc6oqj::::res://Scenes/Enemies/aim_anim.tres
-aim_anim.tres::SpriteFrames::7663286701247897145::1745766219::0::1::::<><><>0<>0<><>::uid://b1xj6fcdnm0dw::::res://Assets/VFX/Pixel UI pack 3/07.png
-::res://Scenes/Intro/::1745767129
+::res://Scenes/Enemies/::1745767895
+monster_ocean_body.tscn::PackedScene::2042037410945126288::1745767811::0::1::::<><><>0<>0<><>::uid://bbl8o8f2phqdu::::res://Scripts/monster_ocean.gd<>uid://tb1u1w8fstvu::::res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/basic magical animations/water elemental/WaterElemental.png<>uid://dhgfhhqgc6oqj::::res://Scenes/Enemies/aim_anim.tres
+aim_anim.tres::SpriteFrames::7663286701247897145::1745767895::0::1::::<><><>0<>0<><>::uid://b1xj6fcdnm0dw::::res://Assets/VFX/Pixel UI pack 3/07.png
+::res://Scenes/Intro/::1745767895
 intro_scene.tscn::PackedScene/PackedScene::6426512783602554578::1745718739::0::1::::<><><>0<>0<><>::
 mom.tscn::PackedScene::-1::1745721999::0::1::::<><><>0<>0<><>::
-MotherIntro.tscn::PackedScene::-1::1745767129::0::1::::<><><>0<>0<><>::
+MotherIntro.tscn::PackedScene::-1::1745767223::0::1::::<><><>0<>0<><>::
 mother_intro.gd::GDScript::-1::1745767129::0::1::::<>Node2D<><>0<>0<><>::
-ProtagProto.tscn::PackedScene::2156937109405694655::1745767074::0::1::::<><><>0<>0<><>::uid://bikh0k4c17n8l::::res://Assets/characters/ChibiChars/char_a_p1/char_a_p1_0bas_humn_v01.png<>uid://b084gmc41nab3::::res://Scenes/Intro/protag_proto.gd<>uid://dhgfhhqgc6oqj::::res://Scenes/Enemies/aim_anim.tres
+ProtagProto.tscn::PackedScene::2156937109405694655::1745767895::0::1::::<><><>0<>0<><>::uid://bikh0k4c17n8l::::res://Assets/characters/ChibiChars/char_a_p1/char_a_p1_0bas_humn_v01.png<>uid://b084gmc41nab3::::res://Scenes/Intro/protag_proto.gd<>uid://dhgfhhqgc6oqj::::res://Scenes/Enemies/aim_anim.tres
 protag_proto.gd::GDScript::4211038382804233702::1745766195::0::1::::<>CharacterBody2D<><>0<>0<><>::
-story2.tscn::PackedScene::-1::1745767129::0::1::::<><><>0<>0<><>::
+story2.tscn::PackedScene::-1::1745767223::0::1::::<><><>0<>0<><>::
 story.gd::GDScript::-1::1745767129::0::1::::<>Node2D<><>0<>0<><>::
-story.tscn::PackedScene::-1::1745767129::0::1::::<><><>0<>0<><>::
+story.tscn::PackedScene::-1::1745767223::0::1::::<><><>0<>0<><>::
 story_2.gd::GDScript::-1::1745767129::0::1::::<>Node2D<><>0<>0<><>::
 ::res://Scenes/Levels/::1745700803
 hell_level.tscn::PackedScene/PackedScene::4990648193763287630::1745700803::0::1::::<><><>0<>0<><>::
@@ -2618,18 +2619,18 @@ main_menu.tscn::PackedScene/PackedScene::4251127047504976402::1745647117::0::1::
 ocean_level.tscn::PackedScene/PackedScene::9207127393716184524::1745647117::0::1::::<><><>0<>0<><>::
 space_level.tscn::PackedScene/PackedScene::4794065697226833428::1745646273::0::1::::<><><>0<>0<><>::
 space_loop_level.tscn::PackedScene/PackedScene::1623784784669217779::1745646273::0::1::::<><><>0<>0<><>::
-::res://Scenes/Levels/Ocean_Level/::1745767074
+::res://Scenes/Levels/Ocean_Level/::1745767811
 Ocean_Corner_Hallway2.tscn::PackedScene::152625705980405187::1745722941::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 Ocean_Corner_Hallway.tscn::PackedScene::6349700190117177175::1745722937::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 Ocean_Hallway_Horiz.tscn::PackedScene::1064825597420829023::1745722941::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
-ocean_level.tscn::PackedScene::9207127393716184524::1745767074::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres<>uid://c21fosgn6debf::::res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn<>uid://pf2r0plrqjed::::res://Scenes/Levels/Ocean_Level/Ocean_Hallway_Horiz.tscn<>uid://4yqmkit54c0n::::res://Scenes/Levels/Ocean_Level/ocean_level_V_common_room.tscn<>uid://cwp3vtntsl3gd::::res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway.tscn<>uid://bs1a3hn74mvlo::::res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn<>uid://dsbffyfxpg8cc::::res://Scenes/Levels/Ocean_Level/Ocean_Vertical_Hallway.tscn<>uid://d0wtkkddpcrqh::::res://Scenes/Levels/Ocean_Level/ocean_level_H_common_room.tscn<>uid://cf6yt4475l3p::::res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway2.tscn<>uid://5y3o6s17s4hn::::res://Scenes/Intro/ProtagProto.tscn<>uid://4dgb73jod1l1::::res://Scenes/Enemies/monster_ocean_body.tscn
+ocean_level.tscn::PackedScene::9207127393716184524::1745767811::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres<>uid://c21fosgn6debf::::res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn<>uid://pf2r0plrqjed::::res://Scenes/Levels/Ocean_Level/Ocean_Hallway_Horiz.tscn<>uid://4yqmkit54c0n::::res://Scenes/Levels/Ocean_Level/ocean_level_V_common_room.tscn<>uid://cwp3vtntsl3gd::::res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway.tscn<>uid://bs1a3hn74mvlo::::res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn<>uid://dsbffyfxpg8cc::::res://Scenes/Levels/Ocean_Level/Ocean_Vertical_Hallway.tscn<>uid://d0wtkkddpcrqh::::res://Scenes/Levels/Ocean_Level/ocean_level_H_common_room.tscn<>uid://cf6yt4475l3p::::res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway2.tscn<>uid://5y3o6s17s4hn::::res://Scenes/Intro/ProtagProto.tscn<>uid://4dgb73jod1l1::::res://Scenes/Enemies/monster_ocean_body.tscn
 ocean_level_H_common_room.tscn::PackedScene::8960571463445404427::1745722941::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 ocean_level_start_room.tscn::PackedScene::6721943508618470111::1745722937::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres<>uid://bmd4cxih6ydo8::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Premade_Scene/Premade.png
-ocean_level_V_common_room.tscn::PackedScene::2086014971507938831::1745767074::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
-Ocean_small_room.tscn::PackedScene::3703544082251667272::1745767074::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+ocean_level_V_common_room.tscn::PackedScene::2086014971507938831::1745767811::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+Ocean_small_room.tscn::PackedScene::3703544082251667272::1745767811::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
 Ocean_Vertical_Hallway.tscn::PackedScene::8425039397601062026::1745722941::0::1::::<><><>0<>0<><>::uid://b0ponoho84g1::::res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
-::res://Scenes/Menu/::1745767129
-CreatorIntro.tscn::PackedScene::-1::1745767129::0::1::::<><><>0<>0<><>::
+::res://Scenes/Menu/::1745767223
+CreatorIntro.tscn::PackedScene::-1::1745767223::0::1::::<><><>0<>0<><>::
 intro_menu.tscn::PackedScene/PackedScene::6647959293806711886::1745767129::0::1::::<><><>0<>0<><>::uid://b1s47w40trpld::::res://Assets/backgrounds/Space Background.png
 settings.tscn::PackedScene::-1::1745767129::0::1::::<><><>0<>0<><>::
 shaker.gd::GDScript::-1::1745767129::0::1::::<>Node2D<><>0<>0<><>::
@@ -2637,8 +2638,8 @@ shaker.gd::GDScript::-1::1745767129::0::1::::<>Node2D<><>0<>0<><>::
 intro_menu.gd::GDScript::3002947188997187428::1745767129::0::1::::<>Control<><>0<>0<><>::
 node_2d.gd::GDScript::-1::1745767129::0::1::::<>Node2D<><>0<>0<><>::
 settings.gd::GDScript::6194749726615730607::1745764042::0::1::::<>Control<><>0<>0<><>::
-::res://Scripts/::1745767068
+::res://Scripts/::1745767712
 game_manager.gd::GDScript/GDScript::7459846175697557647::1745646273::0::1::::<>Node<><>0<>0<><>::
 level_manager.gd::GDScript/GDScript::1467223219871133758::1745646273::0::1::::<>Node<><>0<>0<><>::
 menu.gd::GDScript/GDScript::623880120094977731::1745646273::0::1::::<>Node<><>0<>0<><>::
-monster_ocean.gd::GDScript::2481348086743424898::1745767068::0::1::::<>CharacterBody2D<><>0<>0<><>::
+monster_ocean.gd::GDScript::2481348086743424898::1745767712::0::1::::<>CharacterBody2D<><>0<>0<><>::

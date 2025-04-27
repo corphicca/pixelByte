@@ -22,4 +22,9 @@ func _on_timer_timeout() -> void:
 func _on_attack_timeout() -> void:
 	vfx.hide()
 	Attck_time.stop()
+	vis.show()
+	vis.play("water")
+	while vis.is_playing():
+		continue
+	vis.hide()
 	timer.start()

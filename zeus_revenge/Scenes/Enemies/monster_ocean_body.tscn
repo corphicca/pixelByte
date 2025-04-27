@@ -85,10 +85,12 @@ wait_time = 6.0
 
 [node name="VFX" type="AnimatedSprite2D" parent="."]
 visible = false
+z_index = 5
 scale = Vector2(0.4, 0.4)
 sprite_frames = ExtResource("3_3g2ri")
-animation = &"Aim"
-frame_progress = 0.596891
+animation = &"water"
+frame = 23
+frame_progress = 1.0
 
 [node name="attack" type="Timer" parent="."]
 wait_time = 4.0

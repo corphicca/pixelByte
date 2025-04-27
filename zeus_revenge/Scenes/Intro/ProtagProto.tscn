@@ -280,4 +280,4 @@ visible = false
 z_index = 5
 scale = Vector2(0.75, 0.75)
 sprite_frames = ExtResource("3_rhdep")
-animation = &"Aim"
+animation = &"water"
