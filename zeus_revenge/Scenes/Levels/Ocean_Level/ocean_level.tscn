@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=3 uid="uid://d4gabpx6t1msy"]
+[gd_scene load_steps=13 format=3 uid="uid://d4gabpx6t1msy"]
 
 [ext_resource type="TileSet" uid="uid://b0ponoho84g1" path="res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres" id="1_sx0qm"]
 [ext_resource type="PackedScene" uid="uid://c21fosgn6debf" path="res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn" id="3_ig01x"]
@@ -11,6 +11,9 @@
 [ext_resource type="PackedScene" uid="uid://cf6yt4475l3p" path="res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway2.tscn" id="9_pvtbk"]
 [ext_resource type="PackedScene" uid="uid://5y3o6s17s4hn" path="res://Scenes/Intro/ProtagProto.tscn" id="10_5ccin"]
 [ext_resource type="PackedScene" uid="uid://4dgb73jod1l1" path="res://Scenes/Enemies/monster_ocean_body.tscn" id="11_11xuu"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_11xuu"]
+size = Vector2(192, 192)
 
 [node name="OceanLevel" type="Node2D"]
 
@@ -118,3 +121,15 @@ z_index = 1
 
 [node name="Monster_ocean_Body" parent="Enemies" instance=ExtResource("11_11xuu")]
 position = Vector2(-38, 64)
+
+[node name="Room_Areas" type="Node" parent="."]
+
+[node name="Room_1" type="Area2D" parent="Room_Areas"]
+z_index = 2
+position = Vector2(0, 336)
+collision_layer = 2
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Room_Areas/Room_1"]
+z_index = 2
+shape = SubResource("RectangleShape2D_11xuu")
