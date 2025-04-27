@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-res://Scenes/Levels/Ocean_Level/ocean_level.tscn
-res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
-res://Scenes/Enemies/aim_anim.tres
-res://Scripts/monster_ocean.gd
-res://Scenes/Levels/Ocean_Level/ocean_level_V_common_room.tscn
-res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn
-res://Scenes/Enemies/monster_ocean_body.tscn
-res://Scenes/Intro/ProtagProto.tscn
-res://Scenes/Intro/protag_proto.gd
-=======
 res://Scenes/Intro/MotherIntro.tscn
 res://Scenes/Intro/mother_intro.gd
 res://Scenes/Enemies/monster_ocean_body.tscn
@@ -21,4 +10,3 @@ res://Scenes/Intro/area_2d.gd
 res://Scenes/Intro/mom.tscn
 res://Scenes/Intro/intro_scene.tscn
 res://Scripts/monster_ocean.gd
->>>>>>> dba08d30799f782a5da09175cbc79969e6d4089a
