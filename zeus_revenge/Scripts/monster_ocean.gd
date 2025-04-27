@@ -26,5 +26,18 @@ func _on_timer_timeout() -> void:
 func _on_attack_timeout() -> void:
 	vfx.hide()
 	Attck_time.stop()
+	vis.show()
+	vis.global_position = character.global_position
+	vis.play("water")
+	vis.animation_finished
 	timer.start()
+<<<<<<< HEAD
+
+func _on_vfx_animation_finished() -> void:
+	vis.hide()
+
+func _on_kill_zone_body_entered(body: Node2D) -> void:
+	print("Player damaged")
+=======
 >>>>>>> 0a93c55856157b0920fb3afa036ed314d77fbb7b
+>>>>>>> dcf9d54980e59880658544f432f913d07276d734
