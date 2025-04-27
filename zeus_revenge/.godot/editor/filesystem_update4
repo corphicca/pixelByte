@@ -1,6 +1,26 @@
+<<<<<<< HEAD
 res://Scenes/Menu/intro_menu.tscn
+res://Scenes/Intro/intro_scene.tscn
 res://Scenes/Menu/scriptcs_menu/intro_menu.gd
+<<<<<<< HEAD
 res://settings.gd
 res://Scenes/Menu/settings.tscn
 res://Scenes/Menu/FadeTransition.tscn
 res://Scenes/Menu/intro_menu.gd
+=======
+res://Assets/characters/ChibiChars/readme.txt
+res://Assets/characters/ChibiChars/this is only a demo.txt
+res://Scenes/Intro/ProtagProto.tscn
+res://Scenes/Intro/animated_sprite_2d.gd
+res://Scenes/Intro/protag_proto.gd
+=======
+res://Scenes/Levels/Ocean_Level/ocean_level_start_room.tscn
+res://Assets/Env_Assets/Minifantasy_Crypt_Of_The_Forgotten_v1.0/Minifantasy_Crypt_Of_The_Forgotten_Assets/Ocean_TileSet_some_Changes.tres
+res://Scenes/Levels/Ocean_Level/Ocean_Hallway.tscn
+res://Scenes/Levels/Ocean_Level/small_room.tscn
+res://Scenes/Levels/Ocean_Level/ocean_level.tscn
+res://Scenes/Levels/Ocean_Level/Ocean_small_room.tscn
+res://Scenes/Levels/Ocean_Level/ocean_level_common_room.tscn
+res://Scenes/Levels/Ocean_Level/Ocean_Corner_Hallway.tscn
+>>>>>>> 0a40b8155dee1cee93027aa9e3f7e4c665d7316a
+>>>>>>> 81121c0715a8df7512da14a111c36ab1c73409f5

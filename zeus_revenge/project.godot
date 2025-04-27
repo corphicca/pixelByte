@@ -24,7 +24,3 @@ window/stretch/mode="viewport"
 [dotnet]
 
 project/assembly_name="Zeus_Revenge"
-
-[rendering]
-
-textures/canvas_textures/default_texture_filter=0
