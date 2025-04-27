@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 [gd_scene load_steps=37 format=3 uid="uid://5y3o6s17s4hn"]
 
 [ext_resource type="Texture2D" uid="uid://bikh0k4c17n8l" path="res://Assets/characters/ChibiChars/char_a_p1/char_a_p1_0bas_humn_v01.png" id="1_4x7tj"]
 [ext_resource type="Script" uid="uid://b084gmc41nab3" path="res://Scenes/Intro/protag_proto.gd" id="1_uwwjx"]
 [ext_resource type="Script" uid="uid://dm84phwfa71fq" path="res://Scenes/Intro/area_2d.gd" id="3_rhdep"]
+=======
+[gd_scene load_steps=36 format=3 uid="uid://5y3o6s17s4hn"]
+
+[ext_resource type="Texture2D" uid="uid://bikh0k4c17n8l" path="res://Assets/characters/ChibiChars/char_a_p1/char_a_p1_0bas_humn_v01.png" id="1_4x7tj"]
+[ext_resource type="Script" uid="uid://b084gmc41nab3" path="res://Scenes/Intro/protag_proto.gd" id="1_uwwjx"]
+[ext_resource type="SpriteFrames" uid="uid://dhgfhhqgc6oqj" path="res://Scenes/Enemies/aim_anim.tres" id="3_rhdep"]
+>>>>>>> 0a93c55856157b0920fb3afa036ed314d77fbb7b
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_lsah5"]
 atlas = ExtResource("1_4x7tj")
@@ -278,9 +286,18 @@ debug_color = Color(1, 0, 0, 0.419608)
 [node name="Camera2D" type="Camera2D" parent="."]
 zoom = Vector2(4, 4)
 
+<<<<<<< HEAD
 [node name="Area2D" type="Area2D" parent="."]
 script = ExtResource("3_rhdep")
 
 [node name="HurtBox" type="CollisionShape2D" parent="Area2D"]
 position = Vector2(0, -2)
 shape = SubResource("CapsuleShape2D_2yq2t")
+=======
+[node name="AnimatedSprite2D2" type="AnimatedSprite2D" parent="."]
+visible = false
+z_index = 5
+scale = Vector2(0.75, 0.75)
+sprite_frames = ExtResource("3_rhdep")
+animation = &"Aim"
+>>>>>>> 0a93c55856157b0920fb3afa036ed314d77fbb7b
