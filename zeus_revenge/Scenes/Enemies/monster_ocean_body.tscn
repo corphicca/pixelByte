@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=3 uid="uid://4dgb73jod1l1"]
+[gd_scene load_steps=13 format=3 uid="uid://4dgb73jod1l1"]
 
 [ext_resource type="Script" uid="uid://bbl8o8f2phqdu" path="res://Scripts/monster_ocean.gd" id="1_3g2ri"]
 [ext_resource type="Texture2D" uid="uid://tb1u1w8fstvu" path="res://Assets/characters/Basic Asset Pack (2)/Basic Asset Pack/basic magical animations/water elemental/WaterElemental.png" id="2_nl2u1"]
@@ -63,6 +63,9 @@ animations = [{
 radius = 6.0
 height = 16.0
 
+[sub_resource type="CircleShape2D" id="CircleShape2D_3g2ri"]
+radius = 20.0
+
 [node name="Monster_ocean_Body" type="CharacterBody2D"]
 z_index = 2
 collision_layer = 2
@@ -92,8 +95,17 @@ animation = &"water"
 frame = 23
 frame_progress = 1.0
 
+[node name="killZone" type="Area2D" parent="VFX"]
+collision_layer = 2
+collision_mask = 2
+
+[node name="dmg_area" type="CollisionShape2D" parent="VFX/killZone"]
+shape = SubResource("CircleShape2D_3g2ri")
+
 [node name="attack" type="Timer" parent="."]
 wait_time = 4.0
 
 [connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
+[connection signal="animation_finished" from="VFX" to="." method="_on_vfx_animation_finished"]
+[connection signal="body_entered" from="VFX/killZone" to="." method="_on_kill_zone_body_entered"]
 [connection signal="timeout" from="attack" to="." method="_on_attack_timeout"]
